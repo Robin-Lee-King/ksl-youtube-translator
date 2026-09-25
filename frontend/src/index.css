@@ -1,0 +1,250 @@
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.min.css');
+
+html {
+  scroll-behavior: smooth;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background: #f7f8f8;
+  color: #171c19;
+  font-family: Pretendard, -apple-system, sans-serif;
+  font-size: 16px;
+  line-height: 1.55;
+  -webkit-font-smoothing: antialiased;
+}
+
+a {
+  color: #0b7a4d;
+  text-decoration: none;
+}
+a:hover {
+  color: #10b45f;
+}
+
+button,
+input,
+select {
+  font-family: inherit;
+}
+
+button {
+  -webkit-tap-highlight-color: transparent;
+}
+
+button:focus-visible,
+a:focus-visible,
+input:focus-visible,
+select:focus-visible {
+  outline: 2px solid #10b45f;
+  outline-offset: 2px;
+}
+
+input:focus,
+select:focus {
+  outline: none;
+}
+
+#root {
+  min-height: 100vh;
+}
+
+@keyframes gn-breathe {
+  0%,
+  100% {
+    transform: translateY(0) rotate(0.4deg);
+  }
+  25% {
+    transform: translateY(-1.5px) rotate(-0.2deg);
+  }
+  50% {
+    transform: translateY(-3px) rotate(0.4deg);
+  }
+  75% {
+    transform: translateY(-1px) rotate(-0.2deg);
+  }
+}
+@keyframes gn-float-a {
+  0%,
+  100% {
+    transform: translate(0, 0);
+  }
+  33% {
+    transform: translate(3px, -7px);
+  }
+  66% {
+    transform: translate(-2px, -3px);
+  }
+}
+@keyframes gn-float-b {
+  0%,
+  100% {
+    transform: translate(0, 0);
+  }
+  33% {
+    transform: translate(-3px, 5px);
+  }
+  66% {
+    transform: translate(2px, -5px);
+  }
+}
+@keyframes gn-float-c {
+  0%,
+  100% {
+    transform: translate(0, 0);
+  }
+  33% {
+    transform: translate(-4px, -4px);
+  }
+  66% {
+    transform: translate(3px, 4px);
+  }
+}
+@keyframes gn-enter {
+  from {
+    opacity: 0;
+    transform: translateY(8px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+@keyframes gn-spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
+@property --gn-donut {
+  syntax: "<number>";
+  inherits: false;
+  initial-value: 0;
+}
+@keyframes gn-donut-sweep {
+  from {
+    --gn-donut: 0;
+  }
+  to {
+    --gn-donut: 64.1;
+  }
+}
+@keyframes gn-bar {
+  0%,
+  100% {
+    transform: scaleY(1);
+  }
+  50% {
+    transform: scaleY(1.9);
+  }
+}
+@keyframes gn-spark {
+  0%,
+  8% {
+    transform: scale(1);
+  }
+  20% {
+    transform: scale(1.55);
+  }
+  36%,
+  100% {
+    transform: scale(1);
+  }
+}
+@keyframes gn-hand-shake {
+  0%,
+  100% {
+    transform: rotate(-7deg);
+  }
+  50% {
+    transform: rotate(7deg);
+  }
+}
+@keyframes gn-nudge {
+  0%,
+  100% {
+    transform: translateX(0);
+  }
+  50% {
+    transform: translateX(3px);
+  }
+}
+
+/* Hover utility classes */
+.hover-dark:hover {
+  color: #171c19 !important;
+}
+.hover-white:hover {
+  color: #fff !important;
+}
+.hover-green:hover {
+  color: #10b45f !important;
+}
+.hover-red:hover {
+  color: #ef4444 !important;
+}
+.hover-red-bg:hover {
+  background: #fef2f2 !important;
+}
+.hover-muted:hover {
+  background: #f0faf5 !important;
+}
+.hover-primary:hover {
+  background: #0b7a4d !important;
+}
+.hover-secondary:hover {
+  background: #f0faf5 !important;
+}
+.hover-outline:hover {
+  border-color: #10b45f !important;
+  color: #10b45f !important;
+}
+.hover-lift:hover {
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.06);
+}
+.hover-card:hover {
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+  border-color: #10b45f !important;
+}
+
+.gn-input:focus {
+  border-color: #10b45f !important;
+}
+
+@keyframes gn-word-in {
+  from {
+    transform: translateY(60%);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+@keyframes gn-word-out {
+  from {
+    transform: translateY(0);
+    opacity: 1;
+  }
+  to {
+    transform: translateY(-60%);
+    opacity: 0;
+  }
+}
+
+@keyframes gn-confetti {
+  0% {
+    transform: translateY(-24px) rotate(0deg);
+    opacity: 1;
+  }
+  80% {
+    opacity: 1;
+  }
+  100% {
+    transform: translateY(100vh) rotate(360deg);
+    opacity: 0;
+  }
+}

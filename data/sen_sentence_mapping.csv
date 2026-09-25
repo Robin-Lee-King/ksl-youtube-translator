@@ -1,0 +1,2001 @@
+﻿sen_id,sentence,word_count,view,status,source_file
+SEN0001,왼쪽,1,F,ok,NIA_SL_SEN0001_REAL02_F_morpheme.json
+SEN0002,왼쪽,1,F,ok,NIA_SL_SEN0002_REAL02_F_morpheme.json
+SEN0003,오른쪽,1,F,ok,NIA_SL_SEN0003_REAL02_F_morpheme.json
+SEN0004,오른쪽,1,F,ok,NIA_SL_SEN0004_REAL02_F_morpheme.json
+SEN0005,여기,1,F,ok,NIA_SL_SEN0005_REAL02_F_morpheme.json
+SEN0006,여기,1,F,ok,NIA_SL_SEN0006_REAL02_F_morpheme.json
+SEN0007,저기,1,F,ok,NIA_SL_SEN0007_REAL02_F_morpheme.json
+SEN0008,저기,1,F,ok,NIA_SL_SEN0008_REAL02_F_morpheme.json
+SEN0009,운전 천천히,2,F,ok,NIA_SL_SEN0009_REAL02_F_morpheme.json
+SEN0010,운전 천천히,2,F,ok,NIA_SL_SEN0010_REAL02_F_morpheme.json
+SEN0011,운전 빨리,2,F,ok,NIA_SL_SEN0011_REAL02_F_morpheme.json
+SEN0012,가다 빨리,2,F,ok,NIA_SL_SEN0012_REAL02_F_morpheme.json
+SEN0013,시간 급하다,2,F,ok,NIA_SL_SEN0013_REAL02_F_morpheme.json
+SEN0014,시간 급하다,2,F,ok,NIA_SL_SEN0014_REAL02_F_morpheme.json
+SEN0015,급하다,1,F,ok,NIA_SL_SEN0015_REAL02_F_morpheme.json
+SEN0016,급하다,1,F,ok,NIA_SL_SEN0016_REAL02_F_morpheme.json
+SEN0017,약속 늦다,2,F,ok,NIA_SL_SEN0017_REAL02_F_morpheme.json
+SEN0018,약속 늦다,2,F,ok,NIA_SL_SEN0018_REAL02_F_morpheme.json
+SEN0019,나,1,F,ok,NIA_SL_SEN0019_REAL02_F_morpheme.json
+SEN0020,나,1,F,ok,NIA_SL_SEN0020_REAL02_F_morpheme.json
+SEN0021,당신,1,F,ok,NIA_SL_SEN0021_REAL02_F_morpheme.json
+SEN0022,당신,1,F,ok,NIA_SL_SEN0022_REAL02_F_morpheme.json
+SEN0023,그남자 맞다,2,F,ok,NIA_SL_SEN0023_REAL02_F_morpheme.json
+SEN0024,그남자 맞다,2,F,ok,NIA_SL_SEN0024_REAL02_F_morpheme.json
+SEN0025,말하다 잘못,2,F,ok,NIA_SL_SEN0025_REAL02_F_morpheme.json
+SEN0026,말해주다 잘못,2,F,ok,NIA_SL_SEN0026_REAL02_F_morpheme.json
+SEN0027,위험,1,F,ok,NIA_SL_SEN0027_REAL02_F_morpheme.json
+SEN0028,위험,1,F,ok,NIA_SL_SEN0028_REAL02_F_morpheme.json
+SEN0029,항상,1,F,ok,NIA_SL_SEN0029_REAL02_F_morpheme.json
+SEN0030,항상,1,F,ok,NIA_SL_SEN0030_REAL02_F_morpheme.json
+SEN0031,원래,1,F,ok,NIA_SL_SEN0031_REAL02_F_morpheme.json
+SEN0032,원래,1,F,ok,NIA_SL_SEN0032_REAL02_F_morpheme.json
+SEN0033,오천원,1,F,ok,NIA_SL_SEN0033_REAL02_F_morpheme.json
+SEN0034,오천원,1,F,ok,NIA_SL_SEN0034_REAL02_F_morpheme.json
+SEN0035,만원,1,F,ok,NIA_SL_SEN0035_REAL02_F_morpheme.json
+SEN0036,만원,1,F,ok,NIA_SL_SEN0036_REAL02_F_morpheme.json
+SEN0037,택시 기본 오천원,3,F,ok,NIA_SL_SEN0037_REAL02_F_morpheme.json
+SEN0038,택시 기본 돈 얼마,4,F,ok,NIA_SL_SEN0038_REAL02_F_morpheme.json
+SEN0039,택시 기본 만원,3,F,ok,NIA_SL_SEN0039_REAL02_F_morpheme.json
+SEN0040,택시 기본 만원,3,F,ok,NIA_SL_SEN0040_REAL02_F_morpheme.json
+SEN0041,돈 얼마 맞다 확인,4,F,ok,NIA_SL_SEN0041_REAL02_F_morpheme.json
+SEN0042,돈 얼마 맞다 확인,4,F,ok,NIA_SL_SEN0042_REAL02_F_morpheme.json
+SEN0043,밤 12시 후 돈 추가,5,F,ok,NIA_SL_SEN0043_REAL02_F_morpheme.json
+SEN0044,밤 12시 후 돈 추가,5,F,ok,NIA_SL_SEN0044_REAL02_F_morpheme.json
+SEN0045,고속 돈주다,2,F,ok,NIA_SL_SEN0045_REAL02_F_morpheme.json
+SEN0046,고속 돈주다,2,F,ok,NIA_SL_SEN0046_REAL02_F_morpheme.json
+SEN0047,택시 돈 되다,3,F,ok,NIA_SL_SEN0047_REAL02_F_morpheme.json
+SEN0048,택시 돈 되다,3,F,ok,NIA_SL_SEN0048_REAL02_F_morpheme.json
+SEN0049,장애인복지카드,1,F,ok,NIA_SL_SEN0049_REAL02_F_morpheme.json
+SEN0050,장애인복지카드,1,F,ok,NIA_SL_SEN0050_REAL02_F_morpheme.json
+SEN0051,어린이교통카드,1,F,ok,NIA_SL_SEN0051_REAL02_F_morpheme.json
+SEN0052,어린이교통카드 되다,2,F,ok,NIA_SL_SEN0052_REAL02_F_morpheme.json
+SEN0053,카드 1회,2,F,ok,NIA_SL_SEN0053_REAL02_F_morpheme.json
+SEN0054,카드 1회 되다,3,F,ok,NIA_SL_SEN0054_REAL02_F_morpheme.json
+SEN0055,지금 카드 충전,3,F,ok,NIA_SL_SEN0055_REAL02_F_morpheme.json
+SEN0056,지금 카드 충전 가능,4,F,ok,NIA_SL_SEN0056_REAL02_F_morpheme.json
+SEN0057,돈받다,1,F,ok,NIA_SL_SEN0057_REAL02_F_morpheme.json
+SEN0058,돈받다 끝,2,F,ok,NIA_SL_SEN0058_REAL02_F_morpheme.json
+SEN0059,표 사다,2,F,ok,NIA_SL_SEN0059_REAL02_F_morpheme.json
+SEN0060,표 사다,2,F,ok,NIA_SL_SEN0060_REAL02_F_morpheme.json
+SEN0061,돈 계산 잘못하다,3,F,ok,NIA_SL_SEN0061_REAL02_F_morpheme.json
+SEN0062,돈 계산 틀리다,3,F,ok,NIA_SL_SEN0062_REAL02_F_morpheme.json
+SEN0063,지하철 시간 일정하다 위아래,4,F,ok,NIA_SL_SEN0063_REAL02_F_morpheme.json
+SEN0064,지하철 시간 딱,3,F,ok,NIA_SL_SEN0064_REAL02_F_morpheme.json
+SEN0065,사람 계산 잘못하다,3,F,ok,NIA_SL_SEN0065_REAL02_F_morpheme.json
+SEN0066,사람 계산 틀리다,3,F,ok,NIA_SL_SEN0066_REAL02_F_morpheme.json
+SEN0067,다시,1,F,ok,NIA_SL_SEN0067_REAL02_F_morpheme.json
+SEN0068,다시,1,F,ok,NIA_SL_SEN0068_REAL02_F_morpheme.json
+SEN0069,1호,1,F,ok,NIA_SL_SEN0069_REAL02_F_morpheme.json
+SEN0070,1호,1,F,ok,NIA_SL_SEN0070_REAL02_F_morpheme.json
+SEN0071,2호,1,F,ok,NIA_SL_SEN0071_REAL02_F_morpheme.json
+SEN0072,2호,1,F,ok,NIA_SL_SEN0072_REAL02_F_morpheme.json
+SEN0073,9호,1,F,ok,NIA_SL_SEN0073_REAL02_F_morpheme.json
+SEN0074,9호,1,F,ok,NIA_SL_SEN0074_REAL02_F_morpheme.json
+SEN0075,여기 명동 지하철,3,F,ok,NIA_SL_SEN0075_REAL02_F_morpheme.json
+SEN0076,여기 명동 지하철,3,F,ok,NIA_SL_SEN0076_REAL02_F_morpheme.json
+SEN0077,여기 신촌 지하철,3,F,ok,NIA_SL_SEN0077_REAL02_F_morpheme.json
+SEN0078,여기 신촌 지하철,3,F,ok,NIA_SL_SEN0078_REAL02_F_morpheme.json
+SEN0079,여기 서울 지하철,3,F,ok,NIA_SL_SEN0079_REAL02_F_morpheme.json
+SEN0080,여기 서울 지하철,3,F,ok,NIA_SL_SEN0080_REAL02_F_morpheme.json
+SEN0081,여기 송파 지하철 맞다,4,F,ok,NIA_SL_SEN0081_REAL02_F_morpheme.json
+SEN0082,여기 송파 지하철 맞다,4,F,ok,NIA_SL_SEN0082_REAL02_F_morpheme.json
+SEN0083,여기 1호 되다,3,F,ok,NIA_SL_SEN0083_REAL02_F_morpheme.json
+SEN0084,여기 1호 되다,3,F,ok,NIA_SL_SEN0084_REAL02_F_morpheme.json
+SEN0085,여기 기차 되다,3,F,ok,NIA_SL_SEN0085_REAL02_F_morpheme.json
+SEN0086,여기 기차 되다,3,F,ok,NIA_SL_SEN0086_REAL02_F_morpheme.json
+SEN0087,택시 여기 되다,3,F,ok,NIA_SL_SEN0087_REAL02_F_morpheme.json
+SEN0088,택시 여기 되다,3,F,ok,NIA_SL_SEN0088_REAL02_F_morpheme.json
+SEN0089,도착 곳 명동 지하철,4,F,ok,NIA_SL_SEN0089_REAL02_F_morpheme.json
+SEN0090,도착 곳 명동 지하철,4,F,ok,NIA_SL_SEN0090_REAL02_F_morpheme.json
+SEN0091,하나 다음 도착,3,F,ok,NIA_SL_SEN0091_REAL02_F_morpheme.json
+SEN0092,하나 다음 내리다,3,F,ok,NIA_SL_SEN0092_REAL02_F_morpheme.json
+SEN0093,도착 곳 국립박물관,3,F,ok,NIA_SL_SEN0093_REAL02_F_morpheme.json
+SEN0094,도착 곳 국립박물관,3,F,ok,NIA_SL_SEN0094_REAL02_F_morpheme.json
+SEN0095,지하철 빨리 오다오다,3,F,ok,NIA_SL_SEN0095_REAL02_F_morpheme.json
+SEN0096,지하철 빨리 오다오다,3,F,ok,NIA_SL_SEN0096_REAL02_F_morpheme.json
+SEN0097,지하철오다 중,2,F,ok,NIA_SL_SEN0097_REAL02_F_morpheme.json
+SEN0098,지하철오다 아직,2,F,ok,NIA_SL_SEN0098_REAL02_F_morpheme.json
+SEN0099,4사람,1,F,ok,NIA_SL_SEN0099_REAL02_F_morpheme.json
+SEN0100,4사람,1,F,ok,NIA_SL_SEN0100_REAL02_F_morpheme.json
+SEN0101,지하철 곳 번호 1,4,F,ok,NIA_SL_SEN0101_REAL02_F_morpheme.json
+SEN0102,지하철 곳 1 무엇,4,F,ok,NIA_SL_SEN0102_REAL02_F_morpheme.json
+SEN0103,지하철 곳 12,3,F,ok,NIA_SL_SEN0103_REAL02_F_morpheme.json
+SEN0104,지하철 곳 12 무엇,4,F,ok,NIA_SL_SEN0104_REAL02_F_morpheme.json
+SEN0105,1호 맞다,2,F,ok,NIA_SL_SEN0105_REAL02_F_morpheme.json
+SEN0106,1호 맞다,2,F,ok,NIA_SL_SEN0106_REAL02_F_morpheme.json
+SEN0107,지하철 곳 명동 맞다,4,F,ok,NIA_SL_SEN0107_REAL02_F_morpheme.json
+SEN0108,지하철 곳 명동 맞다,4,F,ok,NIA_SL_SEN0108_REAL02_F_morpheme.json
+SEN0109,가능,1,F,ok,NIA_SL_SEN0109_REAL02_F_morpheme.json
+SEN0110,가능,1,F,ok,NIA_SL_SEN0110_REAL02_F_morpheme.json
+SEN0111,안되다,1,F,ok,NIA_SL_SEN0111_REAL02_F_morpheme.json
+SEN0112,안되다,1,F,ok,NIA_SL_SEN0112_REAL02_F_morpheme.json
+SEN0113,타다,1,F,ok,NIA_SL_SEN0113_REAL02_F_morpheme.json
+SEN0114,타다,1,F,ok,NIA_SL_SEN0114_REAL02_F_morpheme.json
+SEN0115,1호 곳,2,F,ok,NIA_SL_SEN0115_REAL02_F_morpheme.json
+SEN0116,1호 곳 무엇,3,F,ok,NIA_SL_SEN0116_REAL02_F_morpheme.json
+SEN0117,신분당 곳,2,F,ok,NIA_SL_SEN0117_REAL02_F_morpheme.json
+SEN0118,신분당 곳 무엇,3,F,ok,NIA_SL_SEN0118_REAL02_F_morpheme.json
+SEN0119,내리다,1,F,ok,NIA_SL_SEN0119_REAL02_F_morpheme.json
+SEN0120,내리다,1,F,ok,NIA_SL_SEN0120_REAL02_F_morpheme.json
+SEN0121,1호 갈아타다 목적,3,F,ok,NIA_SL_SEN0121_REAL02_F_morpheme.json
+SEN0122,1호 갈아타다 목적 곳곳,4,F,ok,NIA_SL_SEN0122_REAL02_F_morpheme.json
+SEN0123,9호 갈아타다 목적,3,F,ok,NIA_SL_SEN0123_REAL02_F_morpheme.json
+SEN0124,9호 갈아타다 목적 곳곳,4,F,ok,NIA_SL_SEN0124_REAL02_F_morpheme.json
+SEN0125,도착,1,F,ok,NIA_SL_SEN0125_REAL02_F_morpheme.json
+SEN0126,도착,1,F,ok,NIA_SL_SEN0126_REAL02_F_morpheme.json
+SEN0127,시간 지연되다,2,F,ok,NIA_SL_SEN0127_REAL02_F_morpheme.json
+SEN0128,시간 지연되다,2,F,ok,NIA_SL_SEN0128_REAL02_F_morpheme.json
+SEN0129,시간 지연되다 5분,3,F,ok,NIA_SL_SEN0129_REAL02_F_morpheme.json
+SEN0130,지연되다 5분,2,F,ok,NIA_SL_SEN0130_REAL02_F_morpheme.json
+SEN0131,도착 아직,2,F,ok,NIA_SL_SEN0131_REAL02_F_morpheme.json
+SEN0132,도착 아직,2,F,ok,NIA_SL_SEN0132_REAL02_F_morpheme.json
+SEN0133,있다,1,F,ok,NIA_SL_SEN0133_REAL02_F_morpheme.json
+SEN0134,있다,1,F,ok,NIA_SL_SEN0134_REAL02_F_morpheme.json
+SEN0135,짐 있다,2,F,ok,NIA_SL_SEN0135_REAL02_F_morpheme.json
+SEN0136,짐 있다,2,F,ok,NIA_SL_SEN0136_REAL02_F_morpheme.json
+SEN0137,자전거 있다,2,F,ok,NIA_SL_SEN0137_REAL02_F_morpheme.json
+SEN0138,자전거 있다,2,F,ok,NIA_SL_SEN0138_REAL02_F_morpheme.json
+SEN0139,약 가깝다,2,F,ok,NIA_SL_SEN0139_REAL02_F_morpheme.json
+SEN0140,약 가깝다,2,F,ok,NIA_SL_SEN0140_REAL02_F_morpheme.json
+SEN0141,택시 곳 가깝다,3,F,ok,NIA_SL_SEN0141_REAL02_F_morpheme.json
+SEN0142,택시 곳 가깝다,3,F,ok,NIA_SL_SEN0142_REAL02_F_morpheme.json
+SEN0143,버스 곳 가깝다,3,F,ok,NIA_SL_SEN0143_REAL02_F_morpheme.json
+SEN0144,버스 곳 가깝다,3,F,ok,NIA_SL_SEN0144_REAL02_F_morpheme.json
+SEN0145,없다,1,F,ok,NIA_SL_SEN0145_REAL02_F_morpheme.json
+SEN0146,없다,1,F,ok,NIA_SL_SEN0146_REAL02_F_morpheme.json
+SEN0147,짐 없다,2,F,ok,NIA_SL_SEN0147_REAL02_F_morpheme.json
+SEN0148,짐 없다,2,F,ok,NIA_SL_SEN0148_REAL02_F_morpheme.json
+SEN0149,물건 없다,2,F,ok,NIA_SL_SEN0149_REAL02_F_morpheme.json
+SEN0150,물건 없다,2,F,ok,NIA_SL_SEN0150_REAL02_F_morpheme.json
+SEN0151,짐 차 트렁크열다 나르다,4,F,ok,NIA_SL_SEN0151_REAL02_F_morpheme.json
+SEN0152,짐 차 트렁크열다 나르다,4,F,ok,NIA_SL_SEN0152_REAL02_F_morpheme.json
+SEN0153,뒤 트렁크닫다,2,F,ok,NIA_SL_SEN0153_REAL02_F_morpheme.json
+SEN0154,뒤 트렁크닫다,2,F,ok,NIA_SL_SEN0154_REAL02_F_morpheme.json
+SEN0155,설명 천천히,2,F,ok,NIA_SL_SEN0155_REAL02_F_morpheme.json
+SEN0156,설명 다시,2,F,ok,NIA_SL_SEN0156_REAL02_F_morpheme.json
+SEN0157,설명 어렵다,2,F,ok,NIA_SL_SEN0157_REAL02_F_morpheme.json
+SEN0158,설명 어렵다,2,F,ok,NIA_SL_SEN0158_REAL02_F_morpheme.json
+SEN0159,설명 다시,2,F,ok,NIA_SL_SEN0159_REAL02_F_morpheme.json
+SEN0160,힘들다,1,F,ok,NIA_SL_SEN0160_REAL02_F_morpheme.json
+SEN0161,도착 알려주다,2,F,ok,NIA_SL_SEN0161_REAL02_F_morpheme.json
+SEN0162,도착 알려주다,2,F,ok,NIA_SL_SEN0162_REAL02_F_morpheme.json
+SEN0163,핸드폰 번호,2,F,ok,NIA_SL_SEN0163_REAL02_F_morpheme.json
+SEN0164,핸드폰 번호 필요,3,F,ok,NIA_SL_SEN0164_REAL02_F_morpheme.json
+SEN0165,지하철 계단 번호,3,F,ok,NIA_SL_SEN0165_REAL02_F_morpheme.json
+SEN0166,지하철 지하위 곳곳,3,F,ok,NIA_SL_SEN0166_REAL02_F_morpheme.json
+SEN0167,버스 번호,2,F,ok,NIA_SL_SEN0167_REAL02_F_morpheme.json
+SEN0168,버스 타다 곳곳,3,F,ok,NIA_SL_SEN0168_REAL02_F_morpheme.json
+SEN0169,신분증,1,F,ok,NIA_SL_SEN0169_REAL02_F_morpheme.json
+SEN0170,신분증,1,F,ok,NIA_SL_SEN0170_REAL02_F_morpheme.json
+SEN0171,표,1,F,ok,NIA_SL_SEN0171_REAL02_F_morpheme.json
+SEN0172,표,1,F,ok,NIA_SL_SEN0172_REAL02_F_morpheme.json
+SEN0173,잠깐 기다리다,2,F,ok,NIA_SL_SEN0173_REAL02_F_morpheme.json
+SEN0174,여기 기다리다,2,F,ok,NIA_SL_SEN0174_REAL02_F_morpheme.json
+SEN0175,여기 있다,2,F,ok,NIA_SL_SEN0175_REAL02_F_morpheme.json
+SEN0176,여기 있다,2,F,ok,NIA_SL_SEN0176_REAL02_F_morpheme.json
+SEN0177,곳 바꾸다,2,F,ok,NIA_SL_SEN0177_REAL02_F_morpheme.json
+SEN0178,곳 바꾸다,2,F,ok,NIA_SL_SEN0178_REAL02_F_morpheme.json
+SEN0179,한달 누적사용 내역 보다 원하다,5,F,ok,NIA_SL_SEN0179_REAL02_F_morpheme.json
+SEN0180,한달 누적사용 내역 보여주다,4,F,ok,NIA_SL_SEN0180_REAL02_F_morpheme.json
+SEN0181,도움받다,1,F,ok,NIA_SL_SEN0181_REAL02_F_morpheme.json
+SEN0182,도움받다 가능,2,F,ok,NIA_SL_SEN0182_REAL02_F_morpheme.json
+SEN0183,실수하다,1,F,ok,NIA_SL_SEN0183_REAL02_F_morpheme.json
+SEN0184,실수하다,1,F,ok,NIA_SL_SEN0184_REAL02_F_morpheme.json
+SEN0185,발생하다,1,F,ok,NIA_SL_SEN0185_REAL02_F_morpheme.json
+SEN0186,발생하다,1,F,ok,NIA_SL_SEN0186_REAL02_F_morpheme.json
+SEN0187,괜찮다,1,F,ok,NIA_SL_SEN0187_REAL02_F_morpheme.json
+SEN0188,괜찮다,1,F,ok,NIA_SL_SEN0188_REAL02_F_morpheme.json
+SEN0189,좋다,1,F,ok,NIA_SL_SEN0189_REAL02_F_morpheme.json
+SEN0190,좋다,1,F,ok,NIA_SL_SEN0190_REAL02_F_morpheme.json
+SEN0191,충분하다,1,F,ok,NIA_SL_SEN0191_REAL02_F_morpheme.json
+SEN0192,충분하다,1,F,ok,NIA_SL_SEN0192_REAL02_F_morpheme.json
+SEN0193,확인,1,F,ok,NIA_SL_SEN0193_REAL02_F_morpheme.json
+SEN0194,확인 가능,2,F,ok,NIA_SL_SEN0194_REAL02_F_morpheme.json
+SEN0195,모르다,1,F,ok,NIA_SL_SEN0195_REAL02_F_morpheme.json
+SEN0196,알다,1,F,ok,NIA_SL_SEN0196_REAL02_F_morpheme.json
+SEN0197,필요,1,F,ok,NIA_SL_SEN0197_REAL02_F_morpheme.json
+SEN0198,필요,1,F,ok,NIA_SL_SEN0198_REAL02_F_morpheme.json
+SEN0199,택시 문자보내다 나,3,F,ok,NIA_SL_SEN0199_REAL02_F_morpheme.json
+SEN0200,택시 문자받다,2,F,ok,NIA_SL_SEN0200_REAL02_F_morpheme.json
+SEN0201,역무원 부르다,2,F,ok,NIA_SL_SEN0201_REAL02_F_morpheme.json
+SEN0202,역무원 부르다,2,F,ok,NIA_SL_SEN0202_REAL02_F_morpheme.json
+SEN0203,경찰 부르다,2,F,ok,NIA_SL_SEN0203_REAL02_F_morpheme.json
+SEN0204,경찰 부르다,2,F,ok,NIA_SL_SEN0204_REAL02_F_morpheme.json
+SEN0205,마포대교 가다,2,F,ok,NIA_SL_SEN0205_REAL02_F_morpheme.json
+SEN0206,마포대교 가다,2,F,ok,NIA_SL_SEN0206_REAL02_F_morpheme.json
+SEN0207,잠실대교 가다,2,F,ok,NIA_SL_SEN0207_REAL02_F_morpheme.json
+SEN0208,잠실대교 가다,2,F,ok,NIA_SL_SEN0208_REAL02_F_morpheme.json
+SEN0209,빨리,1,F,ok,NIA_SL_SEN0209_REAL02_F_morpheme.json
+SEN0210,빨리,1,F,ok,NIA_SL_SEN0210_REAL02_F_morpheme.json
+SEN0211,약 보다 차내리다,3,F,ok,NIA_SL_SEN0211_REAL02_F_morpheme.json
+SEN0212,차내리다 곳곳,2,F,ok,NIA_SL_SEN0212_REAL02_F_morpheme.json
+SEN0213,어린이집 보다 차내리다,3,F,ok,NIA_SL_SEN0213_REAL02_F_morpheme.json
+SEN0214,어린이집 보다 차내리다,3,F,ok,NIA_SL_SEN0214_REAL02_F_morpheme.json
+SEN0215,학교 보다 차내리다,3,F,ok,NIA_SL_SEN0215_REAL02_F_morpheme.json
+SEN0216,학교 보다 차내리다,3,F,ok,NIA_SL_SEN0216_REAL02_F_morpheme.json
+SEN0217,사거리 건너다 신호등 차내리다,4,F,ok,NIA_SL_SEN0217_REAL02_F_morpheme.json
+SEN0218,사거리 건너다,2,F,ok,NIA_SL_SEN0218_REAL02_F_morpheme.json
+SEN0219,사거리 우회전,2,F,ok,NIA_SL_SEN0219_REAL02_F_morpheme.json
+SEN0220,사거리 우회전,2,F,ok,NIA_SL_SEN0220_REAL02_F_morpheme.json
+SEN0221,사거리 전 버스 곳 차내리다,5,F,ok,NIA_SL_SEN0221_REAL02_F_morpheme.json
+SEN0222,사거리 전 차내리다,3,F,ok,NIA_SL_SEN0222_REAL02_F_morpheme.json
+SEN0223,지하철 철로 물건 떨어지다,4,F,ok,NIA_SL_SEN0223_REAL02_F_morpheme.json
+SEN0224,신호등 다음 차내리다,3,F,ok,NIA_SL_SEN0224_REAL02_F_morpheme.json
+SEN0225,신호등 곳 차내리다,3,F,ok,NIA_SL_SEN0225_REAL02_F_morpheme.json
+SEN0226,신호등 곳 차내리다,3,F,ok,NIA_SL_SEN0226_REAL02_F_morpheme.json
+SEN0227,우회전 차내리다,2,F,ok,NIA_SL_SEN0227_REAL02_F_morpheme.json
+SEN0228,우회전 차내리다,2,F,ok,NIA_SL_SEN0228_REAL02_F_morpheme.json
+SEN0229,좌회전 차내리다,2,F,ok,NIA_SL_SEN0229_REAL02_F_morpheme.json
+SEN0230,좌회전 차내리다,2,F,ok,NIA_SL_SEN0230_REAL02_F_morpheme.json
+SEN0231,신호등 횡단보도 건너다,3,F,ok,NIA_SL_SEN0231_REAL02_F_morpheme.json
+SEN0232,신호등 횡단보도 여기,3,F,ok,NIA_SL_SEN0232_REAL02_F_morpheme.json
+SEN0233,지름길 차내리다,2,F,ok,NIA_SL_SEN0233_REAL02_F_morpheme.json
+SEN0234,지름길 차내리다,2,F,ok,NIA_SL_SEN0234_REAL02_F_morpheme.json
+SEN0235,지름길 내리다,2,F,ok,NIA_SL_SEN0235_REAL02_F_morpheme.json
+SEN0236,지름길 내리다,2,F,ok,NIA_SL_SEN0236_REAL02_F_morpheme.json
+SEN0237,롯데월드 가다 목적 지하철 번호,5,F,ok,NIA_SL_SEN0237_REAL02_F_morpheme.json
+SEN0238,서울역 가다 목적 지하철 번호,5,F,ok,NIA_SL_SEN0238_REAL02_F_morpheme.json
+SEN0239,국립박물관 가다 목적 지하철 번호,5,F,ok,NIA_SL_SEN0239_REAL02_F_morpheme.json
+SEN0240,강남 가다 목적 지하철 갈아타다 몇호,6,F,ok,NIA_SL_SEN0240_REAL02_F_morpheme.json
+SEN0241,서울역 가다 목적 지하철 갈아타다 몇호,6,F,ok,NIA_SL_SEN0241_REAL02_F_morpheme.json
+SEN0242,지하철 계단 곳 12,4,F,ok,NIA_SL_SEN0242_REAL02_F_morpheme.json
+SEN0243,지하철 계단 12 무엇,4,F,ok,NIA_SL_SEN0243_REAL02_F_morpheme.json
+SEN0244,종로 가다,2,F,ok,NIA_SL_SEN0244_REAL02_F_morpheme.json
+SEN0245,종로 가다 방법,3,F,ok,NIA_SL_SEN0245_REAL02_F_morpheme.json
+SEN0246,지하철 곳 9호,3,F,ok,NIA_SL_SEN0246_REAL02_F_morpheme.json
+SEN0247,9호 곳곳,2,F,ok,NIA_SL_SEN0247_REAL02_F_morpheme.json
+SEN0248,지하철 곳 8호,3,F,ok,NIA_SL_SEN0248_REAL02_F_morpheme.json
+SEN0249,8호 곳곳,2,F,ok,NIA_SL_SEN0249_REAL02_F_morpheme.json
+SEN0250,막차 시간,2,F,ok,NIA_SL_SEN0250_REAL02_F_morpheme.json
+SEN0251,첫차 시간,2,F,ok,NIA_SL_SEN0251_REAL02_F_morpheme.json
+SEN0252,다음 몇분,2,F,ok,NIA_SL_SEN0252_REAL02_F_morpheme.json
+SEN0253,오늘 하루 수고,3,F,ok,NIA_SL_SEN0253_REAL02_F_morpheme.json
+SEN0254,만나다 반갑다,2,F,ok,NIA_SL_SEN0254_REAL02_F_morpheme.json
+SEN0255,50분 정도,2,F,ok,NIA_SL_SEN0255_REAL02_F_morpheme.json
+SEN0256,도착 몇분,2,F,ok,NIA_SL_SEN0256_REAL02_F_morpheme.json
+SEN0257,대략 40분,2,F,ok,NIA_SL_SEN0257_REAL02_F_morpheme.json
+SEN0258,도착 40분,2,F,ok,NIA_SL_SEN0258_REAL02_F_morpheme.json
+SEN0259,계산 남다 돈받다,3,F,ok,NIA_SL_SEN0259_REAL02_F_morpheme.json
+SEN0260,계산 남다 돈주다,3,F,ok,NIA_SL_SEN0260_REAL02_F_morpheme.json
+SEN0261,계산 틀리다,2,F,ok,NIA_SL_SEN0261_REAL02_F_morpheme.json
+SEN0262,계산 잘못하다,2,F,ok,NIA_SL_SEN0262_REAL02_F_morpheme.json
+SEN0263,지금 내리다,2,F,ok,NIA_SL_SEN0263_REAL02_F_morpheme.json
+SEN0264,지금 내리다,2,F,ok,NIA_SL_SEN0264_REAL02_F_morpheme.json
+SEN0265,도착 가능 몇분,3,F,ok,NIA_SL_SEN0265_REAL02_F_morpheme.json
+SEN0266,용산역 접근 주차,3,F,ok,NIA_SL_SEN0266_REAL02_F_morpheme.json
+SEN0267,용산역 주차 되다,3,F,ok,NIA_SL_SEN0267_REAL02_F_morpheme.json
+SEN0268,어린이집 주차,2,F,ok,NIA_SL_SEN0268_REAL02_F_morpheme.json
+SEN0269,어린이집 주차 되다,3,F,ok,NIA_SL_SEN0269_REAL02_F_morpheme.json
+SEN0270,학교 주차,2,F,ok,NIA_SL_SEN0270_REAL02_F_morpheme.json
+SEN0271,학교 주차 되다,3,F,ok,NIA_SL_SEN0271_REAL02_F_morpheme.json
+SEN0272,다음 몇분,2,F,ok,NIA_SL_SEN0272_REAL02_F_morpheme.json
+SEN0273,지하철 갈아타다 몇호,3,F,ok,NIA_SL_SEN0273_REAL02_F_morpheme.json
+SEN0274,지하철 단말기터치 안되다,3,F,ok,NIA_SL_SEN0274_REAL02_F_morpheme.json
+SEN0275,지하철 단말기터치 안되다,3,F,ok,NIA_SL_SEN0275_REAL02_F_morpheme.json
+SEN0276,병원 주차,2,F,ok,NIA_SL_SEN0276_REAL02_F_morpheme.json
+SEN0277,병원 주차,2,F,ok,NIA_SL_SEN0277_REAL02_F_morpheme.json
+SEN0278,지하철 안 없다,3,F,ok,NIA_SL_SEN0278_REAL02_F_morpheme.json
+SEN0279,지하철 안 없다,3,F,ok,NIA_SL_SEN0279_REAL02_F_morpheme.json
+SEN0280,표지판 보다 찾다,3,F,ok,NIA_SL_SEN0280_REAL02_F_morpheme.json
+SEN0281,길 지도 보다 찾다 가능,5,F,ok,NIA_SL_SEN0281_REAL02_F_morpheme.json
+SEN0282,지하철 가방 위로올리다 까먹다,4,F,ok,NIA_SL_SEN0282_REAL02_F_morpheme.json
+SEN0283,지하철 반대 건너다 가다,4,F,ok,NIA_SL_SEN0283_REAL02_F_morpheme.json
+SEN0284,지하철 반대 건너다 방법,4,F,ok,NIA_SL_SEN0284_REAL02_F_morpheme.json
+SEN0285,아이 실종 찾다 도움받다,4,F,ok,NIA_SL_SEN0285_REAL02_F_morpheme.json
+SEN0286,아이 실종 찾다 도움받다 가능,5,F,ok,NIA_SL_SEN0286_REAL02_F_morpheme.json
+SEN0287,어지럽다 쓰러지다,2,F,ok,NIA_SL_SEN0287_REAL02_F_morpheme.json
+SEN0288,어지럽다 쓰러지다,2,F,ok,NIA_SL_SEN0288_REAL02_F_morpheme.json
+SEN0289,배 위쪼이다 아프다,3,F,ok,NIA_SL_SEN0289_REAL02_F_morpheme.json
+SEN0290,배 아프다,2,F,ok,NIA_SL_SEN0290_REAL02_F_morpheme.json
+SEN0291,지하철 철로 가방 떨어지다,4,F,ok,NIA_SL_SEN0291_REAL02_F_morpheme.json
+SEN0292,지하철 철로 물건 떨어지다,4,F,ok,NIA_SL_SEN0292_REAL02_F_morpheme.json
+SEN0293,지하철 철로 핸드폰 떨어지다,4,F,ok,NIA_SL_SEN0293_REAL02_F_morpheme.json
+SEN0294,지하철 문 틈 물건 떨어지다,5,F,ok,NIA_SL_SEN0294_REAL02_F_morpheme.json
+SEN0295,지하철 문 틈 핸드폰 떨어지다,5,F,ok,NIA_SL_SEN0295_REAL02_F_morpheme.json
+SEN0296,지하철 문 틈 이어폰 떨어지다,5,F,ok,NIA_SL_SEN0296_REAL02_F_morpheme.json
+SEN0297,연착 확인증 필요,3,F,ok,NIA_SL_SEN0297_REAL02_F_morpheme.json
+SEN0298,잠깐 기다리다,2,F,ok,NIA_SL_SEN0298_REAL02_F_morpheme.json
+SEN0299,잠깐 기다리다 괜찮다,3,F,ok,NIA_SL_SEN0299_REAL02_F_morpheme.json
+SEN0300,저기 쓰러지다,2,F,ok,NIA_SL_SEN0300_REAL02_F_morpheme.json
+SEN0301,저기 쓰러지다 119 전화걸다 가능,5,F,ok,NIA_SL_SEN0301_REAL02_F_morpheme.json
+SEN0302,아이 혼자 방황,3,F,ok,NIA_SL_SEN0302_REAL02_F_morpheme.json
+SEN0303,뒤 차따라가다,2,F,ok,NIA_SL_SEN0303_REAL02_F_morpheme.json
+SEN0304,차따라가다,1,F,ok,NIA_SL_SEN0304_REAL02_F_morpheme.json
+SEN0305,교통카드 충전,2,F,ok,NIA_SL_SEN0305_REAL02_F_morpheme.json
+SEN0306,교통카드 충전 되다,3,F,ok,NIA_SL_SEN0306_REAL02_F_morpheme.json
+SEN0307,지하철 정기권 사다 원하다,4,F,ok,NIA_SL_SEN0307_REAL02_F_morpheme.json
+SEN0308,지하철 정기권 사다 무엇 곳,5,F,ok,NIA_SL_SEN0308_REAL02_F_morpheme.json
+SEN0309,서울 지하철 정기권 사다 원하다,5,F,ok,NIA_SL_SEN0309_REAL02_F_morpheme.json
+SEN0310,서울 지하철 정기권 사다 무엇 곳,6,F,ok,NIA_SL_SEN0310_REAL02_F_morpheme.json
+SEN0311,미리 카드,2,F,ok,NIA_SL_SEN0311_REAL02_F_morpheme.json
+SEN0312,미리 카드,2,F,ok,NIA_SL_SEN0312_REAL02_F_morpheme.json
+SEN0313,은행 번호 받다,3,F,ok,NIA_SL_SEN0313_REAL02_F_morpheme.json
+SEN0314,은행 번호 필요,3,F,ok,NIA_SL_SEN0314_REAL02_F_morpheme.json
+SEN0315,고속 지하철 9호 갈아타다,4,F,ok,NIA_SL_SEN0315_REAL02_F_morpheme.json
+SEN0316,고속 지하철 9호 갈아타다 방법,5,F,ok,NIA_SL_SEN0316_REAL02_F_morpheme.json
+SEN0317,천호 지하철 8호 갈아타다,4,F,ok,NIA_SL_SEN0317_REAL02_F_morpheme.json
+SEN0318,천호 지하철 8호 갈아타다 방법,5,F,ok,NIA_SL_SEN0318_REAL02_F_morpheme.json
+SEN0319,약수 지하철 3호 갈아타다,4,F,ok,NIA_SL_SEN0319_REAL02_F_morpheme.json
+SEN0320,약수 지하철 3호 갈아타다 방법,5,F,ok,NIA_SL_SEN0320_REAL02_F_morpheme.json
+SEN0321,지하철 가다 빨리 방법,4,F,ok,NIA_SL_SEN0321_REAL02_F_morpheme.json
+SEN0322,물건 잃어버리다,2,F,ok,NIA_SL_SEN0322_REAL02_F_morpheme.json
+SEN0323,물건 잃어버리다 보관 곳곳,4,F,ok,NIA_SL_SEN0323_REAL02_F_morpheme.json
+SEN0324,지하철 곳 카페 있다,4,F,ok,NIA_SL_SEN0324_REAL02_F_morpheme.json
+SEN0325,지하철 곳 카페 있다,4,F,ok,NIA_SL_SEN0325_REAL02_F_morpheme.json
+SEN0326,지하철 곳 편의점 있다,4,F,ok,NIA_SL_SEN0326_REAL02_F_morpheme.json
+SEN0327,지하철 곳 편의점 있다,4,F,ok,NIA_SL_SEN0327_REAL02_F_morpheme.json
+SEN0328,지하철 곳 옷가게 있다,4,F,ok,NIA_SL_SEN0328_REAL02_F_morpheme.json
+SEN0329,지하철 곳 옷가게 있다,4,F,ok,NIA_SL_SEN0329_REAL02_F_morpheme.json
+SEN0330,돈 남다 충분,3,F,ok,NIA_SL_SEN0330_REAL02_F_morpheme.json
+SEN0331,교통카드 남다 돈 얼마,4,F,ok,NIA_SL_SEN0331_REAL02_F_morpheme.json
+SEN0332,막차 시간,2,F,ok,NIA_SL_SEN0332_REAL02_F_morpheme.json
+SEN0333,첫차 시간,2,F,ok,NIA_SL_SEN0333_REAL02_F_morpheme.json
+SEN0334,1호 첫차 시간,3,F,ok,NIA_SL_SEN0334_REAL02_F_morpheme.json
+SEN0335,분당 첫차 시간,3,F,ok,NIA_SL_SEN0335_REAL02_F_morpheme.json
+SEN0336,무엇,1,F,ok,NIA_SL_SEN0336_REAL02_F_morpheme.json
+SEN0337,이름 무엇,2,F,ok,NIA_SL_SEN0337_REAL02_F_morpheme.json
+SEN0338,곳곳,1,F,ok,NIA_SL_SEN0338_REAL02_F_morpheme.json
+SEN0339,누구,1,F,ok,NIA_SL_SEN0339_REAL02_F_morpheme.json
+SEN0340,어떻게,1,F,ok,NIA_SL_SEN0340_REAL02_F_morpheme.json
+SEN0341,왜,1,F,ok,NIA_SL_SEN0341_REAL02_F_morpheme.json
+SEN0342,지하철 몇호,2,F,ok,NIA_SL_SEN0342_REAL02_F_morpheme.json
+SEN0343,몇사람,1,F,ok,NIA_SL_SEN0343_REAL02_F_morpheme.json
+SEN0344,여기 몇호,2,F,ok,NIA_SL_SEN0344_REAL02_F_morpheme.json
+SEN0345,지하철 안 냄새,3,F,ok,NIA_SL_SEN0345_REAL02_F_morpheme.json
+SEN0346,지하철 안 에어컨 냄새,4,F,ok,NIA_SL_SEN0346_REAL02_F_morpheme.json
+SEN0347,불편하다 있다 신고,3,F,ok,NIA_SL_SEN0347_REAL02_F_morpheme.json
+SEN0348,불편하다 신고 곳,3,F,ok,NIA_SL_SEN0348_REAL02_F_morpheme.json
+SEN0349,핸드폰 잃어버리다 찾다,3,F,ok,NIA_SL_SEN0349_REAL02_F_morpheme.json
+SEN0350,고속 빨리,2,F,ok,NIA_SL_SEN0350_REAL02_F_morpheme.json
+SEN0351,고속 빨리,2,F,ok,NIA_SL_SEN0351_REAL02_F_morpheme.json
+SEN0352,시간 지연되다 몇분,3,F,ok,NIA_SL_SEN0352_REAL02_F_morpheme.json
+SEN0353,지하철 문 여기 번호,4,F,ok,NIA_SL_SEN0353_REAL02_F_morpheme.json
+SEN0354,안녕하세요,1,F,ok,NIA_SL_SEN0354_REAL02_F_morpheme.json
+SEN0355,감사합니다,1,F,ok,NIA_SL_SEN0355_REAL02_F_morpheme.json
+SEN0356,미안합니다,1,F,ok,NIA_SL_SEN0356_REAL02_F_morpheme.json
+SEN0357,조심,1,F,ok,NIA_SL_SEN0357_REAL02_F_morpheme.json
+SEN0358,여기 맞다,2,F,ok,NIA_SL_SEN0358_REAL02_F_morpheme.json
+SEN0359,여기 내리다 맞다,3,F,ok,NIA_SL_SEN0359_REAL02_F_morpheme.json
+SEN0360,갈아타다 곳 맞다,3,F,ok,NIA_SL_SEN0360_REAL02_F_morpheme.json
+SEN0361,타다 곳 맞다,3,F,ok,NIA_SL_SEN0361_REAL02_F_morpheme.json
+SEN0362,여기 내리다 맞다,3,F,ok,NIA_SL_SEN0362_REAL02_F_morpheme.json
+SEN0363,여기 갈아타다 맞다,3,F,ok,NIA_SL_SEN0363_REAL02_F_morpheme.json
+SEN0364,내리다 갈아타다 가능,3,F,ok,NIA_SL_SEN0364_REAL02_F_morpheme.json
+SEN0365,내리다 갈아타다 가능,3,F,ok,NIA_SL_SEN0365_REAL02_F_morpheme.json
+SEN0366,1호 맞다,2,F,ok,NIA_SL_SEN0366_REAL02_F_morpheme.json
+SEN0367,1호 맞다,2,F,ok,NIA_SL_SEN0367_REAL02_F_morpheme.json
+SEN0368,1호 갈아타다,2,F,ok,NIA_SL_SEN0368_REAL02_F_morpheme.json
+SEN0369,1호 갈아타다,2,F,ok,NIA_SL_SEN0369_REAL02_F_morpheme.json
+SEN0370,도착 10분,2,F,ok,NIA_SL_SEN0370_REAL02_F_morpheme.json
+SEN0371,도착 10분,2,F,ok,NIA_SL_SEN0371_REAL02_F_morpheme.json
+SEN0372,도착 1시,2,F,ok,NIA_SL_SEN0372_REAL02_F_morpheme.json
+SEN0373,도착 1시,2,F,ok,NIA_SL_SEN0373_REAL02_F_morpheme.json
+SEN0374,도착 10분 전,3,F,ok,NIA_SL_SEN0374_REAL02_F_morpheme.json
+SEN0375,도착 10분 전,3,F,ok,NIA_SL_SEN0375_REAL02_F_morpheme.json
+SEN0376,도착 1시간 전,3,F,ok,NIA_SL_SEN0376_REAL02_F_morpheme.json
+SEN0377,도착 1시간 전,3,F,ok,NIA_SL_SEN0377_REAL02_F_morpheme.json
+SEN0378,도착 3시,2,F,ok,NIA_SL_SEN0378_REAL02_F_morpheme.json
+SEN0379,도착 3시,2,F,ok,NIA_SL_SEN0379_REAL02_F_morpheme.json
+SEN0380,도착 시간 딱,3,F,ok,NIA_SL_SEN0380_REAL02_F_morpheme.json
+SEN0381,도착 시간 딱,3,F,ok,NIA_SL_SEN0381_REAL02_F_morpheme.json
+SEN0382,트렁크열다 물건 나르다,3,F,ok,NIA_SL_SEN0382_REAL02_F_morpheme.json
+SEN0383,트렁크열다 물건 나르다,3,F,ok,NIA_SL_SEN0383_REAL02_F_morpheme.json
+SEN0384,지하철 갈아타다 곳곳 도움받다,4,F,ok,NIA_SL_SEN0384_REAL02_F_morpheme.json
+SEN0385,지하철 곳 안내하다,3,F,ok,NIA_SL_SEN0385_REAL02_F_morpheme.json
+SEN0386,길 곳곳 도움받다,3,F,ok,NIA_SL_SEN0386_REAL02_F_morpheme.json
+SEN0387,길 안내하다 도와주다,3,F,ok,NIA_SL_SEN0387_REAL02_F_morpheme.json
+SEN0388,엘리베이터 안내하다 도움받다,3,F,ok,NIA_SL_SEN0388_REAL02_F_morpheme.json
+SEN0389,엘리베이터 안내하다 도와주다,3,F,ok,NIA_SL_SEN0389_REAL02_F_morpheme.json
+SEN0390,5호 갈아타다 안내하다 도움받다,4,F,ok,NIA_SL_SEN0390_REAL02_F_morpheme.json
+SEN0391,5호 갈아타다 안내하다 도와주다,4,F,ok,NIA_SL_SEN0391_REAL02_F_morpheme.json
+SEN0392,물건 잃어버리다 찾다 방법,4,F,ok,NIA_SL_SEN0392_REAL02_F_morpheme.json
+SEN0393,도착 알려받다,2,F,ok,NIA_SL_SEN0393_REAL02_F_morpheme.json
+SEN0394,도착 알려받다,2,F,ok,NIA_SL_SEN0394_REAL02_F_morpheme.json
+SEN0395,도착 시간 알려받다,3,F,ok,NIA_SL_SEN0395_REAL02_F_morpheme.json
+SEN0396,도착 시간 알려주다,3,F,ok,NIA_SL_SEN0396_REAL02_F_morpheme.json
+SEN0397,도착 곳 알려받다,3,F,ok,NIA_SL_SEN0397_REAL02_F_morpheme.json
+SEN0398,도착 곳 알려주다,3,F,ok,NIA_SL_SEN0398_REAL02_F_morpheme.json
+SEN0399,도착 알려주다 가능,3,F,ok,NIA_SL_SEN0399_REAL02_F_morpheme.json
+SEN0400,도착 알려받다 가능,3,F,ok,NIA_SL_SEN0400_REAL02_F_morpheme.json
+SEN0401,내리다 시간 알려받다,3,F,ok,NIA_SL_SEN0401_REAL02_F_morpheme.json
+SEN0402,내리다 시간 알려주다,3,F,ok,NIA_SL_SEN0402_REAL02_F_morpheme.json
+SEN0403,내리다 곳 알려받다,3,F,ok,NIA_SL_SEN0403_REAL02_F_morpheme.json
+SEN0404,내리다 곳 알려주다,3,F,ok,NIA_SL_SEN0404_REAL02_F_morpheme.json
+SEN0405,가다 빨리 방법,3,F,ok,NIA_SL_SEN0405_REAL02_F_morpheme.json
+SEN0406,택시 문자보내다 맞다,3,F,ok,NIA_SL_SEN0406_REAL02_F_morpheme.json
+SEN0407,택시 문자받다 맞다,3,F,ok,NIA_SL_SEN0407_REAL02_F_morpheme.json
+SEN0408,역무원 부르다 나,3,F,ok,NIA_SL_SEN0408_REAL02_F_morpheme.json
+SEN0409,지하철 철로 가방 떨어지다,4,F,ok,NIA_SL_SEN0409_REAL02_F_morpheme.json
+SEN0410,경찰 전화걸다,2,F,ok,NIA_SL_SEN0410_REAL02_F_morpheme.json
+SEN0411,경찰 전화걸다,2,F,ok,NIA_SL_SEN0411_REAL02_F_morpheme.json
+SEN0412,택시 카톡보내다,2,F,ok,NIA_SL_SEN0412_REAL02_F_morpheme.json
+SEN0413,택시 카톡보내다,2,F,ok,NIA_SL_SEN0413_REAL02_F_morpheme.json
+SEN0414,명동 가다,2,F,ok,NIA_SL_SEN0414_REAL02_F_morpheme.json
+SEN0415,명동 가다,2,F,ok,NIA_SL_SEN0415_REAL02_F_morpheme.json
+SEN0416,명동 내리다,2,F,ok,NIA_SL_SEN0416_REAL02_F_morpheme.json
+SEN0417,명동 내리다,2,F,ok,NIA_SL_SEN0417_REAL02_F_morpheme.json
+SEN0418,명동 차내리다,2,F,ok,NIA_SL_SEN0418_REAL02_F_morpheme.json
+SEN0419,명동 차내리다,2,F,ok,NIA_SL_SEN0419_REAL02_F_morpheme.json
+SEN0420,명동 도착,2,F,ok,NIA_SL_SEN0420_REAL02_F_morpheme.json
+SEN0421,명동 목적,2,F,ok,NIA_SL_SEN0421_REAL02_F_morpheme.json
+SEN0422,명동 곳,2,F,ok,NIA_SL_SEN0422_REAL02_F_morpheme.json
+SEN0423,명동 가다,2,F,ok,NIA_SL_SEN0423_REAL02_F_morpheme.json
+SEN0424,여기 맞다,2,F,ok,NIA_SL_SEN0424_REAL02_F_morpheme.json
+SEN0425,여기 맞다,2,F,ok,NIA_SL_SEN0425_REAL02_F_morpheme.json
+SEN0426,여기 내리다 맞다,3,F,ok,NIA_SL_SEN0426_REAL02_F_morpheme.json
+SEN0427,여기 내리다 맞다,3,F,ok,NIA_SL_SEN0427_REAL02_F_morpheme.json
+SEN0428,여기 차내리다 맞다,3,F,ok,NIA_SL_SEN0428_REAL02_F_morpheme.json
+SEN0429,여기 차내리다 맞다,3,F,ok,NIA_SL_SEN0429_REAL02_F_morpheme.json
+SEN0430,여기 내리다 맞다,3,F,ok,NIA_SL_SEN0430_REAL02_F_morpheme.json
+SEN0431,여기 내리다 맞다,3,F,ok,NIA_SL_SEN0431_REAL02_F_morpheme.json
+SEN0432,여기 차내리다 맞다,3,F,ok,NIA_SL_SEN0432_REAL02_F_morpheme.json
+SEN0433,여기 차내리다 맞다,3,F,ok,NIA_SL_SEN0433_REAL02_F_morpheme.json
+SEN0434,신호등 전 내리다,3,F,ok,NIA_SL_SEN0434_REAL02_F_morpheme.json
+SEN0435,신호등 전 내리다,3,F,ok,NIA_SL_SEN0435_REAL02_F_morpheme.json
+SEN0436,신호등 전 차내리다,3,F,ok,NIA_SL_SEN0436_REAL02_F_morpheme.json
+SEN0437,신호등 전 차내리다,3,F,ok,NIA_SL_SEN0437_REAL02_F_morpheme.json
+SEN0438,신호등 전 곳,3,F,ok,NIA_SL_SEN0438_REAL02_F_morpheme.json
+SEN0439,신호등 전 도착 내리다,4,F,ok,NIA_SL_SEN0439_REAL02_F_morpheme.json
+SEN0440,신호등 전 도착 내리다,4,F,ok,NIA_SL_SEN0440_REAL02_F_morpheme.json
+SEN0441,신호등 전 도착 차내리다,4,F,ok,NIA_SL_SEN0441_REAL02_F_morpheme.json
+SEN0442,신호등 전 도착 차내리다,4,F,ok,NIA_SL_SEN0442_REAL02_F_morpheme.json
+SEN0443,신호등 전 저기,3,F,ok,NIA_SL_SEN0443_REAL02_F_morpheme.json
+SEN0444,신호등 다음 내리다,3,F,ok,NIA_SL_SEN0444_REAL02_F_morpheme.json
+SEN0445,신호등 다음 내리다,3,F,ok,NIA_SL_SEN0445_REAL02_F_morpheme.json
+SEN0446,신호등 다음 차내리다,3,F,ok,NIA_SL_SEN0446_REAL02_F_morpheme.json
+SEN0447,신호등 다음 차내리다,3,F,ok,NIA_SL_SEN0447_REAL02_F_morpheme.json
+SEN0448,신호등 다음 곳,3,F,ok,NIA_SL_SEN0448_REAL02_F_morpheme.json
+SEN0449,신호등 다음 도착 내리다,4,F,ok,NIA_SL_SEN0449_REAL02_F_morpheme.json
+SEN0450,신호등 다음 도착 내리다,4,F,ok,NIA_SL_SEN0450_REAL02_F_morpheme.json
+SEN0451,신호등 다음 도착 차내리다,4,F,ok,NIA_SL_SEN0451_REAL02_F_morpheme.json
+SEN0452,신호등 다음 도착 차내리다,4,F,ok,NIA_SL_SEN0452_REAL02_F_morpheme.json
+SEN0453,신호등 다음 여기,3,F,ok,NIA_SL_SEN0453_REAL02_F_morpheme.json
+SEN0454,화장실 무엇,2,F,ok,NIA_SL_SEN0454_REAL02_F_morpheme.json
+SEN0455,화장실 곳,2,F,ok,NIA_SL_SEN0455_REAL02_F_morpheme.json
+SEN0456,화장실 무엇 곳,3,F,ok,NIA_SL_SEN0456_REAL02_F_morpheme.json
+SEN0457,화장실 곳 무엇,3,F,ok,NIA_SL_SEN0457_REAL02_F_morpheme.json
+SEN0458,화장실 곳곳,2,F,ok,NIA_SL_SEN0458_REAL02_F_morpheme.json
+SEN0459,화장실 뼈곳,2,F,ok,NIA_SL_SEN0459_REAL02_F_morpheme.json
+SEN0460,물품보관 불량,2,F,ok,NIA_SL_SEN0460_REAL02_F_morpheme.json
+SEN0461,물품보관 고장,2,F,ok,NIA_SL_SEN0461_REAL02_F_morpheme.json
+SEN0462,물품보관 안되다,2,F,ok,NIA_SL_SEN0462_REAL02_F_morpheme.json
+SEN0463,물품보관 잘 안되다,3,F,ok,NIA_SL_SEN0463_REAL02_F_morpheme.json
+SEN0464,물품보관 사용 안되다,3,F,ok,NIA_SL_SEN0464_REAL02_F_morpheme.json
+SEN0465,물품보관 사용 불가능,3,F,ok,NIA_SL_SEN0465_REAL02_F_morpheme.json
+SEN0466,물품보관 문안열리다 고장,3,F,ok,NIA_SL_SEN0466_REAL02_F_morpheme.json
+SEN0467,물품보관 문안열리다 안되다,3,F,ok,NIA_SL_SEN0467_REAL02_F_morpheme.json
+SEN0468,물품보관 문안열리다 불량,3,F,ok,NIA_SL_SEN0468_REAL02_F_morpheme.json
+SEN0469,물품보관 문안열리다 잘 안되다,4,F,ok,NIA_SL_SEN0469_REAL02_F_morpheme.json
+SEN0470,지갑 잃어버리다,2,F,ok,NIA_SL_SEN0470_REAL02_F_morpheme.json
+SEN0471,지갑 잃어버리다 없다,3,F,ok,NIA_SL_SEN0471_REAL02_F_morpheme.json
+SEN0472,지갑 실종,2,F,ok,NIA_SL_SEN0472_REAL02_F_morpheme.json
+SEN0473,지갑 실종 없다,3,F,ok,NIA_SL_SEN0473_REAL02_F_morpheme.json
+SEN0474,안전벨트,1,F,ok,NIA_SL_SEN0474_REAL02_F_morpheme.json
+SEN0475,안전벨트 꼿다,2,F,ok,NIA_SL_SEN0475_REAL02_F_morpheme.json
+SEN0476,안전벨트,1,F,ok,NIA_SL_SEN0476_REAL02_F_morpheme.json
+SEN0477,안전벨트 꼿다,2,F,ok,NIA_SL_SEN0477_REAL02_F_morpheme.json
+SEN0478,꼿다,1,F,ok,NIA_SL_SEN0478_REAL02_F_morpheme.json
+SEN0479,카드 교환하다,2,F,ok,NIA_SL_SEN0479_REAL02_F_morpheme.json
+SEN0480,카드 다르다 교환하다,3,F,ok,NIA_SL_SEN0480_REAL02_F_morpheme.json
+SEN0481,카드 다르다 또 없다,4,F,ok,NIA_SL_SEN0481_REAL02_F_morpheme.json
+SEN0482,카드 또 다르다 없다,4,F,ok,NIA_SL_SEN0482_REAL02_F_morpheme.json
+SEN0483,카드 교환하다,2,F,ok,NIA_SL_SEN0483_REAL02_F_morpheme.json
+SEN0484,카드 다르다 교환하다,3,F,ok,NIA_SL_SEN0484_REAL02_F_morpheme.json
+SEN0485,카드 다르다 교환하다,3,F,ok,NIA_SL_SEN0485_REAL02_F_morpheme.json
+SEN0486,카드 또 다르다 없다,4,F,ok,NIA_SL_SEN0486_REAL02_F_morpheme.json
+SEN0487,다르다 카드,2,F,ok,NIA_SL_SEN0487_REAL02_F_morpheme.json
+SEN0488,다르다 카드,2,F,ok,NIA_SL_SEN0488_REAL02_F_morpheme.json
+SEN0489,단말기터치 다시,2,F,ok,NIA_SL_SEN0489_REAL02_F_morpheme.json
+SEN0490,단말기터치 다시,2,F,ok,NIA_SL_SEN0490_REAL02_F_morpheme.json
+SEN0491,단말기터치 다시,2,F,ok,NIA_SL_SEN0491_REAL02_F_morpheme.json
+SEN0492,카드 단말기터치 다시,3,F,ok,NIA_SL_SEN0492_REAL02_F_morpheme.json
+SEN0493,카드 단말기터치 다시,3,F,ok,NIA_SL_SEN0493_REAL02_F_morpheme.json
+SEN0494,카드 단말기터치 다시 해보다,4,F,ok,NIA_SL_SEN0494_REAL02_F_morpheme.json
+SEN0495,카드 단말기터치 다시 해보다,4,F,ok,NIA_SL_SEN0495_REAL02_F_morpheme.json
+SEN0496,차 트렁크열다,2,F,ok,NIA_SL_SEN0496_REAL02_F_morpheme.json
+SEN0497,뒤 트렁크열다,2,F,ok,NIA_SL_SEN0497_REAL02_F_morpheme.json
+SEN0498,엉덩이 트렁크열다,2,F,ok,NIA_SL_SEN0498_REAL02_F_morpheme.json
+SEN0499,뒤 들어올리다,2,F,ok,NIA_SL_SEN0499_REAL02_F_morpheme.json
+SEN0500,뒤 엉덩이 들어올리다,3,F,ok,NIA_SL_SEN0500_REAL02_F_morpheme.json
+SEN0501,유리 내리다,2,F,ok,NIA_SL_SEN0501_REAL02_F_morpheme.json
+SEN0502,유리 내리다,2,F,ok,NIA_SL_SEN0502_REAL02_F_morpheme.json
+SEN0503,차 유리 내리다,3,F,ok,NIA_SL_SEN0503_REAL02_F_morpheme.json
+SEN0504,차 내리다,2,F,ok,NIA_SL_SEN0504_REAL02_F_morpheme.json
+SEN0505,내리다,1,F,ok,NIA_SL_SEN0505_REAL02_F_morpheme.json
+SEN0506,유리 올리다,2,F,ok,NIA_SL_SEN0506_REAL02_F_morpheme.json
+SEN0507,유리 올리다,2,F,ok,NIA_SL_SEN0507_REAL02_F_morpheme.json
+SEN0508,차 유리 올리다,3,F,ok,NIA_SL_SEN0508_REAL02_F_morpheme.json
+SEN0509,차 올리다,2,F,ok,NIA_SL_SEN0509_REAL02_F_morpheme.json
+SEN0510,올리다,1,F,ok,NIA_SL_SEN0510_REAL02_F_morpheme.json
+SEN0511,에어컨 끄다,2,F,ok,NIA_SL_SEN0511_REAL02_F_morpheme.json
+SEN0512,춥다 끄다,2,F,ok,NIA_SL_SEN0512_REAL02_F_morpheme.json
+SEN0513,춥다 끄다,2,F,ok,NIA_SL_SEN0513_REAL02_F_morpheme.json
+SEN0514,에어컨 끄다,2,F,ok,NIA_SL_SEN0514_REAL02_F_morpheme.json
+SEN0515,에어컨 끄다,2,F,ok,NIA_SL_SEN0515_REAL02_F_morpheme.json
+SEN0516,학교 가다,2,F,ok,NIA_SL_SEN0516_REAL02_F_morpheme.json
+SEN0517,학교 저기,2,F,ok,NIA_SL_SEN0517_REAL02_F_morpheme.json
+SEN0518,학교 저기 가다,3,F,ok,NIA_SL_SEN0518_REAL02_F_morpheme.json
+SEN0519,학교 저기 곳,3,F,ok,NIA_SL_SEN0519_REAL02_F_morpheme.json
+SEN0520,학교 안 곳,3,F,ok,NIA_SL_SEN0520_REAL02_F_morpheme.json
+SEN0521,학교 도착,2,F,ok,NIA_SL_SEN0521_REAL02_F_morpheme.json
+SEN0522,학교 안 가다,3,F,ok,NIA_SL_SEN0522_REAL02_F_morpheme.json
+SEN0523,학교 가다,2,F,ok,NIA_SL_SEN0523_REAL02_F_morpheme.json
+SEN0524,저기 학교 가다,3,F,ok,NIA_SL_SEN0524_REAL02_F_morpheme.json
+SEN0525,학교 문 가다,3,F,ok,NIA_SL_SEN0525_REAL02_F_morpheme.json
+SEN0526,영수증,1,F,ok,NIA_SL_SEN0526_REAL02_F_morpheme.json
+SEN0527,영수증,1,F,ok,NIA_SL_SEN0527_REAL02_F_morpheme.json
+SEN0528,영수증,1,F,ok,NIA_SL_SEN0528_REAL02_F_morpheme.json
+SEN0529,영수증,1,F,ok,NIA_SL_SEN0529_REAL02_F_morpheme.json
+SEN0530,영수증 받다,2,F,ok,NIA_SL_SEN0530_REAL02_F_morpheme.json
+SEN0531,영수증 받다,2,F,ok,NIA_SL_SEN0531_REAL02_F_morpheme.json
+SEN0532,영수증 받다,2,F,ok,NIA_SL_SEN0532_REAL02_F_morpheme.json
+SEN0533,영수증 받다,2,F,ok,NIA_SL_SEN0533_REAL02_F_morpheme.json
+SEN0534,영수증 주세요,2,F,ok,NIA_SL_SEN0534_REAL02_F_morpheme.json
+SEN0535,영수증 주세요,2,F,ok,NIA_SL_SEN0535_REAL02_F_morpheme.json
+SEN0536,유리 내리다,2,F,ok,NIA_SL_SEN0536_REAL02_F_morpheme.json
+SEN0537,차 유리 내리다,3,F,ok,NIA_SL_SEN0537_REAL02_F_morpheme.json
+SEN0538,차 내리다,2,F,ok,NIA_SL_SEN0538_REAL02_F_morpheme.json
+SEN0539,유리 내리다,2,F,ok,NIA_SL_SEN0539_REAL02_F_morpheme.json
+SEN0540,내리다,1,F,ok,NIA_SL_SEN0540_REAL02_F_morpheme.json
+SEN0541,유리 올리다,2,F,ok,NIA_SL_SEN0541_REAL02_F_morpheme.json
+SEN0542,차 유리 올리다,3,F,ok,NIA_SL_SEN0542_REAL02_F_morpheme.json
+SEN0543,차 올리다,2,F,ok,NIA_SL_SEN0543_REAL02_F_morpheme.json
+SEN0544,유리 올리다,2,F,ok,NIA_SL_SEN0544_REAL02_F_morpheme.json
+SEN0545,올리다,1,F,ok,NIA_SL_SEN0545_REAL02_F_morpheme.json
+SEN0546,좌회전 확인 맞다,3,F,ok,NIA_SL_SEN0546_REAL02_F_morpheme.json
+SEN0547,좌회전 확인 맞다,3,F,ok,NIA_SL_SEN0547_REAL02_F_morpheme.json
+SEN0548,좌회전 확인 맞다,3,F,ok,NIA_SL_SEN0548_REAL02_F_morpheme.json
+SEN0549,좌회전 확인 맞다,3,F,ok,NIA_SL_SEN0549_REAL02_F_morpheme.json
+SEN0550,좌회전 맞다,2,F,ok,NIA_SL_SEN0550_REAL02_F_morpheme.json
+SEN0551,좌회전 맞다,2,F,ok,NIA_SL_SEN0551_REAL02_F_morpheme.json
+SEN0552,좌회전 맞다,2,F,ok,NIA_SL_SEN0552_REAL02_F_morpheme.json
+SEN0553,좌회전 맞다,2,F,ok,NIA_SL_SEN0553_REAL02_F_morpheme.json
+SEN0554,우회전 확인 맞다,3,F,ok,NIA_SL_SEN0554_REAL02_F_morpheme.json
+SEN0555,우회전 확인 맞다,3,F,ok,NIA_SL_SEN0555_REAL02_F_morpheme.json
+SEN0556,우회전 확인 맞다,3,F,ok,NIA_SL_SEN0556_REAL02_F_morpheme.json
+SEN0557,우회전 확인 맞다,3,F,ok,NIA_SL_SEN0557_REAL02_F_morpheme.json
+SEN0558,우회전 맞다,2,F,ok,NIA_SL_SEN0558_REAL02_F_morpheme.json
+SEN0559,우회전 맞다,2,F,ok,NIA_SL_SEN0559_REAL02_F_morpheme.json
+SEN0560,우회전 맞다,2,F,ok,NIA_SL_SEN0560_REAL02_F_morpheme.json
+SEN0561,우회전 맞다,2,F,ok,NIA_SL_SEN0561_REAL02_F_morpheme.json
+SEN0562,유턴 맞다,2,F,ok,NIA_SL_SEN0562_REAL02_F_morpheme.json
+SEN0563,유턴 맞다,2,F,ok,NIA_SL_SEN0563_REAL02_F_morpheme.json
+SEN0564,유턴 맞다,2,F,ok,NIA_SL_SEN0564_REAL02_F_morpheme.json
+SEN0565,유턴 맞다,2,F,ok,NIA_SL_SEN0565_REAL02_F_morpheme.json
+SEN0566,유턴 맞다,2,F,ok,NIA_SL_SEN0566_REAL02_F_morpheme.json
+SEN0567,카드,1,F,ok,NIA_SL_SEN0567_REAL02_F_morpheme.json
+SEN0568,카드 되다,2,F,ok,NIA_SL_SEN0568_REAL02_F_morpheme.json
+SEN0569,카드 가능,2,F,ok,NIA_SL_SEN0569_REAL02_F_morpheme.json
+SEN0570,카드,1,F,ok,NIA_SL_SEN0570_REAL02_F_morpheme.json
+SEN0571,나사렛 가다,2,F,ok,NIA_SL_SEN0571_REAL02_F_morpheme.json
+SEN0572,나사렛 가다,2,F,ok,NIA_SL_SEN0572_REAL02_F_morpheme.json
+SEN0573,나사렛 내리다,2,F,ok,NIA_SL_SEN0573_REAL02_F_morpheme.json
+SEN0574,나사렛 내리다,2,F,ok,NIA_SL_SEN0574_REAL02_F_morpheme.json
+SEN0575,나사렛 차내리다,2,F,ok,NIA_SL_SEN0575_REAL02_F_morpheme.json
+SEN0576,나사렛 차내리다,2,F,ok,NIA_SL_SEN0576_REAL02_F_morpheme.json
+SEN0577,나사렛 도착,2,F,ok,NIA_SL_SEN0577_REAL02_F_morpheme.json
+SEN0578,나사렛 목적,2,F,ok,NIA_SL_SEN0578_REAL02_F_morpheme.json
+SEN0579,나사렛 곳,2,F,ok,NIA_SL_SEN0579_REAL02_F_morpheme.json
+SEN0580,나사렛 가다,2,F,ok,NIA_SL_SEN0580_REAL02_F_morpheme.json
+SEN0581,응급실 가다,2,F,ok,NIA_SL_SEN0581_REAL02_F_morpheme.json
+SEN0582,응급실 가다,2,F,ok,NIA_SL_SEN0582_REAL02_F_morpheme.json
+SEN0583,응급실 내리다,2,F,ok,NIA_SL_SEN0583_REAL02_F_morpheme.json
+SEN0584,응급실 내리다,2,F,ok,NIA_SL_SEN0584_REAL02_F_morpheme.json
+SEN0585,응급실 차내리다,2,F,ok,NIA_SL_SEN0585_REAL02_F_morpheme.json
+SEN0586,응급실 차내리다,2,F,ok,NIA_SL_SEN0586_REAL02_F_morpheme.json
+SEN0587,응급실 도착,2,F,ok,NIA_SL_SEN0587_REAL02_F_morpheme.json
+SEN0588,응급실 목적,2,F,ok,NIA_SL_SEN0588_REAL02_F_morpheme.json
+SEN0589,응급실 곳,2,F,ok,NIA_SL_SEN0589_REAL02_F_morpheme.json
+SEN0590,응급실 가다,2,F,ok,NIA_SL_SEN0590_REAL02_F_morpheme.json
+SEN0591,손바닥찍다 가다,2,F,ok,NIA_SL_SEN0591_REAL02_F_morpheme.json
+SEN0592,손바닥찍다 가다,2,F,ok,NIA_SL_SEN0592_REAL02_F_morpheme.json
+SEN0593,손바닥찍다 내리다,2,F,ok,NIA_SL_SEN0593_REAL02_F_morpheme.json
+SEN0594,손바닥찍다 내리다,2,F,ok,NIA_SL_SEN0594_REAL02_F_morpheme.json
+SEN0595,손바닥찍다 차내리다,2,F,ok,NIA_SL_SEN0595_REAL02_F_morpheme.json
+SEN0596,손바닥찍다 차내리다,2,F,ok,NIA_SL_SEN0596_REAL02_F_morpheme.json
+SEN0597,손바닥찍다 도착,2,F,ok,NIA_SL_SEN0597_REAL02_F_morpheme.json
+SEN0598,손바닥찍다 목적,2,F,ok,NIA_SL_SEN0598_REAL02_F_morpheme.json
+SEN0599,손바닥찍다 곳,2,F,ok,NIA_SL_SEN0599_REAL02_F_morpheme.json
+SEN0600,손바닥찍다 가다,2,F,ok,NIA_SL_SEN0600_REAL02_F_morpheme.json
+SEN0601,서울역 내리다 가다,3,F,ok,NIA_SL_SEN0601_REAL02_F_morpheme.json
+SEN0602,서울역 내리다 가다,3,F,ok,NIA_SL_SEN0602_REAL02_F_morpheme.json
+SEN0603,서울역 차내리다 가다,3,F,ok,NIA_SL_SEN0603_REAL02_F_morpheme.json
+SEN0604,서울역 차내리다 가다,3,F,ok,NIA_SL_SEN0604_REAL02_F_morpheme.json
+SEN0605,서울역 도착 가다,3,F,ok,NIA_SL_SEN0605_REAL02_F_morpheme.json
+SEN0606,서울역 목적 가다,3,F,ok,NIA_SL_SEN0606_REAL02_F_morpheme.json
+SEN0607,서울역 곳 가다,3,F,ok,NIA_SL_SEN0607_REAL02_F_morpheme.json
+SEN0608,서울역 가다 내리다,3,F,ok,NIA_SL_SEN0608_REAL02_F_morpheme.json
+SEN0609,서울역 가다 내리다,3,F,ok,NIA_SL_SEN0609_REAL02_F_morpheme.json
+SEN0610,서울역 가다 차내리다,3,F,ok,NIA_SL_SEN0610_REAL02_F_morpheme.json
+SEN0611,고속터미널 내리다 가다,3,F,ok,NIA_SL_SEN0611_REAL02_F_morpheme.json
+SEN0612,고속터미널 내리다 가다,3,F,ok,NIA_SL_SEN0612_REAL02_F_morpheme.json
+SEN0613,고속터미널 차내리다 가다,3,F,ok,NIA_SL_SEN0613_REAL02_F_morpheme.json
+SEN0614,고속터미널 차내리다 가다,3,F,ok,NIA_SL_SEN0614_REAL02_F_morpheme.json
+SEN0615,고속터미널 도착 가다,3,F,ok,NIA_SL_SEN0615_REAL02_F_morpheme.json
+SEN0616,고속터미널 목적 가다,3,F,ok,NIA_SL_SEN0616_REAL02_F_morpheme.json
+SEN0617,고속터미널 곳 가다,3,F,ok,NIA_SL_SEN0617_REAL02_F_morpheme.json
+SEN0618,고속터미널 가다 내리다,3,F,ok,NIA_SL_SEN0618_REAL02_F_morpheme.json
+SEN0619,고속터미널 가다 내리다,3,F,ok,NIA_SL_SEN0619_REAL02_F_morpheme.json
+SEN0620,고속터미널 가다 차내리다,3,F,ok,NIA_SL_SEN0620_REAL02_F_morpheme.json
+SEN0621,지름길 내리다 가다,3,F,ok,NIA_SL_SEN0621_REAL02_F_morpheme.json
+SEN0622,지름길 내리다 가다,3,F,ok,NIA_SL_SEN0622_REAL02_F_morpheme.json
+SEN0623,지름길 차내리다 가다,3,F,ok,NIA_SL_SEN0623_REAL02_F_morpheme.json
+SEN0624,지름길 차내리다 가다,3,F,ok,NIA_SL_SEN0624_REAL02_F_morpheme.json
+SEN0625,지름길 도착 가다,3,F,ok,NIA_SL_SEN0625_REAL02_F_morpheme.json
+SEN0626,지름길 목적 가다,3,F,ok,NIA_SL_SEN0626_REAL02_F_morpheme.json
+SEN0627,지름길 곳 가다,3,F,ok,NIA_SL_SEN0627_REAL02_F_morpheme.json
+SEN0628,지름길 가다 내리다,3,F,ok,NIA_SL_SEN0628_REAL02_F_morpheme.json
+SEN0629,지름길 가다 내리다,3,F,ok,NIA_SL_SEN0629_REAL02_F_morpheme.json
+SEN0630,지름길 가다 차내리다,3,F,ok,NIA_SL_SEN0630_REAL02_F_morpheme.json
+SEN0631,명동 가다,2,F,ok,NIA_SL_SEN0631_REAL02_F_morpheme.json
+SEN0632,명동 가다,2,F,ok,NIA_SL_SEN0632_REAL02_F_morpheme.json
+SEN0633,명동 내리다,2,F,ok,NIA_SL_SEN0633_REAL02_F_morpheme.json
+SEN0634,명동 내리다,2,F,ok,NIA_SL_SEN0634_REAL02_F_morpheme.json
+SEN0635,명동 차내리다,2,F,ok,NIA_SL_SEN0635_REAL02_F_morpheme.json
+SEN0636,명동 차내리다,2,F,ok,NIA_SL_SEN0636_REAL02_F_morpheme.json
+SEN0637,명동 도착,2,F,ok,NIA_SL_SEN0637_REAL02_F_morpheme.json
+SEN0638,명동 목적,2,F,ok,NIA_SL_SEN0638_REAL02_F_morpheme.json
+SEN0639,명동 곳,2,F,ok,NIA_SL_SEN0639_REAL02_F_morpheme.json
+SEN0640,명동 가다,2,F,ok,NIA_SL_SEN0640_REAL02_F_morpheme.json
+SEN0641,손바닥찍다 내리다 가다,3,F,ok,NIA_SL_SEN0641_REAL02_F_morpheme.json
+SEN0642,손바닥찍다 내리다 가다,3,F,ok,NIA_SL_SEN0642_REAL02_F_morpheme.json
+SEN0643,손바닥찍다 차내리다 가다,3,F,ok,NIA_SL_SEN0643_REAL02_F_morpheme.json
+SEN0644,손바닥찍다 차내리다 가다,3,F,ok,NIA_SL_SEN0644_REAL02_F_morpheme.json
+SEN0645,손바닥찍다 도착 가다,3,F,ok,NIA_SL_SEN0645_REAL02_F_morpheme.json
+SEN0646,손바닥찍다 목적 가다,3,F,ok,NIA_SL_SEN0646_REAL02_F_morpheme.json
+SEN0647,손바닥찍다 곳 가다,3,F,ok,NIA_SL_SEN0647_REAL02_F_morpheme.json
+SEN0648,손바닥찍다 가다 내리다,3,F,ok,NIA_SL_SEN0648_REAL02_F_morpheme.json
+SEN0649,손바닥찍다 가다 내리다,3,F,ok,NIA_SL_SEN0649_REAL02_F_morpheme.json
+SEN0650,손바닥찍다 가다 차내리다,3,F,ok,NIA_SL_SEN0650_REAL02_F_morpheme.json
+SEN0651,공항 내리다 가다,3,F,ok,NIA_SL_SEN0651_REAL02_F_morpheme.json
+SEN0652,공항 내리다 가다,3,F,ok,NIA_SL_SEN0652_REAL02_F_morpheme.json
+SEN0653,공항 차내리다 가다,3,F,ok,NIA_SL_SEN0653_REAL02_F_morpheme.json
+SEN0654,공항 차내리다 가다,3,F,ok,NIA_SL_SEN0654_REAL02_F_morpheme.json
+SEN0655,공항 도착 가다,3,F,ok,NIA_SL_SEN0655_REAL02_F_morpheme.json
+SEN0656,공항 목적 가다,3,F,ok,NIA_SL_SEN0656_REAL02_F_morpheme.json
+SEN0657,공항 곳 가다,3,F,ok,NIA_SL_SEN0657_REAL02_F_morpheme.json
+SEN0658,공항 가다 내리다,3,F,ok,NIA_SL_SEN0658_REAL02_F_morpheme.json
+SEN0659,공항 가다 내리다,3,F,ok,NIA_SL_SEN0659_REAL02_F_morpheme.json
+SEN0660,공항 가다 차내리다,3,F,ok,NIA_SL_SEN0660_REAL02_F_morpheme.json
+SEN0661,지름길 내리다 가다,3,F,ok,NIA_SL_SEN0661_REAL02_F_morpheme.json
+SEN0662,지름길 내리다 가다,3,F,ok,NIA_SL_SEN0662_REAL02_F_morpheme.json
+SEN0663,지름길 차내리다 가다,3,F,ok,NIA_SL_SEN0663_REAL02_F_morpheme.json
+SEN0664,지름길 차내리다 가다,3,F,ok,NIA_SL_SEN0664_REAL02_F_morpheme.json
+SEN0665,지름길 도착 가다,3,F,ok,NIA_SL_SEN0665_REAL02_F_morpheme.json
+SEN0666,지름길 목적 가다,3,F,ok,NIA_SL_SEN0666_REAL02_F_morpheme.json
+SEN0667,지름길 곳 가다,3,F,ok,NIA_SL_SEN0667_REAL02_F_morpheme.json
+SEN0668,지름길 가다 내리다,3,F,ok,NIA_SL_SEN0668_REAL02_F_morpheme.json
+SEN0669,지름길 가다 내리다,3,F,ok,NIA_SL_SEN0669_REAL02_F_morpheme.json
+SEN0670,지름길 가다 차내리다,3,F,ok,NIA_SL_SEN0670_REAL02_F_morpheme.json
+SEN0671,나사렛 내리다 가다,3,F,ok,NIA_SL_SEN0671_REAL02_F_morpheme.json
+SEN0672,나사렛 내리다 가다,3,F,ok,NIA_SL_SEN0672_REAL02_F_morpheme.json
+SEN0673,나사렛 차내리다 가다,3,F,ok,NIA_SL_SEN0673_REAL02_F_morpheme.json
+SEN0674,나사렛 차내리다 가다,3,F,ok,NIA_SL_SEN0674_REAL02_F_morpheme.json
+SEN0675,나사렛 도착 가다,3,F,ok,NIA_SL_SEN0675_REAL02_F_morpheme.json
+SEN0676,학교 안 도착,3,F,ok,NIA_SL_SEN0676_REAL02_F_morpheme.json
+SEN0677,나사렛 목적 가다,3,F,ok,NIA_SL_SEN0677_REAL02_F_morpheme.json
+SEN0678,나사렛 곳 가다,3,F,ok,NIA_SL_SEN0678_REAL02_F_morpheme.json
+SEN0679,나사렛 가다 내리다,3,F,ok,NIA_SL_SEN0679_REAL02_F_morpheme.json
+SEN0680,나사렛 가다 내리다,3,F,ok,NIA_SL_SEN0680_REAL02_F_morpheme.json
+SEN0681,샛길 가다,2,F,ok,NIA_SL_SEN0681_REAL02_F_morpheme.json
+SEN0682,샛길 저기,2,F,ok,NIA_SL_SEN0682_REAL02_F_morpheme.json
+SEN0683,샛길 저기 가다,3,F,ok,NIA_SL_SEN0683_REAL02_F_morpheme.json
+SEN0684,샛길 저기 곳,3,F,ok,NIA_SL_SEN0684_REAL02_F_morpheme.json
+SEN0685,샛길 곳,2,F,ok,NIA_SL_SEN0685_REAL02_F_morpheme.json
+SEN0686,샛길 도착,2,F,ok,NIA_SL_SEN0686_REAL02_F_morpheme.json
+SEN0687,샛길 가다,2,F,ok,NIA_SL_SEN0687_REAL02_F_morpheme.json
+SEN0688,샛길 가다,2,F,ok,NIA_SL_SEN0688_REAL02_F_morpheme.json
+SEN0689,저기 샛길 가다,3,F,ok,NIA_SL_SEN0689_REAL02_F_morpheme.json
+SEN0690,샛길 문 가다,3,F,ok,NIA_SL_SEN0690_REAL02_F_morpheme.json
+SEN0691,아파트 가다,2,F,ok,NIA_SL_SEN0691_REAL02_F_morpheme.json
+SEN0692,아파트 저기,2,F,ok,NIA_SL_SEN0692_REAL02_F_morpheme.json
+SEN0693,아파트 저기 가다,3,F,ok,NIA_SL_SEN0693_REAL02_F_morpheme.json
+SEN0694,아파트 저기 곳,3,F,ok,NIA_SL_SEN0694_REAL02_F_morpheme.json
+SEN0695,아파트 안 곳,3,F,ok,NIA_SL_SEN0695_REAL02_F_morpheme.json
+SEN0696,아파트 안 도착,3,F,ok,NIA_SL_SEN0696_REAL02_F_morpheme.json
+SEN0697,아파트 안 가다,3,F,ok,NIA_SL_SEN0697_REAL02_F_morpheme.json
+SEN0698,아파트 가다,2,F,ok,NIA_SL_SEN0698_REAL02_F_morpheme.json
+SEN0699,저기 아파트 가다,3,F,ok,NIA_SL_SEN0699_REAL02_F_morpheme.json
+SEN0700,아파트 문 가다,3,F,ok,NIA_SL_SEN0700_REAL02_F_morpheme.json
+SEN0701,학교 저기,2,F,ok,NIA_SL_SEN0701_REAL02_F_morpheme.json
+SEN0702,학교 저기 가다,3,F,ok,NIA_SL_SEN0702_REAL02_F_morpheme.json
+SEN0703,학교 저기 곳,3,F,ok,NIA_SL_SEN0703_REAL02_F_morpheme.json
+SEN0704,학교 안 곳,3,F,ok,NIA_SL_SEN0704_REAL02_F_morpheme.json
+SEN0705,학교 안 도착,3,F,ok,NIA_SL_SEN0705_REAL02_F_morpheme.json
+SEN0706,학교 안 가다,3,F,ok,NIA_SL_SEN0706_REAL02_F_morpheme.json
+SEN0707,샛길 저기,2,F,ok,NIA_SL_SEN0707_REAL02_F_morpheme.json
+SEN0708,샛길 저기 가다,3,F,ok,NIA_SL_SEN0708_REAL02_F_morpheme.json
+SEN0709,샛길 저기 곳,3,F,ok,NIA_SL_SEN0709_REAL02_F_morpheme.json
+SEN0710,샛길 곳,2,F,ok,NIA_SL_SEN0710_REAL02_F_morpheme.json
+SEN0711,샛길 도착,2,F,ok,NIA_SL_SEN0711_REAL02_F_morpheme.json
+SEN0712,샛길 여기 가다,3,F,ok,NIA_SL_SEN0712_REAL02_F_morpheme.json
+SEN0713,아파트 저기,2,F,ok,NIA_SL_SEN0713_REAL02_F_morpheme.json
+SEN0714,아파트 저기 가다,3,F,ok,NIA_SL_SEN0714_REAL02_F_morpheme.json
+SEN0715,아파트 저기 곳,3,F,ok,NIA_SL_SEN0715_REAL02_F_morpheme.json
+SEN0716,아파트 안 곳,3,F,ok,NIA_SL_SEN0716_REAL02_F_morpheme.json
+SEN0717,아파트 안 도착,3,F,ok,NIA_SL_SEN0717_REAL02_F_morpheme.json
+SEN0718,아파트 안 가다,3,F,ok,NIA_SL_SEN0718_REAL02_F_morpheme.json
+SEN0719,나사렛 전 내리다,3,F,ok,NIA_SL_SEN0719_REAL02_F_morpheme.json
+SEN0720,나사렛 전 내리다,3,F,ok,NIA_SL_SEN0720_REAL02_F_morpheme.json
+SEN0721,나사렛 전 차내리다,3,F,ok,NIA_SL_SEN0721_REAL02_F_morpheme.json
+SEN0722,나사렛 전 차내리다,3,F,ok,NIA_SL_SEN0722_REAL02_F_morpheme.json
+SEN0723,나사렛 전 곳,3,F,ok,NIA_SL_SEN0723_REAL02_F_morpheme.json
+SEN0724,나사렛 전 도착 내리다,4,F,ok,NIA_SL_SEN0724_REAL02_F_morpheme.json
+SEN0725,나사렛 전 도착 내리다,4,F,ok,NIA_SL_SEN0725_REAL02_F_morpheme.json
+SEN0726,나사렛 전 도착 차내리다,4,F,ok,NIA_SL_SEN0726_REAL02_F_morpheme.json
+SEN0727,나사렛 전 도착 차내리다,4,F,ok,NIA_SL_SEN0727_REAL02_F_morpheme.json
+SEN0728,나사렛 전 저기,3,F,ok,NIA_SL_SEN0728_REAL02_F_morpheme.json
+SEN0729,저기 맞다,2,F,ok,NIA_SL_SEN0729_REAL02_F_morpheme.json
+SEN0730,저기 맞다,2,F,ok,NIA_SL_SEN0730_REAL02_F_morpheme.json
+SEN0731,저기 내리다 맞다,3,F,ok,NIA_SL_SEN0731_REAL02_F_morpheme.json
+SEN0732,저기 내리다 맞다,3,F,ok,NIA_SL_SEN0732_REAL02_F_morpheme.json
+SEN0733,저기 차내리다 맞다,3,F,ok,NIA_SL_SEN0733_REAL02_F_morpheme.json
+SEN0734,저기 차내리다 맞다,3,F,ok,NIA_SL_SEN0734_REAL02_F_morpheme.json
+SEN0735,저기 내리다 맞다,3,F,ok,NIA_SL_SEN0735_REAL02_F_morpheme.json
+SEN0736,저기 내리다 맞다,3,F,ok,NIA_SL_SEN0736_REAL02_F_morpheme.json
+SEN0737,저기 차내리다 맞다,3,F,ok,NIA_SL_SEN0737_REAL02_F_morpheme.json
+SEN0738,저기 차내리다 맞다,3,F,ok,NIA_SL_SEN0738_REAL02_F_morpheme.json
+SEN0739,기차 곳 맞다,3,F,ok,NIA_SL_SEN0739_REAL02_F_morpheme.json
+SEN0740,기차 곳 맞다,3,F,ok,NIA_SL_SEN0740_REAL02_F_morpheme.json
+SEN0741,기차 곳 내리다 맞다,4,F,ok,NIA_SL_SEN0741_REAL02_F_morpheme.json
+SEN0742,기차 곳 내리다 맞다,4,F,ok,NIA_SL_SEN0742_REAL02_F_morpheme.json
+SEN0743,기차 곳 차내리다 맞다,4,F,ok,NIA_SL_SEN0743_REAL02_F_morpheme.json
+SEN0744,기차 곳 차내리다 맞다,4,F,ok,NIA_SL_SEN0744_REAL02_F_morpheme.json
+SEN0745,기차 곳 내리다 맞다,4,F,ok,NIA_SL_SEN0745_REAL02_F_morpheme.json
+SEN0746,기차 곳 내리다 맞다,4,F,ok,NIA_SL_SEN0746_REAL02_F_morpheme.json
+SEN0747,기차 곳 차내리다 맞다,4,F,ok,NIA_SL_SEN0747_REAL02_F_morpheme.json
+SEN0748,기차 곳 차내리다 맞다,4,F,ok,NIA_SL_SEN0748_REAL02_F_morpheme.json
+SEN0749,버스 곳 맞다,3,F,ok,NIA_SL_SEN0749_REAL02_F_morpheme.json
+SEN0750,버스 곳 맞다,3,F,ok,NIA_SL_SEN0750_REAL02_F_morpheme.json
+SEN0751,버스 곳 내리다 맞다,4,F,ok,NIA_SL_SEN0751_REAL02_F_morpheme.json
+SEN0752,버스 곳 내리다 맞다,4,F,ok,NIA_SL_SEN0752_REAL02_F_morpheme.json
+SEN0753,버스 곳 차내리다 맞다,4,F,ok,NIA_SL_SEN0753_REAL02_F_morpheme.json
+SEN0754,버스 곳 차내리다 맞다,4,F,ok,NIA_SL_SEN0754_REAL02_F_morpheme.json
+SEN0755,버스 곳 내리다 맞다,4,F,ok,NIA_SL_SEN0755_REAL02_F_morpheme.json
+SEN0756,버스 곳 내리다 맞다,4,F,ok,NIA_SL_SEN0756_REAL02_F_morpheme.json
+SEN0757,버스 곳 차내리다 맞다,4,F,ok,NIA_SL_SEN0757_REAL02_F_morpheme.json
+SEN0758,버스 곳 차내리다 맞다,4,F,ok,NIA_SL_SEN0758_REAL02_F_morpheme.json
+SEN0759,건너다,1,F,ok,NIA_SL_SEN0759_REAL02_F_morpheme.json
+SEN0760,건너다 내리다,2,F,ok,NIA_SL_SEN0760_REAL02_F_morpheme.json
+SEN0761,건너다 내리다,2,F,ok,NIA_SL_SEN0761_REAL02_F_morpheme.json
+SEN0762,건너다 차내리다,2,F,ok,NIA_SL_SEN0762_REAL02_F_morpheme.json
+SEN0763,건너다 차내리다,2,F,ok,NIA_SL_SEN0763_REAL02_F_morpheme.json
+SEN0764,건너다 오케이,2,F,ok,NIA_SL_SEN0764_REAL02_F_morpheme.json
+SEN0765,건너다 차두다,2,F,ok,NIA_SL_SEN0765_REAL02_F_morpheme.json
+SEN0766,건너다 내리다 오케이,3,F,ok,NIA_SL_SEN0766_REAL02_F_morpheme.json
+SEN0767,건너다 내리다 오케이,3,F,ok,NIA_SL_SEN0767_REAL02_F_morpheme.json
+SEN0768,건너다 차내리다 오케이,3,F,ok,NIA_SL_SEN0768_REAL02_F_morpheme.json
+SEN0769,건너다 차내리다 오케이,3,F,ok,NIA_SL_SEN0769_REAL02_F_morpheme.json
+SEN0770,시청,1,F,ok,NIA_SL_SEN0770_REAL02_F_morpheme.json
+SEN0771,시청 내리다,2,F,ok,NIA_SL_SEN0771_REAL02_F_morpheme.json
+SEN0772,시청 내리다,2,F,ok,NIA_SL_SEN0772_REAL02_F_morpheme.json
+SEN0773,시청 차내리다,2,F,ok,NIA_SL_SEN0773_REAL02_F_morpheme.json
+SEN0774,시청 차내리다,2,F,ok,NIA_SL_SEN0774_REAL02_F_morpheme.json
+SEN0775,시청 오케이,2,F,ok,NIA_SL_SEN0775_REAL02_F_morpheme.json
+SEN0776,시청 차두다,2,F,ok,NIA_SL_SEN0776_REAL02_F_morpheme.json
+SEN0777,시청 내리다 오케이,3,F,ok,NIA_SL_SEN0777_REAL02_F_morpheme.json
+SEN0778,시청 내리다 오케이,3,F,ok,NIA_SL_SEN0778_REAL02_F_morpheme.json
+SEN0779,시청 차내리다 오케이,3,F,ok,NIA_SL_SEN0779_REAL02_F_morpheme.json
+SEN0780,시청 차내리다 오케이,3,F,ok,NIA_SL_SEN0780_REAL02_F_morpheme.json
+SEN0781,여기 맞다,2,F,ok,NIA_SL_SEN0781_REAL02_F_morpheme.json
+SEN0782,여기 맞다,2,F,ok,NIA_SL_SEN0782_REAL02_F_morpheme.json
+SEN0783,여기 내리다 맞다,3,F,ok,NIA_SL_SEN0783_REAL02_F_morpheme.json
+SEN0784,여기 내리다 맞다,3,F,ok,NIA_SL_SEN0784_REAL02_F_morpheme.json
+SEN0785,여기 차내리다 맞다,3,F,ok,NIA_SL_SEN0785_REAL02_F_morpheme.json
+SEN0786,여기 차내리다 맞다,3,F,ok,NIA_SL_SEN0786_REAL02_F_morpheme.json
+SEN0787,여기 내리다 맞다,3,F,ok,NIA_SL_SEN0787_REAL02_F_morpheme.json
+SEN0788,여기 내리다 맞다,3,F,ok,NIA_SL_SEN0788_REAL02_F_morpheme.json
+SEN0789,여기 차내리다 맞다,3,F,ok,NIA_SL_SEN0789_REAL02_F_morpheme.json
+SEN0790,여기 차내리다 맞다,3,F,ok,NIA_SL_SEN0790_REAL02_F_morpheme.json
+SEN0791,지금 맞다,2,F,ok,NIA_SL_SEN0791_REAL02_F_morpheme.json
+SEN0792,지금 맞다,2,F,ok,NIA_SL_SEN0792_REAL02_F_morpheme.json
+SEN0793,지금 내리다 맞다,3,F,ok,NIA_SL_SEN0793_REAL02_F_morpheme.json
+SEN0794,지금 내리다 맞다,3,F,ok,NIA_SL_SEN0794_REAL02_F_morpheme.json
+SEN0795,지금 차내리다 맞다,3,F,ok,NIA_SL_SEN0795_REAL02_F_morpheme.json
+SEN0796,지금 차내리다 맞다,3,F,ok,NIA_SL_SEN0796_REAL02_F_morpheme.json
+SEN0797,지금 내리다 맞다,3,F,ok,NIA_SL_SEN0797_REAL02_F_morpheme.json
+SEN0798,지금 내리다 맞다,3,F,ok,NIA_SL_SEN0798_REAL02_F_morpheme.json
+SEN0799,지금 차내리다 맞다,3,F,ok,NIA_SL_SEN0799_REAL02_F_morpheme.json
+SEN0800,지금 차내리다 맞다,3,F,ok,NIA_SL_SEN0800_REAL02_F_morpheme.json
+SEN0801,기차 곳 맞다,3,F,ok,NIA_SL_SEN0801_REAL02_F_morpheme.json
+SEN0802,기차 곳 맞다,3,F,ok,NIA_SL_SEN0802_REAL02_F_morpheme.json
+SEN0803,기차 곳 내리다 맞다,4,F,ok,NIA_SL_SEN0803_REAL02_F_morpheme.json
+SEN0804,기차 곳 내리다 맞다,4,F,ok,NIA_SL_SEN0804_REAL02_F_morpheme.json
+SEN0805,기차 곳 차내리다 맞다,4,F,ok,NIA_SL_SEN0805_REAL02_F_morpheme.json
+SEN0806,기차 곳 차내리다 맞다,4,F,ok,NIA_SL_SEN0806_REAL02_F_morpheme.json
+SEN0807,기차 곳 내리다 맞다,4,F,ok,NIA_SL_SEN0807_REAL02_F_morpheme.json
+SEN0808,기차 곳 내리다 맞다,4,F,ok,NIA_SL_SEN0808_REAL02_F_morpheme.json
+SEN0809,기차 곳 차내리다 맞다,4,F,ok,NIA_SL_SEN0809_REAL02_F_morpheme.json
+SEN0810,기차 곳 차내리다 맞다,4,F,ok,NIA_SL_SEN0810_REAL02_F_morpheme.json
+SEN0811,버스 곳 맞다,3,F,ok,NIA_SL_SEN0811_REAL02_F_morpheme.json
+SEN0812,버스 곳 맞다,3,F,ok,NIA_SL_SEN0812_REAL02_F_morpheme.json
+SEN0813,버스 곳 내리다 맞다,4,F,ok,NIA_SL_SEN0813_REAL02_F_morpheme.json
+SEN0814,버스 곳 내리다 맞다,4,F,ok,NIA_SL_SEN0814_REAL02_F_morpheme.json
+SEN0815,버스 곳 차내리다 맞다,4,F,ok,NIA_SL_SEN0815_REAL02_F_morpheme.json
+SEN0816,버스 곳 차내리다 맞다,4,F,ok,NIA_SL_SEN0816_REAL02_F_morpheme.json
+SEN0817,버스 곳 내리다 맞다,4,F,ok,NIA_SL_SEN0817_REAL02_F_morpheme.json
+SEN0818,버스 곳 내리다 맞다,4,F,ok,NIA_SL_SEN0818_REAL02_F_morpheme.json
+SEN0819,버스 곳 차내리다 맞다,4,F,ok,NIA_SL_SEN0819_REAL02_F_morpheme.json
+SEN0820,버스 곳 차내리다 맞다,4,F,ok,NIA_SL_SEN0820_REAL02_F_morpheme.json
+SEN0821,건너다,1,F,ok,NIA_SL_SEN0821_REAL02_F_morpheme.json
+SEN0822,건너다 내리다,2,F,ok,NIA_SL_SEN0822_REAL02_F_morpheme.json
+SEN0823,건너다 내리다,2,F,ok,NIA_SL_SEN0823_REAL02_F_morpheme.json
+SEN0824,건너다 차내리다,2,F,ok,NIA_SL_SEN0824_REAL02_F_morpheme.json
+SEN0825,건너다 차내리다,2,F,ok,NIA_SL_SEN0825_REAL02_F_morpheme.json
+SEN0826,건너다 오케이,2,F,ok,NIA_SL_SEN0826_REAL02_F_morpheme.json
+SEN0827,건너다 차두다,2,F,ok,NIA_SL_SEN0827_REAL02_F_morpheme.json
+SEN0828,건너다 내리다 오케이,3,F,ok,NIA_SL_SEN0828_REAL02_F_morpheme.json
+SEN0829,건너다 내리다 오케이,3,F,ok,NIA_SL_SEN0829_REAL02_F_morpheme.json
+SEN0830,건너다 차내리다 오케이,3,F,ok,NIA_SL_SEN0830_REAL02_F_morpheme.json
+SEN0831,건너다 차내리다 오케이,3,F,ok,NIA_SL_SEN0831_REAL02_F_morpheme.json
+SEN0832,시청,1,F,ok,NIA_SL_SEN0832_REAL02_F_morpheme.json
+SEN0833,시청 내리다,2,F,ok,NIA_SL_SEN0833_REAL02_F_morpheme.json
+SEN0834,시청 내리다,2,F,ok,NIA_SL_SEN0834_REAL02_F_morpheme.json
+SEN0835,시청 차내리다,2,F,ok,NIA_SL_SEN0835_REAL02_F_morpheme.json
+SEN0836,시청 차내리다,2,F,ok,NIA_SL_SEN0836_REAL02_F_morpheme.json
+SEN0837,시청 오케이,2,F,ok,NIA_SL_SEN0837_REAL02_F_morpheme.json
+SEN0838,시청 차두다,2,F,ok,NIA_SL_SEN0838_REAL02_F_morpheme.json
+SEN0839,시청 내리다 오케이,3,F,ok,NIA_SL_SEN0839_REAL02_F_morpheme.json
+SEN0840,시청 내리다 오케이,3,F,ok,NIA_SL_SEN0840_REAL02_F_morpheme.json
+SEN0841,시청 차내리다 오케이,3,F,ok,NIA_SL_SEN0841_REAL02_F_morpheme.json
+SEN0842,시청 차내리다 오케이,3,F,ok,NIA_SL_SEN0842_REAL02_F_morpheme.json
+SEN0843,나사렛,1,F,ok,NIA_SL_SEN0843_REAL02_F_morpheme.json
+SEN0844,나사렛 내리다,2,F,ok,NIA_SL_SEN0844_REAL02_F_morpheme.json
+SEN0845,나사렛 내리다,2,F,ok,NIA_SL_SEN0845_REAL02_F_morpheme.json
+SEN0846,나사렛 차내리다,2,F,ok,NIA_SL_SEN0846_REAL02_F_morpheme.json
+SEN0847,나사렛 차내리다,2,F,ok,NIA_SL_SEN0847_REAL02_F_morpheme.json
+SEN0848,나사렛 오케이,2,F,ok,NIA_SL_SEN0848_REAL02_F_morpheme.json
+SEN0849,나사렛 가다,2,F,ok,NIA_SL_SEN0849_REAL02_F_morpheme.json
+SEN0850,나사렛 내리다 오케이,3,F,ok,NIA_SL_SEN0850_REAL02_F_morpheme.json
+SEN0851,나사렛 내리다 오케이,3,F,ok,NIA_SL_SEN0851_REAL02_F_morpheme.json
+SEN0852,나사렛 차내리다 오케이,3,F,ok,NIA_SL_SEN0852_REAL02_F_morpheme.json
+SEN0853,나사렛 차내리다 오케이,3,F,ok,NIA_SL_SEN0853_REAL02_F_morpheme.json
+SEN0854,차 뒤 트렁크열다,3,F,ok,NIA_SL_SEN0854_REAL02_F_morpheme.json
+SEN0855,차 엉덩이 트렁크열다,3,F,ok,NIA_SL_SEN0855_REAL02_F_morpheme.json
+SEN0856,차 뒤 들어올리다,3,F,ok,NIA_SL_SEN0856_REAL02_F_morpheme.json
+SEN0857,차 뒤 엉덩이 들어올리다,4,F,ok,NIA_SL_SEN0857_REAL02_F_morpheme.json
+SEN0858,차 트렁크열다,2,F,ok,NIA_SL_SEN0858_REAL02_F_morpheme.json
+SEN0859,차 뒤 트렁크열다,3,F,ok,NIA_SL_SEN0859_REAL02_F_morpheme.json
+SEN0860,차 엉덩이 트렁크열다,3,F,ok,NIA_SL_SEN0860_REAL02_F_morpheme.json
+SEN0861,차 뒤 들어올리다,3,F,ok,NIA_SL_SEN0861_REAL02_F_morpheme.json
+SEN0862,차 뒤 엉덩이 들어올리다,4,F,ok,NIA_SL_SEN0862_REAL02_F_morpheme.json
+SEN0863,한국농아인협회,1,F,ok,NIA_SL_SEN0863_REAL02_F_morpheme.json
+SEN0864,한국농아인협회 내리다,2,F,ok,NIA_SL_SEN0864_REAL02_F_morpheme.json
+SEN0865,한국농아인협회 내리다,2,F,ok,NIA_SL_SEN0865_REAL02_F_morpheme.json
+SEN0866,한국농아인협회 차내리다,2,F,ok,NIA_SL_SEN0866_REAL02_F_morpheme.json
+SEN0867,한국농아인협회 차내리다,2,F,ok,NIA_SL_SEN0867_REAL02_F_morpheme.json
+SEN0868,한국농아인협회 오케이,2,F,ok,NIA_SL_SEN0868_REAL02_F_morpheme.json
+SEN0869,한국농아인협회 가다,2,F,ok,NIA_SL_SEN0869_REAL02_F_morpheme.json
+SEN0870,한국농아인협회 내리다 오케이,3,F,ok,NIA_SL_SEN0870_REAL02_F_morpheme.json
+SEN0871,한국농아인협회 내리다 오케이,3,F,ok,NIA_SL_SEN0871_REAL02_F_morpheme.json
+SEN0872,한국농아인협회 차내리다 오케이,3,F,ok,NIA_SL_SEN0872_REAL02_F_morpheme.json
+SEN0873,서울농아인협회,1,F,ok,NIA_SL_SEN0873_REAL02_F_morpheme.json
+SEN0874,서울농아인협회 내리다,2,F,ok,NIA_SL_SEN0874_REAL02_F_morpheme.json
+SEN0875,서울농아인협회 내리다,2,F,ok,NIA_SL_SEN0875_REAL02_F_morpheme.json
+SEN0876,서울농아인협회 차내리다,2,F,ok,NIA_SL_SEN0876_REAL02_F_morpheme.json
+SEN0877,서울농아인협회 차내리다,2,F,ok,NIA_SL_SEN0877_REAL02_F_morpheme.json
+SEN0878,서울농아인협회 오케이,2,F,ok,NIA_SL_SEN0878_REAL02_F_morpheme.json
+SEN0879,서울농아인협회 가다,2,F,ok,NIA_SL_SEN0879_REAL02_F_morpheme.json
+SEN0880,서울농아인협회 내리다 오케이,3,F,ok,NIA_SL_SEN0880_REAL02_F_morpheme.json
+SEN0881,서울농아인협회 내리다 오케이,3,F,ok,NIA_SL_SEN0881_REAL02_F_morpheme.json
+SEN0882,서울농아인협회 차내리다 오케이,3,F,ok,NIA_SL_SEN0882_REAL02_F_morpheme.json
+SEN0883,서대문농아인복지관,1,F,ok,NIA_SL_SEN0883_REAL02_F_morpheme.json
+SEN0884,서대문농아인복지관 내리다,2,F,ok,NIA_SL_SEN0884_REAL02_F_morpheme.json
+SEN0885,서대문농아인복지관 내리다,2,F,ok,NIA_SL_SEN0885_REAL02_F_morpheme.json
+SEN0886,서대문농아인복지관 차내리다,2,F,ok,NIA_SL_SEN0886_REAL02_F_morpheme.json
+SEN0887,서대문농아인복지관 차내리다,2,F,ok,NIA_SL_SEN0887_REAL02_F_morpheme.json
+SEN0888,서대문농아인복지관 오케이,2,F,ok,NIA_SL_SEN0888_REAL02_F_morpheme.json
+SEN0889,서대문농아인복지관 가다,2,F,ok,NIA_SL_SEN0889_REAL02_F_morpheme.json
+SEN0890,서대문농아인복지관 내리다 오케이,3,F,ok,NIA_SL_SEN0890_REAL02_F_morpheme.json
+SEN0891,서대문농아인복지관 내리다 오케이,3,F,ok,NIA_SL_SEN0891_REAL02_F_morpheme.json
+SEN0892,서대문농아인복지관 차내리다 오케이,3,F,ok,NIA_SL_SEN0892_REAL02_F_morpheme.json
+SEN0893,에어컨 켜다,2,F,ok,NIA_SL_SEN0893_REAL02_F_morpheme.json
+SEN0894,에어컨 켜다,2,F,ok,NIA_SL_SEN0894_REAL02_F_morpheme.json
+SEN0895,에어컨,1,F,ok,NIA_SL_SEN0895_REAL02_F_morpheme.json
+SEN0896,에어컨 켜다,2,F,ok,NIA_SL_SEN0896_REAL02_F_morpheme.json
+SEN0897,에어컨,1,F,ok,NIA_SL_SEN0897_REAL02_F_morpheme.json
+SEN0898,에어컨 켜다,2,F,ok,NIA_SL_SEN0898_REAL02_F_morpheme.json
+SEN0899,에어컨 켜다,2,F,ok,NIA_SL_SEN0899_REAL02_F_morpheme.json
+SEN0900,에어컨 켜다,2,F,ok,NIA_SL_SEN0900_REAL02_F_morpheme.json
+SEN0901,에어컨,1,F,ok,NIA_SL_SEN0901_REAL02_F_morpheme.json
+SEN0902,춥다 켜다,2,F,ok,NIA_SL_SEN0902_REAL02_F_morpheme.json
+SEN0903,에어컨 켜다,2,F,ok,NIA_SL_SEN0903_REAL02_F_morpheme.json
+SEN0904,에어컨 켜다,2,F,ok,NIA_SL_SEN0904_REAL02_F_morpheme.json
+SEN0905,에어컨,1,F,ok,NIA_SL_SEN0905_REAL02_F_morpheme.json
+SEN0906,에어컨 켜다,2,F,ok,NIA_SL_SEN0906_REAL02_F_morpheme.json
+SEN0907,에어컨,1,F,ok,NIA_SL_SEN0907_REAL02_F_morpheme.json
+SEN0908,에어컨 켜다,2,F,ok,NIA_SL_SEN0908_REAL02_F_morpheme.json
+SEN0909,에어컨 켜다,2,F,ok,NIA_SL_SEN0909_REAL02_F_morpheme.json
+SEN0910,에어컨 켜다,2,F,ok,NIA_SL_SEN0910_REAL02_F_morpheme.json
+SEN0911,에어컨,1,F,ok,NIA_SL_SEN0911_REAL02_F_morpheme.json
+SEN0912,춥다 켜다,2,F,ok,NIA_SL_SEN0912_REAL02_F_morpheme.json
+SEN0913,난방 켜다,2,F,ok,NIA_SL_SEN0913_REAL02_F_morpheme.json
+SEN0914,난방 켜다,2,F,ok,NIA_SL_SEN0914_REAL02_F_morpheme.json
+SEN0915,난방 켜다,2,F,ok,NIA_SL_SEN0915_REAL02_F_morpheme.json
+SEN0916,난방,1,F,ok,NIA_SL_SEN0916_REAL02_F_morpheme.json
+SEN0917,따뜻하다 켜다,2,F,ok,NIA_SL_SEN0917_REAL02_F_morpheme.json
+SEN0918,난방 켜다,2,F,ok,NIA_SL_SEN0918_REAL02_F_morpheme.json
+SEN0919,난방 켜다,2,F,ok,NIA_SL_SEN0919_REAL02_F_morpheme.json
+SEN0920,난방 켜다,2,F,ok,NIA_SL_SEN0920_REAL02_F_morpheme.json
+SEN0921,난방,1,F,ok,NIA_SL_SEN0921_REAL02_F_morpheme.json
+SEN0922,따뜻하다 켜다,2,F,ok,NIA_SL_SEN0922_REAL02_F_morpheme.json
+SEN0923,한국농아인협회 가다,2,F,ok,NIA_SL_SEN0923_REAL02_F_morpheme.json
+SEN0924,한국농아인협회 가다,2,F,ok,NIA_SL_SEN0924_REAL02_F_morpheme.json
+SEN0925,한국농아인협회 내리다,2,F,ok,NIA_SL_SEN0925_REAL02_F_morpheme.json
+SEN0926,한국농아인협회 내리다,2,F,ok,NIA_SL_SEN0926_REAL02_F_morpheme.json
+SEN0927,한국농아인협회 차내리다,2,F,ok,NIA_SL_SEN0927_REAL02_F_morpheme.json
+SEN0928,한국농아인협회 차내리다,2,F,ok,NIA_SL_SEN0928_REAL02_F_morpheme.json
+SEN0929,한국농아인협회 도착,2,F,ok,NIA_SL_SEN0929_REAL02_F_morpheme.json
+SEN0930,한국농아인협회 목적,2,F,ok,NIA_SL_SEN0930_REAL02_F_morpheme.json
+SEN0931,한국농아인협회 곳,2,F,ok,NIA_SL_SEN0931_REAL02_F_morpheme.json
+SEN0932,한국농아인협회 가다,2,F,ok,NIA_SL_SEN0932_REAL02_F_morpheme.json
+SEN0933,서울농아인협회 가다,2,F,ok,NIA_SL_SEN0933_REAL02_F_morpheme.json
+SEN0934,서울농아인협회 가다,2,F,ok,NIA_SL_SEN0934_REAL02_F_morpheme.json
+SEN0935,서울농아인협회 내리다,2,F,ok,NIA_SL_SEN0935_REAL02_F_morpheme.json
+SEN0936,서울농아인협회 내리다,2,F,ok,NIA_SL_SEN0936_REAL02_F_morpheme.json
+SEN0937,서울농아인협회 차내리다,2,F,ok,NIA_SL_SEN0937_REAL02_F_morpheme.json
+SEN0938,서울농아인협회 차내리다,2,F,ok,NIA_SL_SEN0938_REAL02_F_morpheme.json
+SEN0939,서울농아인협회 도착,2,F,ok,NIA_SL_SEN0939_REAL02_F_morpheme.json
+SEN0940,서울농아인협회 목적,2,F,ok,NIA_SL_SEN0940_REAL02_F_morpheme.json
+SEN0941,서울농아인협회 곳,2,F,ok,NIA_SL_SEN0941_REAL02_F_morpheme.json
+SEN0942,서울농아인협회 가다,2,F,ok,NIA_SL_SEN0942_REAL02_F_morpheme.json
+SEN0943,서대문농아인복지관 가다,2,F,ok,NIA_SL_SEN0943_REAL02_F_morpheme.json
+SEN0944,서대문농아인복지관 가다,2,F,ok,NIA_SL_SEN0944_REAL02_F_morpheme.json
+SEN0945,서대문농아인복지관 내리다,2,F,ok,NIA_SL_SEN0945_REAL02_F_morpheme.json
+SEN0946,서대문농아인복지관 내리다,2,F,ok,NIA_SL_SEN0946_REAL02_F_morpheme.json
+SEN0947,서대문농아인복지관 차내리다,2,F,ok,NIA_SL_SEN0947_REAL02_F_morpheme.json
+SEN0948,서대문농아인복지관 차내리다,2,F,ok,NIA_SL_SEN0948_REAL02_F_morpheme.json
+SEN0949,서대문농아인복지관 도착,2,F,ok,NIA_SL_SEN0949_REAL02_F_morpheme.json
+SEN0950,서대문농아인복지관 목적,2,F,ok,NIA_SL_SEN0950_REAL02_F_morpheme.json
+SEN0951,서대문농아인복지관 곳,2,F,ok,NIA_SL_SEN0951_REAL02_F_morpheme.json
+SEN0952,서대문농아인복지관 가다,2,F,ok,NIA_SL_SEN0952_REAL02_F_morpheme.json
+SEN0953,청음회관 가다,2,F,ok,NIA_SL_SEN0953_REAL02_F_morpheme.json
+SEN0954,청음회관 가다,2,F,ok,NIA_SL_SEN0954_REAL02_F_morpheme.json
+SEN0955,청음회관 내리다,2,F,ok,NIA_SL_SEN0955_REAL02_F_morpheme.json
+SEN0956,청음회관 내리다,2,F,ok,NIA_SL_SEN0956_REAL02_F_morpheme.json
+SEN0957,청음회관 차내리다,2,F,ok,NIA_SL_SEN0957_REAL02_F_morpheme.json
+SEN0958,청음회관 차내리다,2,F,ok,NIA_SL_SEN0958_REAL02_F_morpheme.json
+SEN0959,청음회관 도착,2,F,ok,NIA_SL_SEN0959_REAL02_F_morpheme.json
+SEN0960,청음회관 목적,2,F,ok,NIA_SL_SEN0960_REAL02_F_morpheme.json
+SEN0961,청음회관 곳,2,F,ok,NIA_SL_SEN0961_REAL02_F_morpheme.json
+SEN0962,청음회관 가다,2,F,ok,NIA_SL_SEN0962_REAL02_F_morpheme.json
+SEN0963,천안아산역 가다,2,F,ok,NIA_SL_SEN0963_REAL02_F_morpheme.json
+SEN0964,천안아산역 가다,2,F,ok,NIA_SL_SEN0964_REAL02_F_morpheme.json
+SEN0965,천안아산역 내리다,2,F,ok,NIA_SL_SEN0965_REAL02_F_morpheme.json
+SEN0966,천안아산역 내리다,2,F,ok,NIA_SL_SEN0966_REAL02_F_morpheme.json
+SEN0967,천안아산역 차내리다,2,F,ok,NIA_SL_SEN0967_REAL02_F_morpheme.json
+SEN0968,에어컨 끄다,2,F,ok,NIA_SL_SEN0968_REAL02_F_morpheme.json
+SEN0969,춥다 끄다,2,F,ok,NIA_SL_SEN0969_REAL02_F_morpheme.json
+SEN0970,춥다 끄다,2,F,ok,NIA_SL_SEN0970_REAL02_F_morpheme.json
+SEN0971,에어컨 끄다,2,F,ok,NIA_SL_SEN0971_REAL02_F_morpheme.json
+SEN0972,에어컨 끄다,2,F,ok,NIA_SL_SEN0972_REAL02_F_morpheme.json
+SEN0973,난방 끄다,2,F,ok,NIA_SL_SEN0973_REAL02_F_morpheme.json
+SEN0974,난방 끄다,2,F,ok,NIA_SL_SEN0974_REAL02_F_morpheme.json
+SEN0975,따뜻하다 끄다,2,F,ok,NIA_SL_SEN0975_REAL02_F_morpheme.json
+SEN0976,따뜻하다 끄다,2,F,ok,NIA_SL_SEN0976_REAL02_F_morpheme.json
+SEN0977,따뜻하다 그만,2,F,ok,NIA_SL_SEN0977_REAL02_F_morpheme.json
+SEN0978,난방 끄다,2,F,ok,NIA_SL_SEN0978_REAL02_F_morpheme.json
+SEN0979,난방 끄다,2,F,ok,NIA_SL_SEN0979_REAL02_F_morpheme.json
+SEN0980,따뜻하다 끄다,2,F,ok,NIA_SL_SEN0980_REAL02_F_morpheme.json
+SEN0981,따뜻하다 끄다,2,F,ok,NIA_SL_SEN0981_REAL02_F_morpheme.json
+SEN0982,따뜻하다 그만,2,F,ok,NIA_SL_SEN0982_REAL02_F_morpheme.json
+SEN0983,청음회관,1,F,ok,NIA_SL_SEN0983_REAL02_F_morpheme.json
+SEN0984,청음회관 내리다,2,F,ok,NIA_SL_SEN0984_REAL02_F_morpheme.json
+SEN0985,청음회관 내리다,2,F,ok,NIA_SL_SEN0985_REAL02_F_morpheme.json
+SEN0986,청음회관 차내리다,2,F,ok,NIA_SL_SEN0986_REAL02_F_morpheme.json
+SEN0987,청음회관 차내리다,2,F,ok,NIA_SL_SEN0987_REAL02_F_morpheme.json
+SEN0988,청음회관 오케이,2,F,ok,NIA_SL_SEN0988_REAL02_F_morpheme.json
+SEN0989,청음회관 가다,2,F,ok,NIA_SL_SEN0989_REAL02_F_morpheme.json
+SEN0990,청음회관 내리다 오케이,3,F,ok,NIA_SL_SEN0990_REAL02_F_morpheme.json
+SEN0991,청음회관 내리다 오케이,3,F,ok,NIA_SL_SEN0991_REAL02_F_morpheme.json
+SEN0992,청음회관 차내리다 오케이,3,F,ok,NIA_SL_SEN0992_REAL02_F_morpheme.json
+SEN0993,청음회관 차내리다 오케이,3,F,ok,NIA_SL_SEN0993_REAL02_F_morpheme.json
+SEN0994,엘리베이터 무엇,2,F,ok,NIA_SL_SEN0994_REAL02_F_morpheme.json
+SEN0995,엘리베이터 곳,2,F,ok,NIA_SL_SEN0995_REAL02_F_morpheme.json
+SEN0996,엘리베이터 곳 무엇,3,F,ok,NIA_SL_SEN0996_REAL02_F_morpheme.json
+SEN0997,엘리베이터 곳곳,2,F,ok,NIA_SL_SEN0997_REAL02_F_morpheme.json
+SEN0998,엘리베이터 무엇 곳,3,F,ok,NIA_SL_SEN0998_REAL02_F_morpheme.json
+SEN0999,엘리베이터 뼈곳,2,F,ok,NIA_SL_SEN0999_REAL02_F_morpheme.json
+SEN1000,약 무엇,2,F,ok,NIA_SL_SEN1000_REAL02_F_morpheme.json
+SEN1001,약 곳,2,F,ok,NIA_SL_SEN1001_REAL02_F_morpheme.json
+SEN1002,약 곳 무엇,3,F,ok,NIA_SL_SEN1002_REAL02_F_morpheme.json
+SEN1003,약 곳곳,2,F,ok,NIA_SL_SEN1003_REAL02_F_morpheme.json
+SEN1004,약 무엇 곳,3,F,ok,NIA_SL_SEN1004_REAL02_F_morpheme.json
+SEN1005,약 뼈곳,2,F,ok,NIA_SL_SEN1005_REAL02_F_morpheme.json
+SEN1006,은행 무엇 길,3,F,ok,NIA_SL_SEN1006_REAL02_F_morpheme.json
+SEN1007,은행 길 무엇,3,F,ok,NIA_SL_SEN1007_REAL02_F_morpheme.json
+SEN1008,은행 길 곳,3,F,ok,NIA_SL_SEN1008_REAL02_F_morpheme.json
+SEN1009,은행 곳 길,3,F,ok,NIA_SL_SEN1009_REAL02_F_morpheme.json
+SEN1010,은행 길,2,F,ok,NIA_SL_SEN1010_REAL02_F_morpheme.json
+SEN1011,은행 곳 무엇,3,F,ok,NIA_SL_SEN1011_REAL02_F_morpheme.json
+SEN1012,자판기 어디 길,3,F,ok,NIA_SL_SEN1012_REAL02_F_morpheme.json
+SEN1013,자판기 길 무엇,3,F,ok,NIA_SL_SEN1013_REAL02_F_morpheme.json
+SEN1014,자판기 길 곳,3,F,ok,NIA_SL_SEN1014_REAL02_F_morpheme.json
+SEN1015,자판기 곳 길,3,F,ok,NIA_SL_SEN1015_REAL02_F_morpheme.json
+SEN1016,자판기 길,2,F,ok,NIA_SL_SEN1016_REAL02_F_morpheme.json
+SEN1017,자판기 곳 무엇,3,F,ok,NIA_SL_SEN1017_REAL02_F_morpheme.json
+SEN1018,편의점 무엇,2,F,ok,NIA_SL_SEN1018_REAL02_F_morpheme.json
+SEN1019,편의점 곳,2,F,ok,NIA_SL_SEN1019_REAL02_F_morpheme.json
+SEN1020,편의점 곳 무엇,3,F,ok,NIA_SL_SEN1020_REAL02_F_morpheme.json
+SEN1021,편의점 곳곳,2,F,ok,NIA_SL_SEN1021_REAL02_F_morpheme.json
+SEN1022,편의점 무엇 곳,3,F,ok,NIA_SL_SEN1022_REAL02_F_morpheme.json
+SEN1023,편의점 뼈곳,2,F,ok,NIA_SL_SEN1023_REAL02_F_morpheme.json
+SEN1024,의자 무엇,2,F,ok,NIA_SL_SEN1024_REAL02_F_morpheme.json
+SEN1025,의자 곳,2,F,ok,NIA_SL_SEN1025_REAL02_F_morpheme.json
+SEN1026,의자 곳 무엇,3,F,ok,NIA_SL_SEN1026_REAL02_F_morpheme.json
+SEN1027,의자 곳곳,2,F,ok,NIA_SL_SEN1027_REAL02_F_morpheme.json
+SEN1028,의자 무엇 곳,3,F,ok,NIA_SL_SEN1028_REAL02_F_morpheme.json
+SEN1029,의자 뼈곳,2,F,ok,NIA_SL_SEN1029_REAL02_F_morpheme.json
+SEN1030,회의실 무엇,2,F,ok,NIA_SL_SEN1030_REAL02_F_morpheme.json
+SEN1031,회의실 곳,2,F,ok,NIA_SL_SEN1031_REAL02_F_morpheme.json
+SEN1032,돈 얼마,2,F,ok,NIA_SL_SEN1032_REAL02_F_morpheme.json
+SEN1033,돈주다 얼마,2,F,ok,NIA_SL_SEN1033_REAL02_F_morpheme.json
+SEN1034,돈얼마,1,F,ok,NIA_SL_SEN1034_REAL02_F_morpheme.json
+SEN1035,돈주다 돈얼마,2,F,ok,NIA_SL_SEN1035_REAL02_F_morpheme.json
+SEN1036,회의실 곳 무엇,3,F,ok,NIA_SL_SEN1036_REAL02_F_morpheme.json
+SEN1037,회의실 곳곳,2,F,ok,NIA_SL_SEN1037_REAL02_F_morpheme.json
+SEN1038,회의실 무엇 곳,3,F,ok,NIA_SL_SEN1038_REAL02_F_morpheme.json
+SEN1039,안내소 무엇,2,F,ok,NIA_SL_SEN1039_REAL02_F_morpheme.json
+SEN1040,안내소 곳,2,F,ok,NIA_SL_SEN1040_REAL02_F_morpheme.json
+SEN1041,안내소 곳 무엇,3,F,ok,NIA_SL_SEN1041_REAL02_F_morpheme.json
+SEN1042,안내소 곳곳,2,F,ok,NIA_SL_SEN1042_REAL02_F_morpheme.json
+SEN1043,안내소 무엇 곳,3,F,ok,NIA_SL_SEN1043_REAL02_F_morpheme.json
+SEN1044,안내소 뼈곳,2,F,ok,NIA_SL_SEN1044_REAL02_F_morpheme.json
+SEN1045,아니다,1,F,ok,NIA_SL_SEN1045_REAL02_F_morpheme.json
+SEN1046,아니다,1,F,ok,NIA_SL_SEN1046_REAL02_F_morpheme.json
+SEN1047,계단 무엇,2,F,ok,NIA_SL_SEN1047_REAL02_F_morpheme.json
+SEN1048,계단 곳,2,F,ok,NIA_SL_SEN1048_REAL02_F_morpheme.json
+SEN1049,계단 곳 무엇,3,F,ok,NIA_SL_SEN1049_REAL02_F_morpheme.json
+SEN1050,계단 곳곳,2,F,ok,NIA_SL_SEN1050_REAL02_F_morpheme.json
+SEN1051,계단 무엇 곳,3,F,ok,NIA_SL_SEN1051_REAL02_F_morpheme.json
+SEN1052,계단 뼈곳,2,F,ok,NIA_SL_SEN1052_REAL02_F_morpheme.json
+SEN1053,물품보관 불량 죽다,3,F,ok,NIA_SL_SEN1053_REAL02_F_morpheme.json
+SEN1054,물품보관 고장 죽다,3,F,ok,NIA_SL_SEN1054_REAL02_F_morpheme.json
+SEN1055,물품보관 안되다 죽다,3,F,ok,NIA_SL_SEN1055_REAL02_F_morpheme.json
+SEN1056,물품보관 잘 안되다 죽다,4,F,ok,NIA_SL_SEN1056_REAL02_F_morpheme.json
+SEN1057,자판기 불량,2,F,ok,NIA_SL_SEN1057_REAL02_F_morpheme.json
+SEN1058,자판기 고장,2,F,ok,NIA_SL_SEN1058_REAL02_F_morpheme.json
+SEN1059,자판기 안되다,2,F,ok,NIA_SL_SEN1059_REAL02_F_morpheme.json
+SEN1060,자판기 잘 안되다,3,F,ok,NIA_SL_SEN1060_REAL02_F_morpheme.json
+SEN1061,자판기 사용 안되다,3,F,ok,NIA_SL_SEN1061_REAL02_F_morpheme.json
+SEN1062,자판기 사용 불가능,3,F,ok,NIA_SL_SEN1062_REAL02_F_morpheme.json
+SEN1063,자판기 불량 죽다,3,F,ok,NIA_SL_SEN1063_REAL02_F_morpheme.json
+SEN1064,자판기 고장 죽다,3,F,ok,NIA_SL_SEN1064_REAL02_F_morpheme.json
+SEN1065,자판기 안되다 죽다,3,F,ok,NIA_SL_SEN1065_REAL02_F_morpheme.json
+SEN1066,자판기 잘 안되다 죽다,4,F,ok,NIA_SL_SEN1066_REAL02_F_morpheme.json
+SEN1067,공기청정기 사용 안되다 죽다,4,F,ok,NIA_SL_SEN1067_REAL02_F_morpheme.json
+SEN1068,공기청정기 사용 안되다 죽다,4,F,ok,NIA_SL_SEN1068_REAL02_F_morpheme.json
+SEN1069,공기청정기 고장 불량,3,F,ok,NIA_SL_SEN1069_REAL02_F_morpheme.json
+SEN1070,공기청정기 안되다 불량,3,F,ok,NIA_SL_SEN1070_REAL02_F_morpheme.json
+SEN1071,공기청정기 잘 안되다 불량,4,F,ok,NIA_SL_SEN1071_REAL02_F_morpheme.json
+SEN1072,공기청정기 사용 안되다 불량,4,F,ok,NIA_SL_SEN1072_REAL02_F_morpheme.json
+SEN1073,공기청정기 사용 불가능 불량,4,F,ok,NIA_SL_SEN1073_REAL02_F_morpheme.json
+SEN1074,공기청정기 불량 고장,3,F,ok,NIA_SL_SEN1074_REAL02_F_morpheme.json
+SEN1075,공기청정기 안되다 고장,3,F,ok,NIA_SL_SEN1075_REAL02_F_morpheme.json
+SEN1076,공기청정기 잘 안되다 고장,4,F,ok,NIA_SL_SEN1076_REAL02_F_morpheme.json
+SEN1077,단말기터치 사용 안되다 고장,4,F,ok,NIA_SL_SEN1077_REAL02_F_morpheme.json
+SEN1078,단말기터치 사용 불가능 고장,4,F,ok,NIA_SL_SEN1078_REAL02_F_morpheme.json
+SEN1079,단말기터치 불량 안되다,3,F,ok,NIA_SL_SEN1079_REAL02_F_morpheme.json
+SEN1080,단말기터치 고장 안되다,3,F,ok,NIA_SL_SEN1080_REAL02_F_morpheme.json
+SEN1081,단말기터치 사용 불가능 안되다,4,F,ok,NIA_SL_SEN1081_REAL02_F_morpheme.json
+SEN1082,단말기터치 불량 잘 안되다,4,F,ok,NIA_SL_SEN1082_REAL02_F_morpheme.json
+SEN1083,단말기터치 고장 잘 안되다,4,F,ok,NIA_SL_SEN1083_REAL02_F_morpheme.json
+SEN1084,단말기터치 사용 잘 안되다,4,F,ok,NIA_SL_SEN1084_REAL02_F_morpheme.json
+SEN1085,단말기터치 불량 사용 안되다,4,F,ok,NIA_SL_SEN1085_REAL02_F_morpheme.json
+SEN1086,단말기터치 고장 사용 안되다,4,F,ok,NIA_SL_SEN1086_REAL02_F_morpheme.json
+SEN1087,카드 사용 안되다 고장,4,F,ok,NIA_SL_SEN1087_REAL02_F_morpheme.json
+SEN1088,카드 사용 불가능 고장,4,F,ok,NIA_SL_SEN1088_REAL02_F_morpheme.json
+SEN1089,카드 불량 안되다,3,F,ok,NIA_SL_SEN1089_REAL02_F_morpheme.json
+SEN1090,카드 고장 안되다,3,F,ok,NIA_SL_SEN1090_REAL02_F_morpheme.json
+SEN1091,카드 사용 불가능 안되다,4,F,ok,NIA_SL_SEN1091_REAL02_F_morpheme.json
+SEN1092,카드 불량 잘 안되다,4,F,ok,NIA_SL_SEN1092_REAL02_F_morpheme.json
+SEN1093,카드 고장 잘 안되다,4,F,ok,NIA_SL_SEN1093_REAL02_F_morpheme.json
+SEN1094,카드 사용 잘 안되다,4,F,ok,NIA_SL_SEN1094_REAL02_F_morpheme.json
+SEN1095,카드 불량 사용 안되다,4,F,ok,NIA_SL_SEN1095_REAL02_F_morpheme.json
+SEN1096,카드 고장 사용 안되다,4,F,ok,NIA_SL_SEN1096_REAL02_F_morpheme.json
+SEN1097,에어컨 사용 안되다 고장,4,F,ok,NIA_SL_SEN1097_REAL02_F_morpheme.json
+SEN1098,에어컨 사용 불가능 고장,4,F,ok,NIA_SL_SEN1098_REAL02_F_morpheme.json
+SEN1099,에어컨 불량 안되다,3,F,ok,NIA_SL_SEN1099_REAL02_F_morpheme.json
+SEN1100,에어컨 고장 안되다,3,F,ok,NIA_SL_SEN1100_REAL02_F_morpheme.json
+SEN1101,에어컨 사용 불가능 안되다,4,F,ok,NIA_SL_SEN1101_REAL02_F_morpheme.json
+SEN1102,에어컨 불량 잘 안되다,4,F,ok,NIA_SL_SEN1102_REAL02_F_morpheme.json
+SEN1103,에어컨 고장 잘 안되다,4,F,ok,NIA_SL_SEN1103_REAL02_F_morpheme.json
+SEN1104,에어컨 사용 잘 안되다,4,F,ok,NIA_SL_SEN1104_REAL02_F_morpheme.json
+SEN1105,에어컨 불량 사용 안되다,4,F,ok,NIA_SL_SEN1105_REAL02_F_morpheme.json
+SEN1106,에어컨 고장 사용 안되다,4,F,ok,NIA_SL_SEN1106_REAL02_F_morpheme.json
+SEN1107,난방 사용 안되다 불가능,4,F,ok,NIA_SL_SEN1107_REAL02_F_morpheme.json
+SEN1108,난방 불량 사용 불가능,4,F,ok,NIA_SL_SEN1108_REAL02_F_morpheme.json
+SEN1109,난방 고장 사용 불가능,4,F,ok,NIA_SL_SEN1109_REAL02_F_morpheme.json
+SEN1110,난방 안되다 사용 불가능,4,F,ok,NIA_SL_SEN1110_REAL02_F_morpheme.json
+SEN1111,난방 잘 안되다 사용 불가능,5,F,ok,NIA_SL_SEN1111_REAL02_F_morpheme.json
+SEN1112,엘리베이터 사용 안되다 불가능,4,F,ok,NIA_SL_SEN1112_REAL02_F_morpheme.json
+SEN1113,엘리베이터 불량 사용 불가능,4,F,ok,NIA_SL_SEN1113_REAL02_F_morpheme.json
+SEN1114,엘리베이터 고장 사용 불가능,4,F,ok,NIA_SL_SEN1114_REAL02_F_morpheme.json
+SEN1115,엘리베이터 안되다 사용 불가능,4,F,ok,NIA_SL_SEN1115_REAL02_F_morpheme.json
+SEN1116,엘리베이터 잘 안되다 사용 불가능,5,F,ok,NIA_SL_SEN1116_REAL02_F_morpheme.json
+SEN1117,물품보관 불량,2,F,ok,NIA_SL_SEN1117_REAL02_F_morpheme.json
+SEN1118,물품보관 고장,2,F,ok,NIA_SL_SEN1118_REAL02_F_morpheme.json
+SEN1119,물품보관 안되다,2,F,ok,NIA_SL_SEN1119_REAL02_F_morpheme.json
+SEN1120,물품보관 잘 안되다,3,F,ok,NIA_SL_SEN1120_REAL02_F_morpheme.json
+SEN1121,물품보관 사용 안되다,3,F,ok,NIA_SL_SEN1121_REAL02_F_morpheme.json
+SEN1122,물품보관 사용 불가능,3,F,ok,NIA_SL_SEN1122_REAL02_F_morpheme.json
+SEN1123,물품보관 불량 죽다,3,F,ok,NIA_SL_SEN1123_REAL02_F_morpheme.json
+SEN1124,물품보관 고장 죽다,3,F,ok,NIA_SL_SEN1124_REAL02_F_morpheme.json
+SEN1125,물품보관 안되다 죽다,3,F,ok,NIA_SL_SEN1125_REAL02_F_morpheme.json
+SEN1126,물품보관 잘 안되다 죽다,4,F,ok,NIA_SL_SEN1126_REAL02_F_morpheme.json
+SEN1127,자판기 불량,2,F,ok,NIA_SL_SEN1127_REAL02_F_morpheme.json
+SEN1128,자판기 고장,2,F,ok,NIA_SL_SEN1128_REAL02_F_morpheme.json
+SEN1129,자판기 안되다,2,F,ok,NIA_SL_SEN1129_REAL02_F_morpheme.json
+SEN1130,자판기 잘 안되다,3,F,ok,NIA_SL_SEN1130_REAL02_F_morpheme.json
+SEN1131,자판기 사용 안되다,3,F,ok,NIA_SL_SEN1131_REAL02_F_morpheme.json
+SEN1132,자판기 사용 불가능,3,F,ok,NIA_SL_SEN1132_REAL02_F_morpheme.json
+SEN1133,자판기 불량 죽다,3,F,ok,NIA_SL_SEN1133_REAL02_F_morpheme.json
+SEN1134,자판기 고장 죽다,3,F,ok,NIA_SL_SEN1134_REAL02_F_morpheme.json
+SEN1135,자판기 안되다 죽다,3,F,ok,NIA_SL_SEN1135_REAL02_F_morpheme.json
+SEN1136,자판기 잘 안되다 죽다,4,F,ok,NIA_SL_SEN1136_REAL02_F_morpheme.json
+SEN1137,단말기터치 불량,2,F,ok,NIA_SL_SEN1137_REAL02_F_morpheme.json
+SEN1138,단말기터치 고장,2,F,ok,NIA_SL_SEN1138_REAL02_F_morpheme.json
+SEN1139,단말기터치 안되다,2,F,ok,NIA_SL_SEN1139_REAL02_F_morpheme.json
+SEN1140,단말기터치 잘 안되다,3,F,ok,NIA_SL_SEN1140_REAL02_F_morpheme.json
+SEN1141,단말기터치 사용 안되다,3,F,ok,NIA_SL_SEN1141_REAL02_F_morpheme.json
+SEN1142,단말기터치 사용 불가능,3,F,ok,NIA_SL_SEN1142_REAL02_F_morpheme.json
+SEN1143,단말기터치 불량 죽다,3,F,ok,NIA_SL_SEN1143_REAL02_F_morpheme.json
+SEN1144,단말기터치 고장 죽다,3,F,ok,NIA_SL_SEN1144_REAL02_F_morpheme.json
+SEN1145,단말기터치 안되다 죽다,3,F,ok,NIA_SL_SEN1145_REAL02_F_morpheme.json
+SEN1146,단말기터치 잘 안되다 죽다,4,F,ok,NIA_SL_SEN1146_REAL02_F_morpheme.json
+SEN1147,카드 사용 안되다 고장,4,F,ok,NIA_SL_SEN1147_REAL02_F_morpheme.json
+SEN1148,카드 사용 불가능 고장,4,F,ok,NIA_SL_SEN1148_REAL02_F_morpheme.json
+SEN1149,카드 불량 안되다,3,F,ok,NIA_SL_SEN1149_REAL02_F_morpheme.json
+SEN1150,카드 고장 안되다,3,F,ok,NIA_SL_SEN1150_REAL02_F_morpheme.json
+SEN1151,카드 사용 불가능 안되다,4,F,ok,NIA_SL_SEN1151_REAL02_F_morpheme.json
+SEN1152,카드 불량 잘 안되다,4,F,ok,NIA_SL_SEN1152_REAL02_F_morpheme.json
+SEN1153,카드 고장 잘 안되다,4,F,ok,NIA_SL_SEN1153_REAL02_F_morpheme.json
+SEN1154,카드 사용 잘 안되다,4,F,ok,NIA_SL_SEN1154_REAL02_F_morpheme.json
+SEN1155,카드 불량 사용 안되다,4,F,ok,NIA_SL_SEN1155_REAL02_F_morpheme.json
+SEN1156,카드 고장 사용 안되다,4,F,ok,NIA_SL_SEN1156_REAL02_F_morpheme.json
+SEN1157,에어컨 사용 안되다 고장,4,F,ok,NIA_SL_SEN1157_REAL02_F_morpheme.json
+SEN1158,에어컨 사용 불가능 고장,4,F,ok,NIA_SL_SEN1158_REAL02_F_morpheme.json
+SEN1159,에어컨 불량 안되다,3,F,ok,NIA_SL_SEN1159_REAL02_F_morpheme.json
+SEN1160,에어컨 고장 안되다,3,F,ok,NIA_SL_SEN1160_REAL02_F_morpheme.json
+SEN1161,에어컨 사용 불가능 안되다,4,F,ok,NIA_SL_SEN1161_REAL02_F_morpheme.json
+SEN1162,에어컨 불량 잘 안되다,4,F,ok,NIA_SL_SEN1162_REAL02_F_morpheme.json
+SEN1163,에어컨 고장 잘 안되다,4,F,ok,NIA_SL_SEN1163_REAL02_F_morpheme.json
+SEN1164,에어컨 사용 잘 안되다,4,F,ok,NIA_SL_SEN1164_REAL02_F_morpheme.json
+SEN1165,에어컨 불량 사용 안되다,4,F,ok,NIA_SL_SEN1165_REAL02_F_morpheme.json
+SEN1166,에어컨 고장 사용 안되다,4,F,ok,NIA_SL_SEN1166_REAL02_F_morpheme.json
+SEN1167,공항 버스 곳 전 보다 도착 차내리다,7,F,ok,NIA_SL_SEN1167_REAL02_F_morpheme.json
+SEN1168,공항 버스 곳 전 보다 도착 차내리다,7,F,ok,NIA_SL_SEN1168_REAL02_F_morpheme.json
+SEN1169,공항 버스 전 곳 보다 도착 내리다,7,F,ok,NIA_SL_SEN1169_REAL02_F_morpheme.json
+SEN1170,공항 버스 전 곳 보다 도착 내리다,7,F,ok,NIA_SL_SEN1170_REAL02_F_morpheme.json
+SEN1171,공항 버스 전 곳 보다 도착 차내리다,7,F,ok,NIA_SL_SEN1171_REAL02_F_morpheme.json
+SEN1172,공항 버스 전 곳 보다 도착 차내리다,7,F,ok,NIA_SL_SEN1172_REAL02_F_morpheme.json
+SEN1173,열쇠 잃어버리다,2,F,ok,NIA_SL_SEN1173_REAL02_F_morpheme.json
+SEN1174,공항 버스 곳 전 보다 저기,6,F,ok,NIA_SL_SEN1174_REAL02_F_morpheme.json
+SEN1175,열쇠 없다 잃어버리다,3,F,ok,NIA_SL_SEN1175_REAL02_F_morpheme.json
+SEN1176,공항 버스 전 곳 보다 저기,6,F,ok,NIA_SL_SEN1176_REAL02_F_morpheme.json
+SEN1177,공항 버스 보다 곳 전 내리다,6,F,ok,NIA_SL_SEN1177_REAL02_F_morpheme.json
+SEN1178,공항 버스 보다 곳 전 내리다,6,F,ok,NIA_SL_SEN1178_REAL02_F_morpheme.json
+SEN1179,공항 버스 보다 곳 전 차내리다,6,F,ok,NIA_SL_SEN1179_REAL02_F_morpheme.json
+SEN1180,공항 버스 보다 곳 전 차내리다,6,F,ok,NIA_SL_SEN1180_REAL02_F_morpheme.json
+SEN1181,공항 버스 보다 전 곳 내리다,6,F,ok,NIA_SL_SEN1181_REAL02_F_morpheme.json
+SEN1182,공항 버스 보다 전 곳 내리다,6,F,ok,NIA_SL_SEN1182_REAL02_F_morpheme.json
+SEN1183,공항 버스 보다 전 곳 차내리다,6,F,ok,NIA_SL_SEN1183_REAL02_F_morpheme.json
+SEN1184,공항 버스 보다 전 곳 차내리다,6,F,ok,NIA_SL_SEN1184_REAL02_F_morpheme.json
+SEN1185,공항 버스 보다 곳 전 도착 내리다,7,F,ok,NIA_SL_SEN1185_REAL02_F_morpheme.json
+SEN1186,공항 버스 보다 곳 전 도착 내리다,7,F,ok,NIA_SL_SEN1186_REAL02_F_morpheme.json
+SEN1187,버스 전 저기 곳 저기,5,F,ok,NIA_SL_SEN1187_REAL02_F_morpheme.json
+SEN1188,열쇠 실종,2,F,ok,NIA_SL_SEN1188_REAL02_F_morpheme.json
+SEN1189,버스 전 곳 저기 내리다,5,F,ok,NIA_SL_SEN1189_REAL02_F_morpheme.json
+SEN1190,버스 전 곳 저기 내리다,5,F,ok,NIA_SL_SEN1190_REAL02_F_morpheme.json
+SEN1191,버스 전 곳 저기 차내리다,5,F,ok,NIA_SL_SEN1191_REAL02_F_morpheme.json
+SEN1192,버스 전 곳 저기 차내리다,5,F,ok,NIA_SL_SEN1192_REAL02_F_morpheme.json
+SEN1193,버스 전 곳 저기 도착 내리다,6,F,ok,NIA_SL_SEN1193_REAL02_F_morpheme.json
+SEN1194,버스 전 곳 저기 도착 내리다,6,F,ok,NIA_SL_SEN1194_REAL02_F_morpheme.json
+SEN1195,버스 전 곳 저기 도착 차내리다,6,F,ok,NIA_SL_SEN1195_REAL02_F_morpheme.json
+SEN1196,버스 전 곳 저기 도착 차내리다,6,F,ok,NIA_SL_SEN1196_REAL02_F_morpheme.json
+SEN1197,버스 곳 전 보다 내리다,5,F,ok,NIA_SL_SEN1197_REAL02_F_morpheme.json
+SEN1198,버스 곳 전 보다 차내리다,5,F,ok,NIA_SL_SEN1198_REAL02_F_morpheme.json
+SEN1199,버스 곳 전 보다 차내리다,5,F,ok,NIA_SL_SEN1199_REAL02_F_morpheme.json
+SEN1200,버스 곳 전 보다 차내리다,5,F,ok,NIA_SL_SEN1200_REAL02_F_morpheme.json
+SEN1201,버스 전 곳 보다 내리다,5,F,ok,NIA_SL_SEN1201_REAL02_F_morpheme.json
+SEN1202,버스 전 곳 보다 내리다,5,F,ok,NIA_SL_SEN1202_REAL02_F_morpheme.json
+SEN1203,버스 전 곳 보다 차내리다,5,F,ok,NIA_SL_SEN1203_REAL02_F_morpheme.json
+SEN1204,버스 전 곳 보다 차내리다,5,F,ok,NIA_SL_SEN1204_REAL02_F_morpheme.json
+SEN1205,버스 곳 전 보다 도착 내리다,6,F,ok,NIA_SL_SEN1205_REAL02_F_morpheme.json
+SEN1206,버스 곳 전 보다 도착 내리다,6,F,ok,NIA_SL_SEN1206_REAL02_F_morpheme.json
+SEN1207,스타벅스 저기 곳 전 저기,5,F,ok,NIA_SL_SEN1207_REAL02_F_morpheme.json
+SEN1208,열쇠 없다 실종,3,F,ok,NIA_SL_SEN1208_REAL02_F_morpheme.json
+SEN1209,스타벅스 곳 저기 전 내리다,5,F,ok,NIA_SL_SEN1209_REAL02_F_morpheme.json
+SEN1210,스타벅스 곳 저기 전 내리다,5,F,ok,NIA_SL_SEN1210_REAL02_F_morpheme.json
+SEN1211,스타벅스 곳 저기 전 차내리다,5,F,ok,NIA_SL_SEN1211_REAL02_F_morpheme.json
+SEN1212,스타벅스 곳 저기 전 차내리다,5,F,ok,NIA_SL_SEN1212_REAL02_F_morpheme.json
+SEN1213,스타벅스 곳 저기 전,4,F,ok,NIA_SL_SEN1213_REAL02_F_morpheme.json
+SEN1214,스타벅스 곳 저기 전 도착 내리다,6,F,ok,NIA_SL_SEN1214_REAL02_F_morpheme.json
+SEN1215,스타벅스 곳 저기 전 도착 내리다,6,F,ok,NIA_SL_SEN1215_REAL02_F_morpheme.json
+SEN1216,스타벅스 곳 저기 전 도착 차내리다,6,F,ok,NIA_SL_SEN1216_REAL02_F_morpheme.json
+SEN1217,스타벅스 곳 전 저기 도착 차내리다,6,F,ok,NIA_SL_SEN1217_REAL02_F_morpheme.json
+SEN1218,열쇠 찾다 실종,3,F,ok,NIA_SL_SEN1218_REAL02_F_morpheme.json
+SEN1219,스타벅스 곳 저기 전 저기,5,F,ok,NIA_SL_SEN1219_REAL02_F_morpheme.json
+SEN1220,스타벅스 전 곳 내리다,4,F,ok,NIA_SL_SEN1220_REAL02_F_morpheme.json
+SEN1221,스타벅스 전 곳 내리다,4,F,ok,NIA_SL_SEN1221_REAL02_F_morpheme.json
+SEN1222,스타벅스 전 곳 차내리다,4,F,ok,NIA_SL_SEN1222_REAL02_F_morpheme.json
+SEN1223,스타벅스 전 곳 차내리다,4,F,ok,NIA_SL_SEN1223_REAL02_F_morpheme.json
+SEN1224,스타벅스 전 곳 도착 내리다,5,F,ok,NIA_SL_SEN1224_REAL02_F_morpheme.json
+SEN1225,스타벅스 전 곳 도착 내리다,5,F,ok,NIA_SL_SEN1225_REAL02_F_morpheme.json
+SEN1226,스타벅스 전 곳 도착 차내리다,5,F,ok,NIA_SL_SEN1226_REAL02_F_morpheme.json
+SEN1227,택시 전 곳 도착 차내리다,5,F,ok,NIA_SL_SEN1227_REAL02_F_morpheme.json
+SEN1228,열쇠 사라지다 실종,3,F,ok,NIA_SL_SEN1228_REAL02_F_morpheme.json
+SEN1229,택시 전 곳 저기,4,F,ok,NIA_SL_SEN1229_REAL02_F_morpheme.json
+SEN1230,택시 전 저기 내리다,4,F,ok,NIA_SL_SEN1230_REAL02_F_morpheme.json
+SEN1231,택시 전 저기 내리다,4,F,ok,NIA_SL_SEN1231_REAL02_F_morpheme.json
+SEN1232,택시 전 저기 차내리다,4,F,ok,NIA_SL_SEN1232_REAL02_F_morpheme.json
+SEN1233,택시 전 저기 차내리다,4,F,ok,NIA_SL_SEN1233_REAL02_F_morpheme.json
+SEN1234,택시 전 저기 곳,4,F,ok,NIA_SL_SEN1234_REAL02_F_morpheme.json
+SEN1235,택시 전 저기 도착 내리다,5,F,ok,NIA_SL_SEN1235_REAL02_F_morpheme.json
+SEN1236,택시 전 저기 도착 내리다,5,F,ok,NIA_SL_SEN1236_REAL02_F_morpheme.json
+SEN1237,택시 전 저기 도착 차내리다,5,F,ok,NIA_SL_SEN1237_REAL02_F_morpheme.json
+SEN1238,택시 전 저기 도착 차내리다,5,F,ok,NIA_SL_SEN1238_REAL02_F_morpheme.json
+SEN1239,택시 전 저기 곳 내리다,5,F,ok,NIA_SL_SEN1239_REAL02_F_morpheme.json
+SEN1240,택시 전 저기 곳 내리다,5,F,ok,NIA_SL_SEN1240_REAL02_F_morpheme.json
+SEN1241,택시 전 저기 곳 차내리다,5,F,ok,NIA_SL_SEN1241_REAL02_F_morpheme.json
+SEN1242,택시 전 저기 곳 차내리다,5,F,ok,NIA_SL_SEN1242_REAL02_F_morpheme.json
+SEN1243,택시 전 저기 곳 도착 내리다,6,F,ok,NIA_SL_SEN1243_REAL02_F_morpheme.json
+SEN1244,택시 전 저기 곳 도착 내리다,6,F,ok,NIA_SL_SEN1244_REAL02_F_morpheme.json
+SEN1245,택시 전 저기 곳 도착 차내리다,6,F,ok,NIA_SL_SEN1245_REAL02_F_morpheme.json
+SEN1246,택시 전 저기 곳 도착 차내리다,6,F,ok,NIA_SL_SEN1246_REAL02_F_morpheme.json
+SEN1247,맥도날드 보다 곳 다음 내리다,5,F,ok,NIA_SL_SEN1247_REAL02_F_morpheme.json
+SEN1248,맥도날드 보다 곳 다음 내리다,5,F,ok,NIA_SL_SEN1248_REAL02_F_morpheme.json
+SEN1249,맥도날드 보다 곳 다음 차내리다,5,F,ok,NIA_SL_SEN1249_REAL02_F_morpheme.json
+SEN1250,맥도날드 보다 곳 다음 차내리다,5,F,ok,NIA_SL_SEN1250_REAL02_F_morpheme.json
+SEN1251,맥도날드 보다 다음 곳 내리다,5,F,ok,NIA_SL_SEN1251_REAL02_F_morpheme.json
+SEN1252,맥도날드 보다 다음 곳 내리다,5,F,ok,NIA_SL_SEN1252_REAL02_F_morpheme.json
+SEN1253,맥도날드 보다 다음 곳 차내리다,5,F,ok,NIA_SL_SEN1253_REAL02_F_morpheme.json
+SEN1254,맥도날드 보다 다음 곳 차내리다,5,F,ok,NIA_SL_SEN1254_REAL02_F_morpheme.json
+SEN1255,맥도날드 보다 곳 다음 도착 내리다,6,F,ok,NIA_SL_SEN1255_REAL02_F_morpheme.json
+SEN1256,맥도날드 보다 곳 다음 도착 내리다,6,F,ok,NIA_SL_SEN1256_REAL02_F_morpheme.json
+SEN1257,맥도날드 보다 곳 저기 다음 내리다,6,F,ok,NIA_SL_SEN1257_REAL02_F_morpheme.json
+SEN1258,맥도날드 보다 곳 저기 다음 내리다,6,F,ok,NIA_SL_SEN1258_REAL02_F_morpheme.json
+SEN1259,맥도날드 보다 곳 저기 다음 차내리다,6,F,ok,NIA_SL_SEN1259_REAL02_F_morpheme.json
+SEN1260,맥도날드 보다 곳 저기 다음 차내리다,6,F,ok,NIA_SL_SEN1260_REAL02_F_morpheme.json
+SEN1261,맥도날드 보다 다음 저기 곳 내리다,6,F,ok,NIA_SL_SEN1261_REAL02_F_morpheme.json
+SEN1262,맥도날드 보다 다음 저기 곳 내리다,6,F,ok,NIA_SL_SEN1262_REAL02_F_morpheme.json
+SEN1263,맥도날드 보다 다음 저기 곳 차내리다,6,F,ok,NIA_SL_SEN1263_REAL02_F_morpheme.json
+SEN1264,맥도날드 보다 다음 저기 곳 차내리다,6,F,ok,NIA_SL_SEN1264_REAL02_F_morpheme.json
+SEN1265,맥도날드 보다 곳 저기 다음 도착 내리다,7,F,ok,NIA_SL_SEN1265_REAL02_F_morpheme.json
+SEN1266,맥도날드 보다 곳 저기 다음 도착 내리다,7,F,ok,NIA_SL_SEN1266_REAL02_F_morpheme.json
+SEN1267,열쇠 잃어버리다 실종,3,F,ok,NIA_SL_SEN1267_REAL02_F_morpheme.json
+SEN1268,백화점 다음 저기 곳 저기,5,F,ok,NIA_SL_SEN1268_REAL02_F_morpheme.json
+SEN1269,백화점 다음 곳 저기 내리다,5,F,ok,NIA_SL_SEN1269_REAL02_F_morpheme.json
+SEN1270,백화점 다음 곳 저기 내리다,5,F,ok,NIA_SL_SEN1270_REAL02_F_morpheme.json
+SEN1271,백화점 다음 곳 저기 차내리다,5,F,ok,NIA_SL_SEN1271_REAL02_F_morpheme.json
+SEN1272,백화점 다음 곳 저기 차내리다,5,F,ok,NIA_SL_SEN1272_REAL02_F_morpheme.json
+SEN1273,백화점 다음 곳 저기 도착 내리다,6,F,ok,NIA_SL_SEN1273_REAL02_F_morpheme.json
+SEN1274,백화점 다음 곳 저기 도착 내리다,6,F,ok,NIA_SL_SEN1274_REAL02_F_morpheme.json
+SEN1275,백화점 다음 곳 저기 도착 차내리다,6,F,ok,NIA_SL_SEN1275_REAL02_F_morpheme.json
+SEN1276,백화점 다음 곳 저기 도착 차내리다,6,F,ok,NIA_SL_SEN1276_REAL02_F_morpheme.json
+SEN1277,백화점 곳 다음 보다 내리다,5,F,ok,NIA_SL_SEN1277_REAL02_F_morpheme.json
+SEN1278,백화점 곳 다음 보다 내리다,5,F,ok,NIA_SL_SEN1278_REAL02_F_morpheme.json
+SEN1279,백화점 곳 다음 보다 차내리다,5,F,ok,NIA_SL_SEN1279_REAL02_F_morpheme.json
+SEN1280,백화점 곳 다음 보다 차내리다,5,F,ok,NIA_SL_SEN1280_REAL02_F_morpheme.json
+SEN1281,백화점 다음 곳 보다 차내리다,5,F,ok,NIA_SL_SEN1281_REAL02_F_morpheme.json
+SEN1282,백화점 다음 곳 보다 내리다,5,F,ok,NIA_SL_SEN1282_REAL02_F_morpheme.json
+SEN1283,백화점 다음 곳 보다 차내리다,5,F,ok,NIA_SL_SEN1283_REAL02_F_morpheme.json
+SEN1284,백화점 다음 곳 보다 차내리다,5,F,ok,NIA_SL_SEN1284_REAL02_F_morpheme.json
+SEN1285,백화점 곳 다음 보다 도착 내리다,6,F,ok,NIA_SL_SEN1285_REAL02_F_morpheme.json
+SEN1286,백화점 곳 다음 보다 도착 내리다,6,F,ok,NIA_SL_SEN1286_REAL02_F_morpheme.json
+SEN1287,열쇠 실종 잃어버리다,3,F,ok,NIA_SL_SEN1287_REAL02_F_morpheme.json
+SEN1288,이마트 저기 곳 다음 저기,5,F,ok,NIA_SL_SEN1288_REAL02_F_morpheme.json
+SEN1289,이마트 곳 저기 다음 내리다,5,F,ok,NIA_SL_SEN1289_REAL02_F_morpheme.json
+SEN1290,이마트 곳 저기 다음 내리다,5,F,ok,NIA_SL_SEN1290_REAL02_F_morpheme.json
+SEN1291,이마트 곳 저기 다음 차내리다,5,F,ok,NIA_SL_SEN1291_REAL02_F_morpheme.json
+SEN1292,이마트 곳 저기 다음 차내리다,5,F,ok,NIA_SL_SEN1292_REAL02_F_morpheme.json
+SEN1293,이마트 곳 저기 다음,4,F,ok,NIA_SL_SEN1293_REAL02_F_morpheme.json
+SEN1294,이마트 곳 저기 다음 도착 내리다,6,F,ok,NIA_SL_SEN1294_REAL02_F_morpheme.json
+SEN1295,이마트 곳 저기 다음 도착 내리다,6,F,ok,NIA_SL_SEN1295_REAL02_F_morpheme.json
+SEN1296,이마트 곳 저기 다음 도착 차내리다,6,F,ok,NIA_SL_SEN1296_REAL02_F_morpheme.json
+SEN1297,이마트 곳 저기 다음 도착 차내리다,6,F,ok,NIA_SL_SEN1297_REAL02_F_morpheme.json
+SEN1298,우산 잃어버리다,2,F,ok,NIA_SL_SEN1298_REAL02_F_morpheme.json
+SEN1299,이마트 곳 저기 다음 저기,5,F,ok,NIA_SL_SEN1299_REAL02_F_morpheme.json
+SEN1300,이마트 다음 곳 내리다,4,F,ok,NIA_SL_SEN1300_REAL02_F_morpheme.json
+SEN1301,이마트 다음 곳 내리다,4,F,ok,NIA_SL_SEN1301_REAL02_F_morpheme.json
+SEN1302,이마트 다음 곳 차내리다,4,F,ok,NIA_SL_SEN1302_REAL02_F_morpheme.json
+SEN1303,이마트 다음 곳 차내리다,4,F,ok,NIA_SL_SEN1303_REAL02_F_morpheme.json
+SEN1304,이마트 다음 곳 도착 내리다,5,F,ok,NIA_SL_SEN1304_REAL02_F_morpheme.json
+SEN1305,이마트 다음 곳 도착 내리다,5,F,ok,NIA_SL_SEN1305_REAL02_F_morpheme.json
+SEN1306,이마트 다음 곳 도착 차내리다,5,F,ok,NIA_SL_SEN1306_REAL02_F_morpheme.json
+SEN1307,파리바게트 다음 곳 도착 차내리다,5,F,ok,NIA_SL_SEN1307_REAL02_F_morpheme.json
+SEN1308,우산 없다 잃어버리다,3,F,ok,NIA_SL_SEN1308_REAL02_F_morpheme.json
+SEN1309,파리바게트 다음 곳 저기,4,F,ok,NIA_SL_SEN1309_REAL02_F_morpheme.json
+SEN1310,파리바게트 다음 저기 내리다,4,F,ok,NIA_SL_SEN1310_REAL02_F_morpheme.json
+SEN1311,파리바게트 다음 저기 내리다,4,F,ok,NIA_SL_SEN1311_REAL02_F_morpheme.json
+SEN1312,파리바게트 다음 저기 차내리다,4,F,ok,NIA_SL_SEN1312_REAL02_F_morpheme.json
+SEN1313,파리바게트 다음 저기 차내리다,4,F,ok,NIA_SL_SEN1313_REAL02_F_morpheme.json
+SEN1314,파리바게트 다음 저기 곳,4,F,ok,NIA_SL_SEN1314_REAL02_F_morpheme.json
+SEN1315,파리바게트 다음 저기 도착 내리다,5,F,ok,NIA_SL_SEN1315_REAL02_F_morpheme.json
+SEN1316,파리바게트 다음 저기 도착 내리다,5,F,ok,NIA_SL_SEN1316_REAL02_F_morpheme.json
+SEN1317,파리바게트 다음 저기 도착 차내리다,5,F,ok,NIA_SL_SEN1317_REAL02_F_morpheme.json
+SEN1318,파리바게트 다음 저기 도착 차내리다,5,F,ok,NIA_SL_SEN1318_REAL02_F_morpheme.json
+SEN1319,파리바게트 다음 저기 곳 내리다,5,F,ok,NIA_SL_SEN1319_REAL02_F_morpheme.json
+SEN1320,파리바게트 다음 저기 곳 내리다,5,F,ok,NIA_SL_SEN1320_REAL02_F_morpheme.json
+SEN1321,파리바게트 다음 저기 곳 차내리다,5,F,ok,NIA_SL_SEN1321_REAL02_F_morpheme.json
+SEN1322,파리바게트 다음 저기 곳 차내리다,5,F,ok,NIA_SL_SEN1322_REAL02_F_morpheme.json
+SEN1323,파리바게트 다음 저기 곳 도착 내리다,6,F,ok,NIA_SL_SEN1323_REAL02_F_morpheme.json
+SEN1324,파리바게트 다음 저기 곳 도착 내리다,6,F,ok,NIA_SL_SEN1324_REAL02_F_morpheme.json
+SEN1325,파리바게트 다음 저기 곳 도착 차내리다,6,F,ok,NIA_SL_SEN1325_REAL02_F_morpheme.json
+SEN1326,파리바게트 다음 저기 곳 도착 차내리다,6,F,ok,NIA_SL_SEN1326_REAL02_F_morpheme.json
+SEN1327,3 가다 무엇 방법,4,F,ok,NIA_SL_SEN1327_REAL02_F_morpheme.json
+SEN1328,3 가다 원하다 무엇 방법,5,F,ok,NIA_SL_SEN1328_REAL02_F_morpheme.json
+SEN1329,3 찾다 무엇 방법,4,F,ok,NIA_SL_SEN1329_REAL02_F_morpheme.json
+SEN1330,3 목적 곳 방법,4,F,ok,NIA_SL_SEN1330_REAL02_F_morpheme.json
+SEN1331,3 가다 원하다 곳 방법,5,F,ok,NIA_SL_SEN1331_REAL02_F_morpheme.json
+SEN1332,3 찾다 곳 방법,4,F,ok,NIA_SL_SEN1332_REAL02_F_morpheme.json
+SEN1333,3 곳 길 방법,4,F,ok,NIA_SL_SEN1333_REAL02_F_morpheme.json
+SEN1334,3 목적 길 방법,4,F,ok,NIA_SL_SEN1334_REAL02_F_morpheme.json
+SEN1335,3 가다 길 방법,4,F,ok,NIA_SL_SEN1335_REAL02_F_morpheme.json
+SEN1336,3 가다 원하다 길 방법,5,F,ok,NIA_SL_SEN1336_REAL02_F_morpheme.json
+SEN1337,3 찾다 길 방법,4,F,ok,NIA_SL_SEN1337_REAL02_F_morpheme.json
+SEN1338,3 곳 길 무엇,4,F,ok,NIA_SL_SEN1338_REAL02_F_morpheme.json
+SEN1339,3 목적 길 무엇,4,F,ok,NIA_SL_SEN1339_REAL02_F_morpheme.json
+SEN1340,3 가다 길 무엇,4,F,ok,NIA_SL_SEN1340_REAL02_F_morpheme.json
+SEN1341,3 가다 원하다 길 무엇,5,F,ok,NIA_SL_SEN1341_REAL02_F_morpheme.json
+SEN1342,3 찾다 길 무엇,4,F,ok,NIA_SL_SEN1342_REAL02_F_morpheme.json
+SEN1343,서울대학교 가다 목적 길 무엇,5,F,ok,NIA_SL_SEN1343_REAL02_F_morpheme.json
+SEN1344,서울대학교 찾다 목적 길 무엇,5,F,ok,NIA_SL_SEN1344_REAL02_F_morpheme.json
+SEN1345,서울대학교 곳 목적 가다 방법,5,F,ok,NIA_SL_SEN1345_REAL02_F_morpheme.json
+SEN1346,서울대학교 길 목적 가다 방법,5,F,ok,NIA_SL_SEN1346_REAL02_F_morpheme.json
+SEN1347,서울대학교 가다 목적 가다 방법,5,F,ok,NIA_SL_SEN1347_REAL02_F_morpheme.json
+SEN1348,서울대학교 찾다 목적 가다 방법,5,F,ok,NIA_SL_SEN1348_REAL02_F_morpheme.json
+SEN1349,서울대학교 곳 목적 길 가다 방법,6,F,ok,NIA_SL_SEN1349_REAL02_F_morpheme.json
+SEN1350,서울대학교 길 목적 길 가다 방법,6,F,ok,NIA_SL_SEN1350_REAL02_F_morpheme.json
+SEN1351,서울대학교 가다 목적 길 가다 방법,6,F,ok,NIA_SL_SEN1351_REAL02_F_morpheme.json
+SEN1352,서울대학교 찾다 목적 길 가다 방법,6,F,ok,NIA_SL_SEN1352_REAL02_F_morpheme.json
+SEN1353,서울대학교 찾다 가다 길 무엇,5,F,ok,NIA_SL_SEN1353_REAL02_F_morpheme.json
+SEN1354,서울대학교 목적 가다 길 무엇,5,F,ok,NIA_SL_SEN1354_REAL02_F_morpheme.json
+SEN1355,서울대학교 곳 가다 길 가다 방법,6,F,ok,NIA_SL_SEN1355_REAL02_F_morpheme.json
+SEN1356,서울대학교 가다 원하다 길 가다 방법,6,F,ok,NIA_SL_SEN1356_REAL02_F_morpheme.json
+SEN1357,서울대학교 찾다 가다 길 가다 방법,6,F,ok,NIA_SL_SEN1357_REAL02_F_morpheme.json
+SEN1358,서울대학교 목적 가다 길 가다 방법,6,F,ok,NIA_SL_SEN1358_REAL02_F_morpheme.json
+SEN1359,서울대학교 곳 찾다 무엇,4,F,ok,NIA_SL_SEN1359_REAL02_F_morpheme.json
+SEN1360,서울대학교 길 찾다 무엇,4,F,ok,NIA_SL_SEN1360_REAL02_F_morpheme.json
+SEN1361,서울대학교 곳 찾다 방법,4,F,ok,NIA_SL_SEN1361_REAL02_F_morpheme.json
+SEN1362,서울대학교 길 찾다 방법,4,F,ok,NIA_SL_SEN1362_REAL02_F_morpheme.json
+SEN1363,송파 지하철 가다 방법,4,F,ok,NIA_SL_SEN1363_REAL02_F_morpheme.json
+SEN1364,송파 지하철 곳 방법 무엇,5,F,ok,NIA_SL_SEN1364_REAL02_F_morpheme.json
+SEN1365,송파 지하철 길 방법 무엇,5,F,ok,NIA_SL_SEN1365_REAL02_F_morpheme.json
+SEN1366,송파 지하철 목적 방법 무엇,5,F,ok,NIA_SL_SEN1366_REAL02_F_morpheme.json
+SEN1367,송파 지하철 가다 방법 무엇,5,F,ok,NIA_SL_SEN1367_REAL02_F_morpheme.json
+SEN1368,송파 지하철 가다 원하다 방법 무엇,6,F,ok,NIA_SL_SEN1368_REAL02_F_morpheme.json
+SEN1369,송파 지하철 찾다 방법 무엇,5,F,ok,NIA_SL_SEN1369_REAL02_F_morpheme.json
+SEN1370,송파 지하철 곳 무엇 방법,5,F,ok,NIA_SL_SEN1370_REAL02_F_morpheme.json
+SEN1371,송파 지하철 길 무엇 방법,5,F,ok,NIA_SL_SEN1371_REAL02_F_morpheme.json
+SEN1372,송파 지하철 목적 무엇 방법,5,F,ok,NIA_SL_SEN1372_REAL02_F_morpheme.json
+SEN1373,송파 지하철 목적 길 가다 방법,6,F,ok,NIA_SL_SEN1373_REAL02_F_morpheme.json
+SEN1374,송파 지하철 가다 길 가다 방법,6,F,ok,NIA_SL_SEN1374_REAL02_F_morpheme.json
+SEN1375,송파 지하철 가다 원하다 길 가다 방법,7,F,ok,NIA_SL_SEN1375_REAL02_F_morpheme.json
+SEN1376,송파 지하철 찾다 길 가다 방법,6,F,ok,NIA_SL_SEN1376_REAL02_F_morpheme.json
+SEN1377,송파 지하철 곳 목적 무엇,5,F,ok,NIA_SL_SEN1377_REAL02_F_morpheme.json
+SEN1378,송파 지하철 길 목적 무엇,5,F,ok,NIA_SL_SEN1378_REAL02_F_morpheme.json
+SEN1379,송파 지하철 가다 목적 무엇,5,F,ok,NIA_SL_SEN1379_REAL02_F_morpheme.json
+SEN1380,송파 지하철 찾다 목적 무엇,5,F,ok,NIA_SL_SEN1380_REAL02_F_morpheme.json
+SEN1381,송파 지하철 곳 목적 방법,5,F,ok,NIA_SL_SEN1381_REAL02_F_morpheme.json
+SEN1382,송파 지하철 길 가다 목적 방법,6,F,ok,NIA_SL_SEN1382_REAL02_F_morpheme.json
+SEN1383,여의도 방법,2,F,ok,NIA_SL_SEN1383_REAL02_F_morpheme.json
+SEN1384,여의도 곳 방법,3,F,ok,NIA_SL_SEN1384_REAL02_F_morpheme.json
+SEN1385,여의도 길 방법,3,F,ok,NIA_SL_SEN1385_REAL02_F_morpheme.json
+SEN1386,여의도 목적 방법,3,F,ok,NIA_SL_SEN1386_REAL02_F_morpheme.json
+SEN1387,여의도 가다 원하다 방법,4,F,ok,NIA_SL_SEN1387_REAL02_F_morpheme.json
+SEN1388,여의도 찾다 방법,3,F,ok,NIA_SL_SEN1388_REAL02_F_morpheme.json
+SEN1389,여의도 무엇,2,F,ok,NIA_SL_SEN1389_REAL02_F_morpheme.json
+SEN1390,여의도 곳 무엇,3,F,ok,NIA_SL_SEN1390_REAL02_F_morpheme.json
+SEN1391,여의도 길 무엇,3,F,ok,NIA_SL_SEN1391_REAL02_F_morpheme.json
+SEN1392,여의도 목적 무엇,3,F,ok,NIA_SL_SEN1392_REAL02_F_morpheme.json
+SEN1393,여의도 가다 무엇,3,F,ok,NIA_SL_SEN1393_REAL02_F_morpheme.json
+SEN1394,여의도 가다 원하다 무엇,4,F,ok,NIA_SL_SEN1394_REAL02_F_morpheme.json
+SEN1395,여의도 찾다 무엇,3,F,ok,NIA_SL_SEN1395_REAL02_F_morpheme.json
+SEN1396,여의도 방법 무엇,3,F,ok,NIA_SL_SEN1396_REAL02_F_morpheme.json
+SEN1397,여의도 무엇 방법,3,F,ok,NIA_SL_SEN1397_REAL02_F_morpheme.json
+SEN1398,여의도 곳 방법,3,F,ok,NIA_SL_SEN1398_REAL02_F_morpheme.json
+SEN1399,여의도 길 방법,3,F,ok,NIA_SL_SEN1399_REAL02_F_morpheme.json
+SEN1400,여의도 길 무엇,3,F,ok,NIA_SL_SEN1400_REAL02_F_morpheme.json
+SEN1401,여의도 가다 방법,3,F,ok,NIA_SL_SEN1401_REAL02_F_morpheme.json
+SEN1402,여의도 길 가다 방법,4,F,ok,NIA_SL_SEN1402_REAL02_F_morpheme.json
+SEN1403,영등포 곳 찾다 방법 무엇,5,F,ok,NIA_SL_SEN1403_REAL02_F_morpheme.json
+SEN1404,영등포 길 찾다 방법 무엇,5,F,ok,NIA_SL_SEN1404_REAL02_F_morpheme.json
+SEN1405,영등포 곳 길 방법 무엇,5,F,ok,NIA_SL_SEN1405_REAL02_F_morpheme.json
+SEN1406,영등포 길 곳 방법 무엇,5,F,ok,NIA_SL_SEN1406_REAL02_F_morpheme.json
+SEN1407,영등포 곳 찾다 무엇 방법,5,F,ok,NIA_SL_SEN1407_REAL02_F_morpheme.json
+SEN1408,영등포 길 찾다 무엇 방법,5,F,ok,NIA_SL_SEN1408_REAL02_F_morpheme.json
+SEN1409,영등포 곳 길 무엇 방법,5,F,ok,NIA_SL_SEN1409_REAL02_F_morpheme.json
+SEN1410,영등포 길 곳 무엇 방법,5,F,ok,NIA_SL_SEN1410_REAL02_F_morpheme.json
+SEN1411,영등포 곳 찾다 곳 방법,5,F,ok,NIA_SL_SEN1411_REAL02_F_morpheme.json
+SEN1412,영등포 길 찾다 곳 방법,5,F,ok,NIA_SL_SEN1412_REAL02_F_morpheme.json
+SEN1413,영등포 곳 찾다 길 방법,5,F,ok,NIA_SL_SEN1413_REAL02_F_morpheme.json
+SEN1414,영등포 길 찾다 길 방법,5,F,ok,NIA_SL_SEN1414_REAL02_F_morpheme.json
+SEN1415,영등포 곳 찾다 길 무엇,5,F,ok,NIA_SL_SEN1415_REAL02_F_morpheme.json
+SEN1416,영등포 길 찾다 길 무엇,5,F,ok,NIA_SL_SEN1416_REAL02_F_morpheme.json
+SEN1417,영등포 곳 찾다 가다 방법,5,F,ok,NIA_SL_SEN1417_REAL02_F_morpheme.json
+SEN1418,영등포 곳 찾다 길 가다 방법,6,F,ok,NIA_SL_SEN1418_REAL02_F_morpheme.json
+SEN1419,영등포 곳 찾다 길 가다 방법,6,F,ok,NIA_SL_SEN1419_REAL02_F_morpheme.json
+SEN1420,영등포 길 찾다 길 가다 방법,6,F,ok,NIA_SL_SEN1420_REAL02_F_morpheme.json
+SEN1421,이화여대 가다 목적 방법,4,F,ok,NIA_SL_SEN1421_REAL02_F_morpheme.json
+SEN1422,이화여대 찾다 목적 방법,4,F,ok,NIA_SL_SEN1422_REAL02_F_morpheme.json
+SEN1423,이화여대 곳 목적 방법 무엇,5,F,ok,NIA_SL_SEN1423_REAL02_F_morpheme.json
+SEN1424,이화여대 길 목적 방법 무엇,5,F,ok,NIA_SL_SEN1424_REAL02_F_morpheme.json
+SEN1425,이화여대 가다 목적 방법 무엇,5,F,ok,NIA_SL_SEN1425_REAL02_F_morpheme.json
+SEN1426,이화여대 찾다 목적 방법 무엇,5,F,ok,NIA_SL_SEN1426_REAL02_F_morpheme.json
+SEN1427,이화여대 곳 목적 무엇 방법,5,F,ok,NIA_SL_SEN1427_REAL02_F_morpheme.json
+SEN1428,이화여대 길 목적 무엇 방법,5,F,ok,NIA_SL_SEN1428_REAL02_F_morpheme.json
+SEN1429,이화여대 가다 목적 무엇 방법,5,F,ok,NIA_SL_SEN1429_REAL02_F_morpheme.json
+SEN1430,이화여대 찾다 목적 무엇 방법,5,F,ok,NIA_SL_SEN1430_REAL02_F_morpheme.json
+SEN1431,이화여대 곳 목적 곳 방법,5,F,ok,NIA_SL_SEN1431_REAL02_F_morpheme.json
+SEN1432,이화여대 길 목적 곳 방법,5,F,ok,NIA_SL_SEN1432_REAL02_F_morpheme.json
+SEN1433,이화여대 가다 목적 곳 방법,5,F,ok,NIA_SL_SEN1433_REAL02_F_morpheme.json
+SEN1434,이화여대 찾다 목적 곳 방법,5,F,ok,NIA_SL_SEN1434_REAL02_F_morpheme.json
+SEN1435,이화여대 곳 목적 길 방법,5,F,ok,NIA_SL_SEN1435_REAL02_F_morpheme.json
+SEN1436,이화여대 길 목적 길 방법,5,F,ok,NIA_SL_SEN1436_REAL02_F_morpheme.json
+SEN1437,이화여대 가다 목적 길 방법,5,F,ok,NIA_SL_SEN1437_REAL02_F_morpheme.json
+SEN1438,이화여대 찾다 목적 길 방법,5,F,ok,NIA_SL_SEN1438_REAL02_F_morpheme.json
+SEN1439,이화여대 곳 목적 길 무엇,5,F,ok,NIA_SL_SEN1439_REAL02_F_morpheme.json
+SEN1440,이화여대 길 목적 길 무엇,5,F,ok,NIA_SL_SEN1440_REAL02_F_morpheme.json
+SEN1441,종로 곳 가다 무엇,4,F,ok,NIA_SL_SEN1441_REAL02_F_morpheme.json
+SEN1442,종로 찾다 가다 무엇,4,F,ok,NIA_SL_SEN1442_REAL02_F_morpheme.json
+SEN1443,종로 목적 가다 무엇,4,F,ok,NIA_SL_SEN1443_REAL02_F_morpheme.json
+SEN1444,종로 곳 가다 방법,4,F,ok,NIA_SL_SEN1444_REAL02_F_morpheme.json
+SEN1445,종로 찾다 가다 방법,4,F,ok,NIA_SL_SEN1445_REAL02_F_morpheme.json
+SEN1446,종로 목적 가다 방법,4,F,ok,NIA_SL_SEN1446_REAL02_F_morpheme.json
+SEN1447,종로 곳 가다 방법 무엇,5,F,ok,NIA_SL_SEN1447_REAL02_F_morpheme.json
+SEN1448,종로 찾다 가다 방법 무엇,5,F,ok,NIA_SL_SEN1448_REAL02_F_morpheme.json
+SEN1449,종로 목적 가다 방법 무엇,5,F,ok,NIA_SL_SEN1449_REAL02_F_morpheme.json
+SEN1450,종로 곳 가다 무엇 방법,5,F,ok,NIA_SL_SEN1450_REAL02_F_morpheme.json
+SEN1451,종로 찾다 가다 무엇 방법,5,F,ok,NIA_SL_SEN1451_REAL02_F_morpheme.json
+SEN1452,종로 목적 가다 무엇 방법,5,F,ok,NIA_SL_SEN1452_REAL02_F_morpheme.json
+SEN1453,종로 곳 가다 곳 방법,5,F,ok,NIA_SL_SEN1453_REAL02_F_morpheme.json
+SEN1454,종로 찾다 가다 곳 방법,5,F,ok,NIA_SL_SEN1454_REAL02_F_morpheme.json
+SEN1455,종로 곳 가다 곳 방법,5,F,ok,NIA_SL_SEN1455_REAL02_F_morpheme.json
+SEN1456,종로 곳 가다 길 방법,5,F,ok,NIA_SL_SEN1456_REAL02_F_morpheme.json
+SEN1457,종로 찾다 가다 길 방법,5,F,ok,NIA_SL_SEN1457_REAL02_F_morpheme.json
+SEN1458,종로 목적 가다 길 방법,5,F,ok,NIA_SL_SEN1458_REAL02_F_morpheme.json
+SEN1459,종로 곳 가다 길 무엇,5,F,ok,NIA_SL_SEN1459_REAL02_F_morpheme.json
+SEN1460,종로 곳 가다 원하다 길 무엇,6,F,ok,NIA_SL_SEN1460_REAL02_F_morpheme.json
+SEN1461,터널 다음 내리다,3,F,ok,NIA_SL_SEN1461_REAL02_F_morpheme.json
+SEN1462,터널 다음 내리다,3,F,ok,NIA_SL_SEN1462_REAL02_F_morpheme.json
+SEN1463,터널 다음 차내리다,3,F,ok,NIA_SL_SEN1463_REAL02_F_morpheme.json
+SEN1464,터널 다음 차내리다,3,F,ok,NIA_SL_SEN1464_REAL02_F_morpheme.json
+SEN1465,터널 다음 곳,3,F,ok,NIA_SL_SEN1465_REAL02_F_morpheme.json
+SEN1466,터널 다음 도착 내리다,4,F,ok,NIA_SL_SEN1466_REAL02_F_morpheme.json
+SEN1467,터널 다음 도착 내리다,4,F,ok,NIA_SL_SEN1467_REAL02_F_morpheme.json
+SEN1468,터널 다음 도착 차내리다,4,F,ok,NIA_SL_SEN1468_REAL02_F_morpheme.json
+SEN1469,터널 다음 도착 차내리다,4,F,ok,NIA_SL_SEN1469_REAL02_F_morpheme.json
+SEN1470,터널 다음 여기,3,F,ok,NIA_SL_SEN1470_REAL02_F_morpheme.json
+SEN1471,지하철 곳 다음 내리다,4,F,ok,NIA_SL_SEN1471_REAL02_F_morpheme.json
+SEN1472,지하철 곳 다음 내리다,4,F,ok,NIA_SL_SEN1472_REAL02_F_morpheme.json
+SEN1473,지하철 곳 다음 차내리다,4,F,ok,NIA_SL_SEN1473_REAL02_F_morpheme.json
+SEN1474,지하철 곳 다음 차내리다,4,F,ok,NIA_SL_SEN1474_REAL02_F_morpheme.json
+SEN1475,지하철 곳 다음 곳,4,F,ok,NIA_SL_SEN1475_REAL02_F_morpheme.json
+SEN1476,지하철 곳 다음 도착 내리다,5,F,ok,NIA_SL_SEN1476_REAL02_F_morpheme.json
+SEN1477,지하철 곳 다음 도착 내리다,5,F,ok,NIA_SL_SEN1477_REAL02_F_morpheme.json
+SEN1478,지하철 곳 다음 도착 차내리다,5,F,ok,NIA_SL_SEN1478_REAL02_F_morpheme.json
+SEN1479,지하철 곳 다음 도착 차내리다,5,F,ok,NIA_SL_SEN1479_REAL02_F_morpheme.json
+SEN1480,지하철 곳 다음 여기,4,F,ok,NIA_SL_SEN1480_REAL02_F_morpheme.json
+SEN1481,군청 곳 다음 내리다,4,F,ok,NIA_SL_SEN1481_REAL02_F_morpheme.json
+SEN1482,군청 곳 다음 내리다,4,F,ok,NIA_SL_SEN1482_REAL02_F_morpheme.json
+SEN1483,군청 곳 다음 차내리다,4,F,ok,NIA_SL_SEN1483_REAL02_F_morpheme.json
+SEN1484,군청 곳 다음 차내리다,4,F,ok,NIA_SL_SEN1484_REAL02_F_morpheme.json
+SEN1485,군청 곳 다음 곳,4,F,ok,NIA_SL_SEN1485_REAL02_F_morpheme.json
+SEN1486,군청 곳 다음 도착 내리다,5,F,ok,NIA_SL_SEN1486_REAL02_F_morpheme.json
+SEN1487,군청 곳 다음 도착 내리다,5,F,ok,NIA_SL_SEN1487_REAL02_F_morpheme.json
+SEN1488,군청 곳 다음 도착 차내리다,5,F,ok,NIA_SL_SEN1488_REAL02_F_morpheme.json
+SEN1489,군청 곳 다음 도착 차내리다,5,F,ok,NIA_SL_SEN1489_REAL02_F_morpheme.json
+SEN1490,군청 곳 다음 여기,4,F,ok,NIA_SL_SEN1490_REAL02_F_morpheme.json
+SEN1491,병원 다음 여기,3,F,ok,NIA_SL_SEN1491_REAL02_F_morpheme.json
+SEN1492,병원 다음 내리다,3,F,ok,NIA_SL_SEN1492_REAL02_F_morpheme.json
+SEN1493,병원 다음 내리다,3,F,ok,NIA_SL_SEN1493_REAL02_F_morpheme.json
+SEN1494,병원 다음 차내리다,3,F,ok,NIA_SL_SEN1494_REAL02_F_morpheme.json
+SEN1495,병원 다음 차내리다,3,F,ok,NIA_SL_SEN1495_REAL02_F_morpheme.json
+SEN1496,병원 저기 다음 곳,4,F,ok,NIA_SL_SEN1496_REAL02_F_morpheme.json
+SEN1497,병원 저기 다음 도착 내리다,5,F,ok,NIA_SL_SEN1497_REAL02_F_morpheme.json
+SEN1498,병원 저기 다음 도착 내리다,5,F,ok,NIA_SL_SEN1498_REAL02_F_morpheme.json
+SEN1499,병원 저기 다음 도착 차내리다,5,F,ok,NIA_SL_SEN1499_REAL02_F_morpheme.json
+SEN1500,병원 저기 다음 도착 차내리다,5,F,ok,NIA_SL_SEN1500_REAL02_F_morpheme.json
+SEN1501,샛길 다음 여기,3,F,ok,NIA_SL_SEN1501_REAL02_F_morpheme.json
+SEN1502,샛길 다음 내리다,3,F,ok,NIA_SL_SEN1502_REAL02_F_morpheme.json
+SEN1503,샛길 다음 내리다,3,F,ok,NIA_SL_SEN1503_REAL02_F_morpheme.json
+SEN1504,샛길 다음 차내리다,3,F,ok,NIA_SL_SEN1504_REAL02_F_morpheme.json
+SEN1505,샛길 다음 차내리다,3,F,ok,NIA_SL_SEN1505_REAL02_F_morpheme.json
+SEN1506,샛길 저기 다음 곳,4,F,ok,NIA_SL_SEN1506_REAL02_F_morpheme.json
+SEN1507,샛길 저기 다음 도착 내리다,5,F,ok,NIA_SL_SEN1507_REAL02_F_morpheme.json
+SEN1508,샛길 저기 다음 도착 내리다,5,F,ok,NIA_SL_SEN1508_REAL02_F_morpheme.json
+SEN1509,샛길 저기 다음 도착 차내리다,5,F,ok,NIA_SL_SEN1509_REAL02_F_morpheme.json
+SEN1510,샛길 저기 다음 도착 차내리다,5,F,ok,NIA_SL_SEN1510_REAL02_F_morpheme.json
+SEN1511,버스 곳 다음 여기,4,F,ok,NIA_SL_SEN1511_REAL02_F_morpheme.json
+SEN1512,버스 곳 다음 내리다,4,F,ok,NIA_SL_SEN1512_REAL02_F_morpheme.json
+SEN1513,버스 곳 다음 내리다,4,F,ok,NIA_SL_SEN1513_REAL02_F_morpheme.json
+SEN1514,버스 곳 다음 차내리다,4,F,ok,NIA_SL_SEN1514_REAL02_F_morpheme.json
+SEN1515,버스 곳 다음 차내리다,4,F,ok,NIA_SL_SEN1515_REAL02_F_morpheme.json
+SEN1516,버스 곳 저기 다음 곳,5,F,ok,NIA_SL_SEN1516_REAL02_F_morpheme.json
+SEN1517,버스 곳 저기 다음 도착 내리다,6,F,ok,NIA_SL_SEN1517_REAL02_F_morpheme.json
+SEN1518,버스 곳 저기 다음 도착 내리다,6,F,ok,NIA_SL_SEN1518_REAL02_F_morpheme.json
+SEN1519,버스 곳 저기 다음 도착 차내리다,6,F,ok,NIA_SL_SEN1519_REAL02_F_morpheme.json
+SEN1520,버스 곳 저기 다음 도착 차내리다,6,F,ok,NIA_SL_SEN1520_REAL02_F_morpheme.json
+SEN1521,119 곳 다음 여기,4,F,ok,NIA_SL_SEN1521_REAL02_F_morpheme.json
+SEN1522,119 곳 다음 내리다,4,F,ok,NIA_SL_SEN1522_REAL02_F_morpheme.json
+SEN1523,119 곳 다음 내리다,4,F,ok,NIA_SL_SEN1523_REAL02_F_morpheme.json
+SEN1524,119 곳 다음 차내리다,4,F,ok,NIA_SL_SEN1524_REAL02_F_morpheme.json
+SEN1525,119 곳 다음 차내리다,4,F,ok,NIA_SL_SEN1525_REAL02_F_morpheme.json
+SEN1526,119 곳 저기 다음 곳,5,F,ok,NIA_SL_SEN1526_REAL02_F_morpheme.json
+SEN1527,119 곳 저기 다음 도착 내리다,6,F,ok,NIA_SL_SEN1527_REAL02_F_morpheme.json
+SEN1528,119 곳 저기 다음 도착 내리다,6,F,ok,NIA_SL_SEN1528_REAL02_F_morpheme.json
+SEN1529,119 곳 저기 다음 도착 차내리다,6,F,ok,NIA_SL_SEN1529_REAL02_F_morpheme.json
+SEN1530,119 곳 저기 다음 도착 차내리다,6,F,ok,NIA_SL_SEN1530_REAL02_F_morpheme.json
+SEN1531,사거리 다음 내리다,3,F,ok,NIA_SL_SEN1531_REAL02_F_morpheme.json
+SEN1532,사거리 다음 내리다,3,F,ok,NIA_SL_SEN1532_REAL02_F_morpheme.json
+SEN1533,사거리 다음 차내리다,3,F,ok,NIA_SL_SEN1533_REAL02_F_morpheme.json
+SEN1534,사거리 다음 차내리다,3,F,ok,NIA_SL_SEN1534_REAL02_F_morpheme.json
+SEN1535,사거리 다음,2,F,ok,NIA_SL_SEN1535_REAL02_F_morpheme.json
+SEN1536,사거리 다음 도착 내리다,4,F,ok,NIA_SL_SEN1536_REAL02_F_morpheme.json
+SEN1537,사거리 다음 도착 내리다,4,F,ok,NIA_SL_SEN1537_REAL02_F_morpheme.json
+SEN1538,사거리 다음 도착 차내리다,4,F,ok,NIA_SL_SEN1538_REAL02_F_morpheme.json
+SEN1539,사거리 다음 도착 차내리다,4,F,ok,NIA_SL_SEN1539_REAL02_F_morpheme.json
+SEN1540,사거리 다음 여기,3,F,ok,NIA_SL_SEN1540_REAL02_F_morpheme.json
+SEN1541,대로 다음 내리다,3,F,ok,NIA_SL_SEN1541_REAL02_F_morpheme.json
+SEN1542,대로 다음 내리다,3,F,ok,NIA_SL_SEN1542_REAL02_F_morpheme.json
+SEN1543,대로 다음 차내리다,3,F,ok,NIA_SL_SEN1543_REAL02_F_morpheme.json
+SEN1544,대로 다음 차내리다,3,F,ok,NIA_SL_SEN1544_REAL02_F_morpheme.json
+SEN1545,대로 다음,2,F,ok,NIA_SL_SEN1545_REAL02_F_morpheme.json
+SEN1546,대로 다음 도착 내리다,4,F,ok,NIA_SL_SEN1546_REAL02_F_morpheme.json
+SEN1547,대로 다음 도착 내리다,4,F,ok,NIA_SL_SEN1547_REAL02_F_morpheme.json
+SEN1548,대로 다음 도착 차내리다,4,F,ok,NIA_SL_SEN1548_REAL02_F_morpheme.json
+SEN1549,대로 다음 도착 차내리다,4,F,ok,NIA_SL_SEN1549_REAL02_F_morpheme.json
+SEN1550,대로 다음 여기,3,F,ok,NIA_SL_SEN1550_REAL02_F_morpheme.json
+SEN1551,육교 곳 다음 내리다,4,F,ok,NIA_SL_SEN1551_REAL02_F_morpheme.json
+SEN1552,육교 곳 다음 내리다,4,F,ok,NIA_SL_SEN1552_REAL02_F_morpheme.json
+SEN1553,육교 곳 다음 차내리다,4,F,ok,NIA_SL_SEN1553_REAL02_F_morpheme.json
+SEN1554,육교 곳 다음 차내리다,4,F,ok,NIA_SL_SEN1554_REAL02_F_morpheme.json
+SEN1555,육교 곳 다음,3,F,ok,NIA_SL_SEN1555_REAL02_F_morpheme.json
+SEN1556,육교 곳 다음 도착 내리다,5,F,ok,NIA_SL_SEN1556_REAL02_F_morpheme.json
+SEN1557,육교 곳 다음 도착 내리다,5,F,ok,NIA_SL_SEN1557_REAL02_F_morpheme.json
+SEN1558,육교 곳 다음 도착 차내리다,5,F,ok,NIA_SL_SEN1558_REAL02_F_morpheme.json
+SEN1559,육교 곳 다음 도착 차내리다,5,F,ok,NIA_SL_SEN1559_REAL02_F_morpheme.json
+SEN1560,육교 곳 다음 여기,4,F,ok,NIA_SL_SEN1560_REAL02_F_morpheme.json
+SEN1561,보건소 곳 다음 내리다,4,F,ok,NIA_SL_SEN1561_REAL02_F_morpheme.json
+SEN1562,보건소 곳 다음 내리다,4,F,ok,NIA_SL_SEN1562_REAL02_F_morpheme.json
+SEN1563,보건소 곳 다음 차내리다,4,F,ok,NIA_SL_SEN1563_REAL02_F_morpheme.json
+SEN1564,보건소 곳 다음 차내리다,4,F,ok,NIA_SL_SEN1564_REAL02_F_morpheme.json
+SEN1565,보건소 곳 다음,3,F,ok,NIA_SL_SEN1565_REAL02_F_morpheme.json
+SEN1566,보건소 곳 다음 도착 내리다,5,F,ok,NIA_SL_SEN1566_REAL02_F_morpheme.json
+SEN1567,보건소 곳 다음 도착 내리다,5,F,ok,NIA_SL_SEN1567_REAL02_F_morpheme.json
+SEN1568,보건소 곳 다음 도착 차내리다,5,F,ok,NIA_SL_SEN1568_REAL02_F_morpheme.json
+SEN1569,보건소 곳 다음 도착 차내리다,5,F,ok,NIA_SL_SEN1569_REAL02_F_morpheme.json
+SEN1570,보건소 곳 다음 여기,4,F,ok,NIA_SL_SEN1570_REAL02_F_morpheme.json
+SEN1571,언덕 다음 여기,3,F,ok,NIA_SL_SEN1571_REAL02_F_morpheme.json
+SEN1572,언덕 저기 곳 다음 내리다,5,F,ok,NIA_SL_SEN1572_REAL02_F_morpheme.json
+SEN1573,언덕 저기 곳 다음 내리다,5,F,ok,NIA_SL_SEN1573_REAL02_F_morpheme.json
+SEN1574,언덕 저기 곳 다음 차내리다,5,F,ok,NIA_SL_SEN1574_REAL02_F_morpheme.json
+SEN1575,언덕 저기 곳 다음 차내리다,5,F,ok,NIA_SL_SEN1575_REAL02_F_morpheme.json
+SEN1576,언덕 저기 곳 다음,4,F,ok,NIA_SL_SEN1576_REAL02_F_morpheme.json
+SEN1577,언덕 저기 곳 다음 도착 내리다,6,F,ok,NIA_SL_SEN1577_REAL02_F_morpheme.json
+SEN1578,언덕 저기 곳 다음 도착 내리다,6,F,ok,NIA_SL_SEN1578_REAL02_F_morpheme.json
+SEN1579,언덕 저기 곳 다음 도착 차내리다,6,F,ok,NIA_SL_SEN1579_REAL02_F_morpheme.json
+SEN1580,언덕 저기 곳 다음 도착 차내리다,6,F,ok,NIA_SL_SEN1580_REAL02_F_morpheme.json
+SEN1581,은행 다음 여기,3,F,ok,NIA_SL_SEN1581_REAL02_F_morpheme.json
+SEN1582,은행 저기 곳 다음 내리다,5,F,ok,NIA_SL_SEN1582_REAL02_F_morpheme.json
+SEN1583,은행 저기 곳 다음 내리다,5,F,ok,NIA_SL_SEN1583_REAL02_F_morpheme.json
+SEN1584,은행 저기 곳 다음 차내리다,5,F,ok,NIA_SL_SEN1584_REAL02_F_morpheme.json
+SEN1585,은행 저기 곳 다음 차내리다,5,F,ok,NIA_SL_SEN1585_REAL02_F_morpheme.json
+SEN1586,은행 저기 곳 다음,4,F,ok,NIA_SL_SEN1586_REAL02_F_morpheme.json
+SEN1587,은행 저기 곳 다음 도착 내리다,6,F,ok,NIA_SL_SEN1587_REAL02_F_morpheme.json
+SEN1588,은행 저기 곳 다음 도착 내리다,6,F,ok,NIA_SL_SEN1588_REAL02_F_morpheme.json
+SEN1589,은행 저기 곳 다음 도착 차내리다,6,F,ok,NIA_SL_SEN1589_REAL02_F_morpheme.json
+SEN1590,은행 저기 곳 다음 도착 차내리다,6,F,ok,NIA_SL_SEN1590_REAL02_F_morpheme.json
+SEN1591,경찰 곳 다음,3,F,ok,NIA_SL_SEN1591_REAL02_F_morpheme.json
+SEN1592,경찰 저기 곳 다음 내리다,5,F,ok,NIA_SL_SEN1592_REAL02_F_morpheme.json
+SEN1593,경찰 저기 곳 다음 내리다,5,F,ok,NIA_SL_SEN1593_REAL02_F_morpheme.json
+SEN1594,경찰 저기 곳 다음 차내리다,5,F,ok,NIA_SL_SEN1594_REAL02_F_morpheme.json
+SEN1595,경찰 저기 곳 다음 차내리다,5,F,ok,NIA_SL_SEN1595_REAL02_F_morpheme.json
+SEN1596,경찰 저기 곳 다음,4,F,ok,NIA_SL_SEN1596_REAL02_F_morpheme.json
+SEN1597,경찰 저기 곳 다음 도착 내리다,6,F,ok,NIA_SL_SEN1597_REAL02_F_morpheme.json
+SEN1598,경찰 저기 곳 다음 도착 내리다,6,F,ok,NIA_SL_SEN1598_REAL02_F_morpheme.json
+SEN1599,경찰 저기 곳 다음 도착 차내리다,6,F,ok,NIA_SL_SEN1599_REAL02_F_morpheme.json
+SEN1600,경찰 저기 곳 다음 도착 차내리다,6,F,ok,NIA_SL_SEN1600_REAL02_F_morpheme.json
+SEN1601,편지 다음 여기,3,F,ok,NIA_SL_SEN1601_REAL02_F_morpheme.json
+SEN1602,편지 저기 곳 다음 내리다,5,F,ok,NIA_SL_SEN1602_REAL02_F_morpheme.json
+SEN1603,편지 저기 곳 다음 내리다,5,F,ok,NIA_SL_SEN1603_REAL02_F_morpheme.json
+SEN1604,편지 저기 곳 다음 차내리다,5,F,ok,NIA_SL_SEN1604_REAL02_F_morpheme.json
+SEN1605,편지 저기 곳 다음 차내리다,5,F,ok,NIA_SL_SEN1605_REAL02_F_morpheme.json
+SEN1606,편지 저기 곳 다음,4,F,ok,NIA_SL_SEN1606_REAL02_F_morpheme.json
+SEN1607,편지 저기 곳 다음 도착 내리다,6,F,ok,NIA_SL_SEN1607_REAL02_F_morpheme.json
+SEN1608,편지 저기 곳 다음 도착 내리다,6,F,ok,NIA_SL_SEN1608_REAL02_F_morpheme.json
+SEN1609,편지 저기 곳 다음 도착 차내리다,6,F,ok,NIA_SL_SEN1609_REAL02_F_morpheme.json
+SEN1610,편지 저기 곳 다음 도착 차내리다,6,F,ok,NIA_SL_SEN1610_REAL02_F_morpheme.json
+SEN1611,신호등 다음 내리다,3,F,ok,NIA_SL_SEN1611_REAL02_F_morpheme.json
+SEN1612,신호등 다음 내리다,3,F,ok,NIA_SL_SEN1612_REAL02_F_morpheme.json
+SEN1613,힘들다,1,F,ok,NIA_SL_SEN1613_REAL02_F_morpheme.json
+SEN1614,신호등 다음 차내리다,3,F,ok,NIA_SL_SEN1614_REAL02_F_morpheme.json
+SEN1615,신호등 다음 곳,3,F,ok,NIA_SL_SEN1615_REAL02_F_morpheme.json
+SEN1616,신호등 다음 도착 내리다,4,F,ok,NIA_SL_SEN1616_REAL02_F_morpheme.json
+SEN1617,신호등 다음 도착 내리다,4,F,ok,NIA_SL_SEN1617_REAL02_F_morpheme.json
+SEN1618,신호등 다음 도착 차내리다,4,F,ok,NIA_SL_SEN1618_REAL02_F_morpheme.json
+SEN1619,신호등 다음 도착 차내리다,4,F,ok,NIA_SL_SEN1619_REAL02_F_morpheme.json
+SEN1620,신호등 다음 여기,3,F,ok,NIA_SL_SEN1620_REAL02_F_morpheme.json
+SEN1621,터널 다음 내리다,3,F,ok,NIA_SL_SEN1621_REAL02_F_morpheme.json
+SEN1622,터널 다음 내리다,3,F,ok,NIA_SL_SEN1622_REAL02_F_morpheme.json
+SEN1623,터널 다음 차내리다,3,F,ok,NIA_SL_SEN1623_REAL02_F_morpheme.json
+SEN1624,터널 다음 차내리다,3,F,ok,NIA_SL_SEN1624_REAL02_F_morpheme.json
+SEN1625,터널 다음 곳,3,F,ok,NIA_SL_SEN1625_REAL02_F_morpheme.json
+SEN1626,터널 다음 도착 내리다,4,F,ok,NIA_SL_SEN1626_REAL02_F_morpheme.json
+SEN1627,터널 다음 도착 내리다,4,F,ok,NIA_SL_SEN1627_REAL02_F_morpheme.json
+SEN1628,터널 다음 도착 차내리다,4,F,ok,NIA_SL_SEN1628_REAL02_F_morpheme.json
+SEN1629,터널 다음 도착 차내리다,4,F,ok,NIA_SL_SEN1629_REAL02_F_morpheme.json
+SEN1630,터널 다음 여기,3,F,ok,NIA_SL_SEN1630_REAL02_F_morpheme.json
+SEN1631,지하철 곳 다음 내리다,4,F,ok,NIA_SL_SEN1631_REAL02_F_morpheme.json
+SEN1632,지하철 곳 다음 내리다,4,F,ok,NIA_SL_SEN1632_REAL02_F_morpheme.json
+SEN1633,지하철 곳 다음 차내리다,4,F,ok,NIA_SL_SEN1633_REAL02_F_morpheme.json
+SEN1634,지하철 곳 다음 차내리다,4,F,ok,NIA_SL_SEN1634_REAL02_F_morpheme.json
+SEN1635,지하철 곳 다음 곳,4,F,ok,NIA_SL_SEN1635_REAL02_F_morpheme.json
+SEN1636,지하철 곳 다음 도착 내리다,5,F,ok,NIA_SL_SEN1636_REAL02_F_morpheme.json
+SEN1637,지하철 곳 다음 도착 내리다,5,F,ok,NIA_SL_SEN1637_REAL02_F_morpheme.json
+SEN1638,지하철 곳 다음 도착 차내리다,5,F,ok,NIA_SL_SEN1638_REAL02_F_morpheme.json
+SEN1639,지하철 곳 다음 도착 차내리다,5,F,ok,NIA_SL_SEN1639_REAL02_F_morpheme.json
+SEN1640,지하철 곳 다음 여기,4,F,ok,NIA_SL_SEN1640_REAL02_F_morpheme.json
+SEN1641,군청 곳 다음 내리다,4,F,ok,NIA_SL_SEN1641_REAL02_F_morpheme.json
+SEN1642,군청 곳 다음 내리다,4,F,ok,NIA_SL_SEN1642_REAL02_F_morpheme.json
+SEN1643,군청 곳 다음 차내리다,4,F,ok,NIA_SL_SEN1643_REAL02_F_morpheme.json
+SEN1644,군청 곳 다음 차내리다,4,F,ok,NIA_SL_SEN1644_REAL02_F_morpheme.json
+SEN1645,군청 곳 다음 곳,4,F,ok,NIA_SL_SEN1645_REAL02_F_morpheme.json
+SEN1646,군청 곳 다음 도착 내리다,5,F,ok,NIA_SL_SEN1646_REAL02_F_morpheme.json
+SEN1647,군청 곳 다음 도착 내리다,5,F,ok,NIA_SL_SEN1647_REAL02_F_morpheme.json
+SEN1648,군청 곳 다음 도착 차내리다,5,F,ok,NIA_SL_SEN1648_REAL02_F_morpheme.json
+SEN1649,군청 곳 다음 도착 차내리다,5,F,ok,NIA_SL_SEN1649_REAL02_F_morpheme.json
+SEN1650,군청 곳 다음 여기,4,F,ok,NIA_SL_SEN1650_REAL02_F_morpheme.json
+SEN1651,병원 다음 여기,3,F,ok,NIA_SL_SEN1651_REAL02_F_morpheme.json
+SEN1652,병원 다음 내리다,3,F,ok,NIA_SL_SEN1652_REAL02_F_morpheme.json
+SEN1653,병원 다음 내리다,3,F,ok,NIA_SL_SEN1653_REAL02_F_morpheme.json
+SEN1654,병원 다음 차내리다,3,F,ok,NIA_SL_SEN1654_REAL02_F_morpheme.json
+SEN1655,병원 다음 차내리다,3,F,ok,NIA_SL_SEN1655_REAL02_F_morpheme.json
+SEN1656,병원 저기 다음 곳,4,F,ok,NIA_SL_SEN1656_REAL02_F_morpheme.json
+SEN1657,병원 저기 다음 도착 내리다,5,F,ok,NIA_SL_SEN1657_REAL02_F_morpheme.json
+SEN1658,병원 저기 다음 도착 내리다,5,F,ok,NIA_SL_SEN1658_REAL02_F_morpheme.json
+SEN1659,병원 저기 다음 도착 차내리다,5,F,ok,NIA_SL_SEN1659_REAL02_F_morpheme.json
+SEN1660,병원 저기 다음 도착 차내리다,5,F,ok,NIA_SL_SEN1660_REAL02_F_morpheme.json
+SEN1661,샛길 다음 여기,3,F,ok,NIA_SL_SEN1661_REAL02_F_morpheme.json
+SEN1662,샛길 다음 내리다,3,F,ok,NIA_SL_SEN1662_REAL02_F_morpheme.json
+SEN1663,샛길 다음 내리다,3,F,ok,NIA_SL_SEN1663_REAL02_F_morpheme.json
+SEN1664,샛길 다음 차내리다,3,F,ok,NIA_SL_SEN1664_REAL02_F_morpheme.json
+SEN1665,샛길 다음 차내리다,3,F,ok,NIA_SL_SEN1665_REAL02_F_morpheme.json
+SEN1666,샛길 저기 다음 곳,4,F,ok,NIA_SL_SEN1666_REAL02_F_morpheme.json
+SEN1667,샛길 저기 다음 도착 내리다,5,F,ok,NIA_SL_SEN1667_REAL02_F_morpheme.json
+SEN1668,샛길 저기 다음 도착 내리다,5,F,ok,NIA_SL_SEN1668_REAL02_F_morpheme.json
+SEN1669,샛길 저기 다음 도착 차내리다,5,F,ok,NIA_SL_SEN1669_REAL02_F_morpheme.json
+SEN1670,샛길 저기 다음 도착 차내리다,5,F,ok,NIA_SL_SEN1670_REAL02_F_morpheme.json
+SEN1671,버스 곳 다음 여기,4,F,ok,NIA_SL_SEN1671_REAL02_F_morpheme.json
+SEN1672,버스 곳 다음 내리다,4,F,ok,NIA_SL_SEN1672_REAL02_F_morpheme.json
+SEN1673,버스 곳 다음 내리다,4,F,ok,NIA_SL_SEN1673_REAL02_F_morpheme.json
+SEN1674,버스 곳 다음 차내리다,4,F,ok,NIA_SL_SEN1674_REAL02_F_morpheme.json
+SEN1675,버스 곳 다음 차내리다,4,F,ok,NIA_SL_SEN1675_REAL02_F_morpheme.json
+SEN1676,버스 곳 저기 다음 곳,5,F,ok,NIA_SL_SEN1676_REAL02_F_morpheme.json
+SEN1677,버스 곳 저기 다음 도착 내리다,6,F,ok,NIA_SL_SEN1677_REAL02_F_morpheme.json
+SEN1678,버스 곳 저기 다음 도착 내리다,6,F,ok,NIA_SL_SEN1678_REAL02_F_morpheme.json
+SEN1679,버스 곳 저기 다음 도착 차내리다,6,F,ok,NIA_SL_SEN1679_REAL02_F_morpheme.json
+SEN1680,버스 곳 저기 다음 도착 차내리다,6,F,ok,NIA_SL_SEN1680_REAL02_F_morpheme.json
+SEN1681,119 곳 다음 여기,4,F,ok,NIA_SL_SEN1681_REAL02_F_morpheme.json
+SEN1682,119 곳 다음 내리다,4,F,ok,NIA_SL_SEN1682_REAL02_F_morpheme.json
+SEN1683,119 곳 다음 내리다,4,F,ok,NIA_SL_SEN1683_REAL02_F_morpheme.json
+SEN1684,119 곳 다음 차내리다,4,F,ok,NIA_SL_SEN1684_REAL02_F_morpheme.json
+SEN1685,119 곳 다음 차내리다,4,F,ok,NIA_SL_SEN1685_REAL02_F_morpheme.json
+SEN1686,119 곳 저기 다음 곳,5,F,ok,NIA_SL_SEN1686_REAL02_F_morpheme.json
+SEN1687,119 곳 저기 다음 도착 내리다,6,F,ok,NIA_SL_SEN1687_REAL02_F_morpheme.json
+SEN1688,119 곳 저기 다음 도착 내리다,6,F,ok,NIA_SL_SEN1688_REAL02_F_morpheme.json
+SEN1689,119 곳 저기 다음 도착 차내리다,6,F,ok,NIA_SL_SEN1689_REAL02_F_morpheme.json
+SEN1690,119 곳 저기 다음 도착 차내리다,6,F,ok,NIA_SL_SEN1690_REAL02_F_morpheme.json
+SEN1691,사거리 다음 내리다,3,F,ok,NIA_SL_SEN1691_REAL02_F_morpheme.json
+SEN1692,사거리 다음 내리다,3,F,ok,NIA_SL_SEN1692_REAL02_F_morpheme.json
+SEN1693,사거리 다음 차내리다,3,F,ok,NIA_SL_SEN1693_REAL02_F_morpheme.json
+SEN1694,사거리 다음 차내리다,3,F,ok,NIA_SL_SEN1694_REAL02_F_morpheme.json
+SEN1695,사거리 다음,2,F,ok,NIA_SL_SEN1695_REAL02_F_morpheme.json
+SEN1696,사거리 다음 도착 내리다,4,F,ok,NIA_SL_SEN1696_REAL02_F_morpheme.json
+SEN1697,사거리 다음 도착 내리다,4,F,ok,NIA_SL_SEN1697_REAL02_F_morpheme.json
+SEN1698,사거리 다음 도착 차내리다,4,F,ok,NIA_SL_SEN1698_REAL02_F_morpheme.json
+SEN1699,사거리 다음 도착 차내리다,4,F,ok,NIA_SL_SEN1699_REAL02_F_morpheme.json
+SEN1700,사거리 다음 여기,3,F,ok,NIA_SL_SEN1700_REAL02_F_morpheme.json
+SEN1701,대로 다음 내리다,3,F,ok,NIA_SL_SEN1701_REAL02_F_morpheme.json
+SEN1702,대로 다음 내리다,3,F,ok,NIA_SL_SEN1702_REAL02_F_morpheme.json
+SEN1703,대로 다음 차내리다,3,F,ok,NIA_SL_SEN1703_REAL02_F_morpheme.json
+SEN1704,대로 다음 차내리다,3,F,ok,NIA_SL_SEN1704_REAL02_F_morpheme.json
+SEN1705,대로 다음,2,F,ok,NIA_SL_SEN1705_REAL02_F_morpheme.json
+SEN1706,대로 다음 도착 내리다,4,F,ok,NIA_SL_SEN1706_REAL02_F_morpheme.json
+SEN1707,대로 다음 도착 내리다,4,F,ok,NIA_SL_SEN1707_REAL02_F_morpheme.json
+SEN1708,대로 다음 도착 차내리다,4,F,ok,NIA_SL_SEN1708_REAL02_F_morpheme.json
+SEN1709,대로 다음 도착 차내리다,4,F,ok,NIA_SL_SEN1709_REAL02_F_morpheme.json
+SEN1710,대로 다음 여기,3,F,ok,NIA_SL_SEN1710_REAL02_F_morpheme.json
+SEN1711,육교 곳 다음 내리다,4,F,ok,NIA_SL_SEN1711_REAL02_F_morpheme.json
+SEN1712,육교 곳 다음 내리다,4,F,ok,NIA_SL_SEN1712_REAL02_F_morpheme.json
+SEN1713,육교 곳 다음 차내리다,4,F,ok,NIA_SL_SEN1713_REAL02_F_morpheme.json
+SEN1714,육교 곳 다음 차내리다,4,F,ok,NIA_SL_SEN1714_REAL02_F_morpheme.json
+SEN1715,육교 곳 다음,3,F,ok,NIA_SL_SEN1715_REAL02_F_morpheme.json
+SEN1716,육교 곳 다음 도착 내리다,5,F,ok,NIA_SL_SEN1716_REAL02_F_morpheme.json
+SEN1717,육교 곳 다음 도착 내리다,5,F,ok,NIA_SL_SEN1717_REAL02_F_morpheme.json
+SEN1718,육교 곳 다음 도착 차내리다,5,F,ok,NIA_SL_SEN1718_REAL02_F_morpheme.json
+SEN1719,육교 곳 다음 도착 차내리다,5,F,ok,NIA_SL_SEN1719_REAL02_F_morpheme.json
+SEN1720,육교 곳 다음 여기,4,F,ok,NIA_SL_SEN1720_REAL02_F_morpheme.json
+SEN1721,보건소 곳 다음 내리다,4,F,ok,NIA_SL_SEN1721_REAL02_F_morpheme.json
+SEN1722,보건소 곳 다음 내리다,4,F,ok,NIA_SL_SEN1722_REAL02_F_morpheme.json
+SEN1723,보건소 곳 다음 차내리다,4,F,ok,NIA_SL_SEN1723_REAL02_F_morpheme.json
+SEN1724,보건소 곳 다음 차내리다,4,F,ok,NIA_SL_SEN1724_REAL02_F_morpheme.json
+SEN1725,보건소 곳 다음,3,F,ok,NIA_SL_SEN1725_REAL02_F_morpheme.json
+SEN1726,보건소 곳 다음 도착 내리다,5,F,ok,NIA_SL_SEN1726_REAL02_F_morpheme.json
+SEN1727,보건소 곳 다음 도착 내리다,5,F,ok,NIA_SL_SEN1727_REAL02_F_morpheme.json
+SEN1728,보건소 곳 다음 도착 차내리다,5,F,ok,NIA_SL_SEN1728_REAL02_F_morpheme.json
+SEN1729,보건소 곳 다음 도착 차내리다,5,F,ok,NIA_SL_SEN1729_REAL02_F_morpheme.json
+SEN1730,보건소 곳 다음 여기,4,F,ok,NIA_SL_SEN1730_REAL02_F_morpheme.json
+SEN1731,언덕 다음 여기,3,F,ok,NIA_SL_SEN1731_REAL02_F_morpheme.json
+SEN1732,언덕 저기 곳 다음 내리다,5,F,ok,NIA_SL_SEN1732_REAL02_F_morpheme.json
+SEN1733,언덕 저기 곳 다음 내리다,5,F,ok,NIA_SL_SEN1733_REAL02_F_morpheme.json
+SEN1734,언덕 저기 곳 다음 차내리다,5,F,ok,NIA_SL_SEN1734_REAL02_F_morpheme.json
+SEN1735,언덕 저기 곳 다음 차내리다,5,F,ok,NIA_SL_SEN1735_REAL02_F_morpheme.json
+SEN1736,언덕 저기 곳 다음,4,F,ok,NIA_SL_SEN1736_REAL02_F_morpheme.json
+SEN1737,언덕 저기 곳 다음 도착 내리다,6,F,ok,NIA_SL_SEN1737_REAL02_F_morpheme.json
+SEN1738,언덕 저기 곳 다음 도착 내리다,6,F,ok,NIA_SL_SEN1738_REAL02_F_morpheme.json
+SEN1739,언덕 저기 곳 다음 도착 차내리다,6,F,ok,NIA_SL_SEN1739_REAL02_F_morpheme.json
+SEN1740,언덕 저기 곳 다음 도착 차내리다,6,F,ok,NIA_SL_SEN1740_REAL02_F_morpheme.json
+SEN1741,은행 다음 여기,3,F,ok,NIA_SL_SEN1741_REAL02_F_morpheme.json
+SEN1742,은행 저기 곳 다음 내리다,5,F,ok,NIA_SL_SEN1742_REAL02_F_morpheme.json
+SEN1743,은행 저기 곳 다음 내리다,5,F,ok,NIA_SL_SEN1743_REAL02_F_morpheme.json
+SEN1744,은행 저기 곳 다음 차내리다,5,F,ok,NIA_SL_SEN1744_REAL02_F_morpheme.json
+SEN1745,은행 저기 곳 다음 차내리다,5,F,ok,NIA_SL_SEN1745_REAL02_F_morpheme.json
+SEN1746,은행 저기 곳 다음,4,F,ok,NIA_SL_SEN1746_REAL02_F_morpheme.json
+SEN1747,은행 저기 곳 다음 도착 내리다,6,F,ok,NIA_SL_SEN1747_REAL02_F_morpheme.json
+SEN1748,은행 저기 곳 다음 도착 내리다,6,F,ok,NIA_SL_SEN1748_REAL02_F_morpheme.json
+SEN1749,은행 저기 곳 다음 도착 차내리다,6,F,ok,NIA_SL_SEN1749_REAL02_F_morpheme.json
+SEN1750,은행 저기 곳 다음 도착 차내리다,6,F,ok,NIA_SL_SEN1750_REAL02_F_morpheme.json
+SEN1751,경찰 다음 여기,3,F,ok,NIA_SL_SEN1751_REAL02_F_morpheme.json
+SEN1752,경찰 저기 곳 다음 내리다,5,F,ok,NIA_SL_SEN1752_REAL02_F_morpheme.json
+SEN1753,경찰 저기 곳 다음 내리다,5,F,ok,NIA_SL_SEN1753_REAL02_F_morpheme.json
+SEN1754,경찰 저기 곳 다음 차내리다,5,F,ok,NIA_SL_SEN1754_REAL02_F_morpheme.json
+SEN1755,경찰 저기 곳 다음 차내리다,5,F,ok,NIA_SL_SEN1755_REAL02_F_morpheme.json
+SEN1756,경찰 저기 곳 다음,4,F,ok,NIA_SL_SEN1756_REAL02_F_morpheme.json
+SEN1757,경찰 저기 곳 다음 도착 내리다,6,F,ok,NIA_SL_SEN1757_REAL02_F_morpheme.json
+SEN1758,경찰 저기 곳 다음 도착 내리다,6,F,ok,NIA_SL_SEN1758_REAL02_F_morpheme.json
+SEN1759,경찰 저기 곳 다음 도착 차내리다,6,F,ok,NIA_SL_SEN1759_REAL02_F_morpheme.json
+SEN1760,경찰 저기 곳 다음 도착 차내리다,6,F,ok,NIA_SL_SEN1760_REAL02_F_morpheme.json
+SEN1761,편지 다음 여기,3,F,ok,NIA_SL_SEN1761_REAL02_F_morpheme.json
+SEN1762,편지 저기 곳 다음 내리다,5,F,ok,NIA_SL_SEN1762_REAL02_F_morpheme.json
+SEN1763,편지 저기 곳 다음 내리다,5,F,ok,NIA_SL_SEN1763_REAL02_F_morpheme.json
+SEN1764,편지 저기 곳 다음 차내리다,5,F,ok,NIA_SL_SEN1764_REAL02_F_morpheme.json
+SEN1765,편지 저기 곳 다음 차내리다,5,F,ok,NIA_SL_SEN1765_REAL02_F_morpheme.json
+SEN1766,편지 저기 곳 다음,4,F,ok,NIA_SL_SEN1766_REAL02_F_morpheme.json
+SEN1767,편지 저기 곳 다음 도착 내리다,6,F,ok,NIA_SL_SEN1767_REAL02_F_morpheme.json
+SEN1768,편지 저기 곳 다음 도착 내리다,6,F,ok,NIA_SL_SEN1768_REAL02_F_morpheme.json
+SEN1769,편지 저기 곳 다음 도착 차내리다,6,F,ok,NIA_SL_SEN1769_REAL02_F_morpheme.json
+SEN1770,편지 저기 곳 다음 도착 차내리다,6,F,ok,NIA_SL_SEN1770_REAL02_F_morpheme.json
+SEN1771,맞다,1,F,ok,NIA_SL_SEN1771_REAL02_F_morpheme.json
+SEN1772,맞다,1,F,ok,NIA_SL_SEN1772_REAL02_F_morpheme.json
+SEN1773,알다,1,F,ok,NIA_SL_SEN1773_REAL02_F_morpheme.json
+SEN1774,알다,1,F,ok,NIA_SL_SEN1774_REAL02_F_morpheme.json
+SEN1775,필요없다,1,F,ok,NIA_SL_SEN1775_REAL02_F_morpheme.json
+SEN1776,필요없다,1,F,ok,NIA_SL_SEN1776_REAL02_F_morpheme.json
+SEN1777,가방 잃어버리다,2,F,ok,NIA_SL_SEN1777_REAL02_F_morpheme.json
+SEN1778,가방 없다 잃어버리다,3,F,ok,NIA_SL_SEN1778_REAL02_F_morpheme.json
+SEN1779,가방 실종,2,F,ok,NIA_SL_SEN1779_REAL02_F_morpheme.json
+SEN1780,가방 없다 실종,3,F,ok,NIA_SL_SEN1780_REAL02_F_morpheme.json
+SEN1781,가방 찾다 실종,3,F,ok,NIA_SL_SEN1781_REAL02_F_morpheme.json
+SEN1782,가방 사라지다 실종,3,F,ok,NIA_SL_SEN1782_REAL02_F_morpheme.json
+SEN1783,가방 잃어버리다 실종,3,F,ok,NIA_SL_SEN1783_REAL02_F_morpheme.json
+SEN1784,가방 실종 잃어버리다,3,F,ok,NIA_SL_SEN1784_REAL02_F_morpheme.json
+SEN1785,아이 잃어버리다,2,F,ok,NIA_SL_SEN1785_REAL02_F_morpheme.json
+SEN1786,아이 없다 잃어버리다,3,F,ok,NIA_SL_SEN1786_REAL02_F_morpheme.json
+SEN1787,아이 실종,2,F,ok,NIA_SL_SEN1787_REAL02_F_morpheme.json
+SEN1788,아이 없다 실종,3,F,ok,NIA_SL_SEN1788_REAL02_F_morpheme.json
+SEN1789,아이 찾다 실종,3,F,ok,NIA_SL_SEN1789_REAL02_F_morpheme.json
+SEN1790,아이 사라지다 실종,3,F,ok,NIA_SL_SEN1790_REAL02_F_morpheme.json
+SEN1791,아이 잃어버리다 실종,3,F,ok,NIA_SL_SEN1791_REAL02_F_morpheme.json
+SEN1792,아이 실종 잃어버리다,3,F,ok,NIA_SL_SEN1792_REAL02_F_morpheme.json
+SEN1793,열쇠 잃어버리다,2,F,ok,NIA_SL_SEN1793_REAL02_F_morpheme.json
+SEN1794,열쇠 없다 잃어버리다,3,F,ok,NIA_SL_SEN1794_REAL02_F_morpheme.json
+SEN1795,열쇠 실종,2,F,ok,NIA_SL_SEN1795_REAL02_F_morpheme.json
+SEN1796,열쇠 없다 실종,3,F,ok,NIA_SL_SEN1796_REAL02_F_morpheme.json
+SEN1797,열쇠 찾다 실종,3,F,ok,NIA_SL_SEN1797_REAL02_F_morpheme.json
+SEN1798,열쇠 사라지다 실종,3,F,ok,NIA_SL_SEN1798_REAL02_F_morpheme.json
+SEN1799,열쇠 잃어버리다 실종,3,F,ok,NIA_SL_SEN1799_REAL02_F_morpheme.json
+SEN1800,열쇠 실종 잃어버리다,3,F,ok,NIA_SL_SEN1800_REAL02_F_morpheme.json
+SEN1801,우산 잃어버리다,2,F,ok,NIA_SL_SEN1801_REAL02_F_morpheme.json
+SEN1802,우산 없다 잃어버리다,3,F,ok,NIA_SL_SEN1802_REAL02_F_morpheme.json
+SEN1803,우산 실종,2,F,ok,NIA_SL_SEN1803_REAL02_F_morpheme.json
+SEN1804,우산 없다 실종,3,F,ok,NIA_SL_SEN1804_REAL02_F_morpheme.json
+SEN1805,우산 찾다 실종,3,F,ok,NIA_SL_SEN1805_REAL02_F_morpheme.json
+SEN1806,우산 사라지다 실종,3,F,ok,NIA_SL_SEN1806_REAL02_F_morpheme.json
+SEN1807,우산 잃어버리다 실종,3,F,ok,NIA_SL_SEN1807_REAL02_F_morpheme.json
+SEN1808,우산 실종 잃어버리다,3,F,ok,NIA_SL_SEN1808_REAL02_F_morpheme.json
+SEN1809,지갑 잃어버리다,2,F,ok,NIA_SL_SEN1809_REAL02_F_morpheme.json
+SEN1810,지갑 없다 잃어버리다,3,F,ok,NIA_SL_SEN1810_REAL02_F_morpheme.json
+SEN1811,지갑 실종,2,F,ok,NIA_SL_SEN1811_REAL02_F_morpheme.json
+SEN1812,지갑 없다 실종,3,F,ok,NIA_SL_SEN1812_REAL02_F_morpheme.json
+SEN1813,지갑 찾다 실종,3,F,ok,NIA_SL_SEN1813_REAL02_F_morpheme.json
+SEN1814,지갑 사라지다 실종,3,F,ok,NIA_SL_SEN1814_REAL02_F_morpheme.json
+SEN1815,지갑 잃어버리다 실종,3,F,ok,NIA_SL_SEN1815_REAL02_F_morpheme.json
+SEN1816,지갑 실종 잃어버리다,3,F,ok,NIA_SL_SEN1816_REAL02_F_morpheme.json
+SEN1817,카드 잃어버리다,2,F,ok,NIA_SL_SEN1817_REAL02_F_morpheme.json
+SEN1818,카드 없다 잃어버리다,3,F,ok,NIA_SL_SEN1818_REAL02_F_morpheme.json
+SEN1819,카드 실종,2,F,ok,NIA_SL_SEN1819_REAL02_F_morpheme.json
+SEN1820,카드 없다 실종,3,F,ok,NIA_SL_SEN1820_REAL02_F_morpheme.json
+SEN1821,카드 찾다 실종,3,F,ok,NIA_SL_SEN1821_REAL02_F_morpheme.json
+SEN1822,카드 사라지다 실종,3,F,ok,NIA_SL_SEN1822_REAL02_F_morpheme.json
+SEN1823,카드 잃어버리다 실종,3,F,ok,NIA_SL_SEN1823_REAL02_F_morpheme.json
+SEN1824,카드 실종 잃어버리다,3,F,ok,NIA_SL_SEN1824_REAL02_F_morpheme.json
+SEN1825,우회전 맞다,2,F,ok,NIA_SL_SEN1825_REAL02_F_morpheme.json
+SEN1826,우회전 맞다,2,F,ok,NIA_SL_SEN1826_REAL02_F_morpheme.json
+SEN1827,우회전 맞다,2,F,ok,NIA_SL_SEN1827_REAL02_F_morpheme.json
+SEN1828,우회전 맞다,2,F,ok,NIA_SL_SEN1828_REAL02_F_morpheme.json
+SEN1829,우회전 확인 맞다,3,F,ok,NIA_SL_SEN1829_REAL02_F_morpheme.json
+SEN1830,우회전 확인 맞다,3,F,ok,NIA_SL_SEN1830_REAL02_F_morpheme.json
+SEN1831,우회전 확인 맞다,3,F,ok,NIA_SL_SEN1831_REAL02_F_morpheme.json
+SEN1832,우회전 확인 맞다,3,F,ok,NIA_SL_SEN1832_REAL02_F_morpheme.json
+SEN1833,우회전 맞다,2,F,ok,NIA_SL_SEN1833_REAL02_F_morpheme.json
+SEN1834,우회전 맞다,2,F,ok,NIA_SL_SEN1834_REAL02_F_morpheme.json
+SEN1835,우회전 맞다,2,F,ok,NIA_SL_SEN1835_REAL02_F_morpheme.json
+SEN1836,우회전 맞다,2,F,ok,NIA_SL_SEN1836_REAL02_F_morpheme.json
+SEN1837,우회전 확인 맞다,3,F,ok,NIA_SL_SEN1837_REAL02_F_morpheme.json
+SEN1838,우회전 확인 맞다,3,F,ok,NIA_SL_SEN1838_REAL02_F_morpheme.json
+SEN1839,우회전 확인 맞다,3,F,ok,NIA_SL_SEN1839_REAL02_F_morpheme.json
+SEN1840,우회전 확인 맞다,3,F,ok,NIA_SL_SEN1840_REAL02_F_morpheme.json
+SEN1841,좌회전 맞다,2,F,ok,NIA_SL_SEN1841_REAL02_F_morpheme.json
+SEN1842,좌회전 맞다,2,F,ok,NIA_SL_SEN1842_REAL02_F_morpheme.json
+SEN1843,좌회전 맞다,2,F,ok,NIA_SL_SEN1843_REAL02_F_morpheme.json
+SEN1844,좌회전 맞다,2,F,ok,NIA_SL_SEN1844_REAL02_F_morpheme.json
+SEN1845,좌회전 확인 맞다,3,F,ok,NIA_SL_SEN1845_REAL02_F_morpheme.json
+SEN1846,좌회전 확인 맞다,3,F,ok,NIA_SL_SEN1846_REAL02_F_morpheme.json
+SEN1847,좌회전 확인 맞다,3,F,ok,NIA_SL_SEN1847_REAL02_F_morpheme.json
+SEN1848,좌회전 확인 맞다,3,F,ok,NIA_SL_SEN1848_REAL02_F_morpheme.json
+SEN1849,좌회전 맞다,2,F,ok,NIA_SL_SEN1849_REAL02_F_morpheme.json
+SEN1850,좌회전 맞다,2,F,ok,NIA_SL_SEN1850_REAL02_F_morpheme.json
+SEN1851,좌회전 맞다,2,F,ok,NIA_SL_SEN1851_REAL02_F_morpheme.json
+SEN1852,좌회전 맞다,2,F,ok,NIA_SL_SEN1852_REAL02_F_morpheme.json
+SEN1853,좌회전 확인 맞다,3,F,ok,NIA_SL_SEN1853_REAL02_F_morpheme.json
+SEN1854,좌회전 확인 맞다,3,F,ok,NIA_SL_SEN1854_REAL02_F_morpheme.json
+SEN1855,좌회전 확인 맞다,3,F,ok,NIA_SL_SEN1855_REAL02_F_morpheme.json
+SEN1856,좌회전 확인 맞다,3,F,ok,NIA_SL_SEN1856_REAL02_F_morpheme.json
+SEN1857,우산 실종,2,F,ok,NIA_SL_SEN1857_REAL02_F_morpheme.json
+SEN1858,우산 없다 실종,3,F,ok,NIA_SL_SEN1858_REAL02_F_morpheme.json
+SEN1859,우산 찾다 실종,3,F,ok,NIA_SL_SEN1859_REAL02_F_morpheme.json
+SEN1860,우산 사라지다 실종,3,F,ok,NIA_SL_SEN1860_REAL02_F_morpheme.json
+SEN1861,우산 잃어버리다 실종,3,F,ok,NIA_SL_SEN1861_REAL02_F_morpheme.json
+SEN1862,우산 실종 잃어버리다,3,F,ok,NIA_SL_SEN1862_REAL02_F_morpheme.json
+SEN1863,사진기 잃어버리다,2,F,ok,NIA_SL_SEN1863_REAL02_F_morpheme.json
+SEN1864,사진기 없다 잃어버리다,3,F,ok,NIA_SL_SEN1864_REAL02_F_morpheme.json
+SEN1865,사진기 실종,2,F,ok,NIA_SL_SEN1865_REAL02_F_morpheme.json
+SEN1866,사진기 없다 실종,3,F,ok,NIA_SL_SEN1866_REAL02_F_morpheme.json
+SEN1867,사진기 찾다 실종,3,F,ok,NIA_SL_SEN1867_REAL02_F_morpheme.json
+SEN1868,사진기 사라지다 실종,3,F,ok,NIA_SL_SEN1868_REAL02_F_morpheme.json
+SEN1869,가방 잃어버리다,2,F,ok,NIA_SL_SEN1869_REAL02_F_morpheme.json
+SEN1870,가방 없다 잃어버리다,3,F,ok,NIA_SL_SEN1870_REAL02_F_morpheme.json
+SEN1871,가방 실종,2,F,ok,NIA_SL_SEN1871_REAL02_F_morpheme.json
+SEN1872,가방 없다 실종,3,F,ok,NIA_SL_SEN1872_REAL02_F_morpheme.json
+SEN1873,가방 찾다 실종,3,F,ok,NIA_SL_SEN1873_REAL02_F_morpheme.json
+SEN1874,가방 사라지다 실종,3,F,ok,NIA_SL_SEN1874_REAL02_F_morpheme.json
+SEN1875,가방 잃어버리다 실종,3,F,ok,NIA_SL_SEN1875_REAL02_F_morpheme.json
+SEN1876,가방 실종 잃어버리다,3,F,ok,NIA_SL_SEN1876_REAL02_F_morpheme.json
+SEN1877,아이 잃어버리다,2,F,ok,NIA_SL_SEN1877_REAL02_F_morpheme.json
+SEN1878,아이 없다 잃어버리다,3,F,ok,NIA_SL_SEN1878_REAL02_F_morpheme.json
+SEN1879,아이 실종,2,F,ok,NIA_SL_SEN1879_REAL02_F_morpheme.json
+SEN1880,아이 없다 실종,3,F,ok,NIA_SL_SEN1880_REAL02_F_morpheme.json
+SEN1881,아이 찾다 실종,3,F,ok,NIA_SL_SEN1881_REAL02_F_morpheme.json
+SEN1882,아이 사라지다 실종,3,F,ok,NIA_SL_SEN1882_REAL02_F_morpheme.json
+SEN1883,아이 잃어버리다 실종,3,F,ok,NIA_SL_SEN1883_REAL02_F_morpheme.json
+SEN1884,아이 실종 잃어버리다,3,F,ok,NIA_SL_SEN1884_REAL02_F_morpheme.json
+SEN1885,지갑 찾다 실종,3,F,ok,NIA_SL_SEN1885_REAL02_F_morpheme.json
+SEN1886,지갑 사라지다 실종,3,F,ok,NIA_SL_SEN1886_REAL02_F_morpheme.json
+SEN1887,지갑 잃어버리다 실종,3,F,ok,NIA_SL_SEN1887_REAL02_F_morpheme.json
+SEN1888,지갑 실종 잃어버리다,3,F,ok,NIA_SL_SEN1888_REAL02_F_morpheme.json
+SEN1889,안경 찾다 실종,3,F,ok,NIA_SL_SEN1889_REAL02_F_morpheme.json
+SEN1890,안경 사라지다 실종,3,F,ok,NIA_SL_SEN1890_REAL02_F_morpheme.json
+SEN1891,안경 잃어버리다 실종,3,F,ok,NIA_SL_SEN1891_REAL02_F_morpheme.json
+SEN1892,안경 실종 잃어버리다,3,F,ok,NIA_SL_SEN1892_REAL02_F_morpheme.json
+SEN1893,핸드폰 잃어버리다,2,F,ok,NIA_SL_SEN1893_REAL02_F_morpheme.json
+SEN1894,핸드폰 없다 잃어버리다,3,F,ok,NIA_SL_SEN1894_REAL02_F_morpheme.json
+SEN1895,핸드폰 실종,2,F,ok,NIA_SL_SEN1895_REAL02_F_morpheme.json
+SEN1896,핸드폰 없다 실종,3,F,ok,NIA_SL_SEN1896_REAL02_F_morpheme.json
+SEN1897,핸드폰 찾다 실종,3,F,ok,NIA_SL_SEN1897_REAL02_F_morpheme.json
+SEN1898,핸드폰 사라지다 실종,3,F,ok,NIA_SL_SEN1898_REAL02_F_morpheme.json
+SEN1899,핸드폰 잃어버리다 실종,3,F,ok,NIA_SL_SEN1899_REAL02_F_morpheme.json
+SEN1900,핸드폰 실종 잃어버리다,3,F,ok,NIA_SL_SEN1900_REAL02_F_morpheme.json
+SEN1901,카드 잃어버리다,2,F,ok,NIA_SL_SEN1901_REAL02_F_morpheme.json
+SEN1902,카드 없다 잃어버리다,3,F,ok,NIA_SL_SEN1902_REAL02_F_morpheme.json
+SEN1903,카드 실종,2,F,ok,NIA_SL_SEN1903_REAL02_F_morpheme.json
+SEN1904,카드 없다 실종,3,F,ok,NIA_SL_SEN1904_REAL02_F_morpheme.json
+SEN1905,카드 찾다 실종,3,F,ok,NIA_SL_SEN1905_REAL02_F_morpheme.json
+SEN1906,카드 사라지다 실종,3,F,ok,NIA_SL_SEN1906_REAL02_F_morpheme.json
+SEN1907,유턴 맞다,2,F,ok,NIA_SL_SEN1907_REAL02_F_morpheme.json
+SEN1908,유턴 맞다,2,F,ok,NIA_SL_SEN1908_REAL02_F_morpheme.json
+SEN1909,유턴 맞다,2,F,ok,NIA_SL_SEN1909_REAL02_F_morpheme.json
+SEN1910,유턴 맞다,2,F,ok,NIA_SL_SEN1910_REAL02_F_morpheme.json
+SEN1911,유턴 맞다,2,F,ok,NIA_SL_SEN1911_REAL02_F_morpheme.json
+SEN1912,유턴 맞다,2,F,ok,NIA_SL_SEN1912_REAL02_F_morpheme.json
+SEN1913,유턴 맞다,2,F,ok,NIA_SL_SEN1913_REAL02_F_morpheme.json
+SEN1914,유턴 맞다,2,F,ok,NIA_SL_SEN1914_REAL02_F_morpheme.json
+SEN1915,유턴 맞다,2,F,ok,NIA_SL_SEN1915_REAL02_F_morpheme.json
+SEN1916,유턴 맞다,2,F,ok,NIA_SL_SEN1916_REAL02_F_morpheme.json
+SEN1917,차밀리다 기다리다,2,F,ok,NIA_SL_SEN1917_REAL02_F_morpheme.json
+SEN1918,차밀리다,1,F,ok,NIA_SL_SEN1918_REAL02_F_morpheme.json
+SEN1919,차밀리다 심하다,2,F,ok,NIA_SL_SEN1919_REAL02_F_morpheme.json
+SEN1920,차밀리다 괜찮다,2,F,ok,NIA_SL_SEN1920_REAL02_F_morpheme.json
+SEN1921,차밀리다 시간 괜찮다,3,F,ok,NIA_SL_SEN1921_REAL02_F_morpheme.json
+SEN1922,차밀리다 기다리다,2,F,ok,NIA_SL_SEN1922_REAL02_F_morpheme.json
+SEN1923,차밀리다,1,F,ok,NIA_SL_SEN1923_REAL02_F_morpheme.json
+SEN1924,차밀리다 심하다,2,F,ok,NIA_SL_SEN1924_REAL02_F_morpheme.json
+SEN1925,차밀리다 괜찮다,2,F,ok,NIA_SL_SEN1925_REAL02_F_morpheme.json
+SEN1926,차밀리다 시간 괜찮다,3,F,ok,NIA_SL_SEN1926_REAL02_F_morpheme.json
+SEN1927,돈,1,F,ok,NIA_SL_SEN1927_REAL02_F_morpheme.json
+SEN1928,돈,1,F,ok,NIA_SL_SEN1928_REAL02_F_morpheme.json
+SEN1929,돈,1,F,ok,NIA_SL_SEN1929_REAL02_F_morpheme.json
+SEN1930,돈,1,F,ok,NIA_SL_SEN1930_REAL02_F_morpheme.json
+SEN1931,돈,1,F,ok,NIA_SL_SEN1931_REAL02_F_morpheme.json
+SEN1932,돈,1,F,ok,NIA_SL_SEN1932_REAL02_F_morpheme.json
+SEN1933,돈,1,F,ok,NIA_SL_SEN1933_REAL02_F_morpheme.json
+SEN1934,돈,1,F,ok,NIA_SL_SEN1934_REAL02_F_morpheme.json
+SEN1935,돈,1,F,ok,NIA_SL_SEN1935_REAL02_F_morpheme.json
+SEN1936,돈,1,F,ok,NIA_SL_SEN1936_REAL02_F_morpheme.json
+SEN1937,돈,1,F,ok,NIA_SL_SEN1937_REAL02_F_morpheme.json
+SEN1938,돈,1,F,ok,NIA_SL_SEN1938_REAL02_F_morpheme.json
+SEN1939,돈,1,F,ok,NIA_SL_SEN1939_REAL02_F_morpheme.json
+SEN1940,돈,1,F,ok,NIA_SL_SEN1940_REAL02_F_morpheme.json
+SEN1941,카드 되다,2,F,ok,NIA_SL_SEN1941_REAL02_F_morpheme.json
+SEN1942,카드,1,F,ok,NIA_SL_SEN1942_REAL02_F_morpheme.json
+SEN1943,카드 되다,2,F,ok,NIA_SL_SEN1943_REAL02_F_morpheme.json
+SEN1944,카드 되다,2,F,ok,NIA_SL_SEN1944_REAL02_F_morpheme.json
+SEN1945,카드,1,F,ok,NIA_SL_SEN1945_REAL02_F_morpheme.json
+SEN1946,카드 되다,2,F,ok,NIA_SL_SEN1946_REAL02_F_morpheme.json
+SEN1947,영수증 필요,2,F,ok,NIA_SL_SEN1947_REAL02_F_morpheme.json
+SEN1948,영수증 필요,2,F,ok,NIA_SL_SEN1948_REAL02_F_morpheme.json
+SEN1949,영수증 필요,2,F,ok,NIA_SL_SEN1949_REAL02_F_morpheme.json
+SEN1950,영수증 원하다,2,F,ok,NIA_SL_SEN1950_REAL02_F_morpheme.json
+SEN1951,영수증 원하다,2,F,ok,NIA_SL_SEN1951_REAL02_F_morpheme.json
+SEN1952,사진기 잃어버리다 실종,3,F,ok,NIA_SL_SEN1952_REAL02_F_morpheme.json
+SEN1953,사진기 실종 잃어버리다,3,F,ok,NIA_SL_SEN1953_REAL02_F_morpheme.json
+SEN1954,시계 잃어버리다,2,F,ok,NIA_SL_SEN1954_REAL02_F_morpheme.json
+SEN1955,시계 없다 잃어버리다,3,F,ok,NIA_SL_SEN1955_REAL02_F_morpheme.json
+SEN1956,시계 실종,2,F,ok,NIA_SL_SEN1956_REAL02_F_morpheme.json
+SEN1957,시계 없다 실종,3,F,ok,NIA_SL_SEN1957_REAL02_F_morpheme.json
+SEN1958,시계 찾다 실종,3,F,ok,NIA_SL_SEN1958_REAL02_F_morpheme.json
+SEN1959,시계 사라지다 실종,3,F,ok,NIA_SL_SEN1959_REAL02_F_morpheme.json
+SEN1960,시계 잃어버리다 실종,3,F,ok,NIA_SL_SEN1960_REAL02_F_morpheme.json
+SEN1961,시계 실종 잃어버리다,3,F,ok,NIA_SL_SEN1961_REAL02_F_morpheme.json
+SEN1962,반지 잃어버리다,2,F,ok,NIA_SL_SEN1962_REAL02_F_morpheme.json
+SEN1963,반지 없다 잃어버리다,3,F,ok,NIA_SL_SEN1963_REAL02_F_morpheme.json
+SEN1964,반지 실종,2,F,ok,NIA_SL_SEN1964_REAL02_F_morpheme.json
+SEN1965,반지 없다 실종,3,F,ok,NIA_SL_SEN1965_REAL02_F_morpheme.json
+SEN1966,반지 찾다 실종,3,F,ok,NIA_SL_SEN1966_REAL02_F_morpheme.json
+SEN1967,반지 사라지다 실종,3,F,ok,NIA_SL_SEN1967_REAL02_F_morpheme.json
+SEN1968,반지 잃어버리다 실종,3,F,ok,NIA_SL_SEN1968_REAL02_F_morpheme.json
+SEN1969,반지 실종 잃어버리다,3,F,ok,NIA_SL_SEN1969_REAL02_F_morpheme.json
+SEN1970,노트북 잃어버리다,2,F,ok,NIA_SL_SEN1970_REAL02_F_morpheme.json
+SEN1971,노트북 없다 잃어버리다,3,F,ok,NIA_SL_SEN1971_REAL02_F_morpheme.json
+SEN1972,노트북 실종,2,F,ok,NIA_SL_SEN1972_REAL02_F_morpheme.json
+SEN1973,노트북 없다 실종,3,F,ok,NIA_SL_SEN1973_REAL02_F_morpheme.json
+SEN1974,노트북 찾다 실종,3,F,ok,NIA_SL_SEN1974_REAL02_F_morpheme.json
+SEN1975,노트북 사라지다 실종,3,F,ok,NIA_SL_SEN1975_REAL02_F_morpheme.json
+SEN1976,불편하다,1,F,ok,NIA_SL_SEN1976_REAL02_F_morpheme.json
+SEN1977,불편하다,1,F,ok,NIA_SL_SEN1977_REAL02_F_morpheme.json
+SEN1978,화나다,1,F,ok,NIA_SL_SEN1978_REAL02_F_morpheme.json
+SEN1979,화나다,1,F,ok,NIA_SL_SEN1979_REAL02_F_morpheme.json
+SEN1980,빨리 접근,2,F,ok,NIA_SL_SEN1980_REAL02_F_morpheme.json
+SEN1981,빨리 접근 가능,3,F,ok,NIA_SL_SEN1981_REAL02_F_morpheme.json
+SEN1982,빨리 접근 되다,3,F,ok,NIA_SL_SEN1982_REAL02_F_morpheme.json
+SEN1983,접근 도착,2,F,ok,NIA_SL_SEN1983_REAL02_F_morpheme.json
+SEN1984,접근 도착 가능,3,F,ok,NIA_SL_SEN1984_REAL02_F_morpheme.json
+SEN1985,접근 도착 되다,3,F,ok,NIA_SL_SEN1985_REAL02_F_morpheme.json
+SEN1986,빨리 접근,2,F,ok,NIA_SL_SEN1986_REAL02_F_morpheme.json
+SEN1987,빨리 접근 가능,3,F,ok,NIA_SL_SEN1987_REAL02_F_morpheme.json
+SEN1988,빨리 접근 되다,3,F,ok,NIA_SL_SEN1988_REAL02_F_morpheme.json
+SEN1989,접근 도착,2,F,ok,NIA_SL_SEN1989_REAL02_F_morpheme.json
+SEN1990,접근 도착 가능,3,F,ok,NIA_SL_SEN1990_REAL02_F_morpheme.json
+SEN1991,접근 도착 되다,3,F,ok,NIA_SL_SEN1991_REAL02_F_morpheme.json
+SEN1992,노트북 잃어버리다 실종,3,F,ok,NIA_SL_SEN1992_REAL02_F_morpheme.json
+SEN1993,노트북 실종 잃어버리다,3,F,ok,NIA_SL_SEN1993_REAL02_F_morpheme.json
+SEN1994,보청기 잃어버리다,2,F,ok,NIA_SL_SEN1994_REAL02_F_morpheme.json
+SEN1995,보청기 없다 잃어버리다,3,F,ok,NIA_SL_SEN1995_REAL02_F_morpheme.json
+SEN1996,보청기 실종,2,F,ok,NIA_SL_SEN1996_REAL02_F_morpheme.json
+SEN1997,보청기 없다 실종,3,F,ok,NIA_SL_SEN1997_REAL02_F_morpheme.json
+SEN1998,보청기 찾다 실종,3,F,ok,NIA_SL_SEN1998_REAL02_F_morpheme.json
+SEN1999,끝,1,F,ok,NIA_SL_SEN1999_REAL02_F_morpheme.json
+SEN2000,수고,1,F,ok,NIA_SL_SEN2000_REAL02_F_morpheme.json

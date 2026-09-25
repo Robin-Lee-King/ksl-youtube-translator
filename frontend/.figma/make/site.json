@@ -1,0 +1,14 @@
+{
+  "title": "공농",
+  "description": "Streamline on-the-job training with an intuitive platform that enhances learning experiences for employees and employers through structured modules and assessments.",
+  "icons": {
+    "icon": "/src/assets/favicon.png"
+  },
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}

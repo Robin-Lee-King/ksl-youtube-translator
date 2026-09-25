@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<title>동기화 테스트</title>
+<style>
+  body { font-family: sans-serif; max-width: 1320px; margin: 40px auto; }
+  .row { display: flex; gap: 16px; }
+  .col { flex: 1; }
+  .video-wrap {
+    position: relative;
+    width: 100%;
+    padding-top: 56.25%;
+    background: #000;
+    border-radius: 8px;
+    overflow: hidden;
+  }
+  .video-wrap iframe {
+    position: absolute;
+    top: 0; left: 0;
+    width: 100%; height: 100%;
+    border: 0;
+  }
+  .video-wrap video {
+    position: absolute;
+    top: 0; left: 0;
+    width: 100%; height: 100%;
+    border: 0;
+    object-fit: contain;
+  }
+  .controls { margin: 16px 0; }
+  button { padding: 8px 16px; margin-right: 8px; cursor: pointer; }
+  #status { font-size: 13px; color: #888; }
+</style>
+</head>
+<body>
+
+<h1>KSL-Tube 중간발표 시안</h1>
+
+<div class="row">
+  <div class="col">
+    <h3>원본 (YouTube)</h3>
+    <div class="video-wrap"><div id="ytplayer"></div></div>
+  </div>
+  <div class="col">
+    <h3>수어 영상</h3>
+    <div class="video-wrap">
+      <video id="signVideo" src="http://127.0.0.1:8000/static/results/presentation_demo.mp4"></video>
+    </div>
+  </div>
+</div>
+
+<div class="controls">
+  <button onclick="playBoth()">같이 재생</button>
+  <button onclick="pauseBoth()">같이 정지</button>
+</div>
+<div id="status">유튜브 플레이어 로딩 중...</div>
+
+<script src="https://www.youtube.com/iframe_api"></script>
+<script>
+  let ytPlayer;
+  const signVideo = document.getElementById('signVideo');
+  const statusEl = document.getElementById('status');
+
+  function onYouTubeIframeAPIReady() {
+    ytPlayer = new YT.Player('ytplayer', {
+      height: '100%',
+      width: '100%',
+      videoId: 'SzbapkKFugA',
+      events: {
+        onReady: () => { statusEl.textContent = '준비 완료. 같이 재생 버튼을 눌러보세요.'; },
+        onStateChange: onYtStateChange
+      }
+    });
+  }
+
+  function onYtStateChange(event) {
+    if (event.data === YT.PlayerState.PLAYING) signVideo.play();
+    else if (event.data === YT.PlayerState.PAUSED) signVideo.pause();
+  }
+
+  function playBoth() {
+    ytPlayer.playVideo();
+    signVideo.play();
+  }
+
+  function pauseBoth() {
+    ytPlayer.pauseVideo();
+    signVideo.pause();
+  }
+
+  setInterval(() => {
+    if (!ytPlayer || !ytPlayer.getCurrentTime || signVideo.readyState === 0) return;
+    const ytTime = ytPlayer.getCurrentTime();
+    const diff = Math.abs(ytTime - signVideo.currentTime);
+    if (diff > 0.4) signVideo.currentTime = ytTime;
+    statusEl.textContent = `원본: ${ytTime.toFixed(1)}s / 수어: ${signVideo.currentTime.toFixed(1)}s`;
+  }, 500);
+</script>
+
+</body>
+</html>
